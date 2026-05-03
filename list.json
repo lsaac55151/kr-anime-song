@@ -2,16 +2,25 @@
   {
     "id": 3,
     "name": "TULA (정재윤)",
-    "era": "00s",
     "description": "에너지 넘치는 가창력으로 수많은 소년들의 심금을 울렸습니다.",
     "songs": [
       {
         "title": "토리코 오프닝 노래",
         "youtubeId": "OuBBMqiKKgc"
+      },
+      {
+        "title": "파워레인저 다이노포스 ED - 모두모여라! 다이노포스!",
+        "youtubeId": "UE00W6Z9bq8"
+      },
+      {
+        "title": "요괴워치 오프닝",
+        "youtubeId": "r7sIS4EkNKo"
+      },
+      {
+        "title": "손바닥의 온기(25분 22초)",
+        "youtubeId": "9OdNSh2DI8k"
       }
     ],
-    "theme": "blue",
-    "favorite": false,
-    "date": 1714700000002
+    "date": 1777812145118
   }
 ]
