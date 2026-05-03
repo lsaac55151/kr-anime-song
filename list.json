@@ -1,677 +1,703 @@
-[
-  {
-    "id": 1777815949241,
-    "name": "유성운",
-    "description": "",
-    "songs": [
-      {
-        "title": "포켓몬 op (k)",
-        "youtubeId": "G8EIQ_9twYk"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777815949241
-  },
-  {
-    "id": 1777815905109,
-    "name": "정수성",
-    "description": "",
-    "songs": [
-      {
-        "title": "제목 없음",
-        "youtubeId": "_olQOyTe2Tw"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777815905109
-  },
-  {
-    "id": 1777815560507,
-    "name": "(불명)",
-    "description": "",
-    "songs": [
-      {
-        "title": "골판지 전사 OP (더빙판)",
-        "youtubeId": "Nxb2nM7oz0c"
-      },
-      {
-        "title": "썬더일레븐 2기 오프닝",
-        "youtubeId": "0Lv53G5DuiY"
-      },
-      {
-        "title": "썬더일레븐 GO 오프닝",
-        "youtubeId": "AIgHKjo2lEM"
-      },
-      {
-        "title": "썬더일레븐 mp3",
-        "youtubeId": "tZ3NT4UnaE4"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777815560507
-  },
-  {
-    "id": 1777815529764,
-    "name": "QWER",
-    "description": "",
-    "songs": [
-      {
-        "title": "SHOW DOWN(도굴왕 OP)",
-        "youtubeId": "_7WN5-2HPj0"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777815529764
-  },
-  {
-    "id": 1777815433989,
-    "name": "조경이(성우)",
-    "description": "",
-    "songs": [
-      {
-        "title": "케모노 프렌즈 오프닝 한국판",
-        "youtubeId": "Y11TBRkLTdk"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777815433989
-  },
-  {
-    "id": 1777815410123,
-    "name": "이지현(성우)",
-    "description": "",
-    "songs": [
-      {
-        "title": "케모노 프렌즈 오프닝 한국판",
-        "youtubeId": "Y11TBRkLTdk"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777815410123
-  },
-  {
-    "id": 1777815375459,
-    "name": "문유정(성우)",
-    "description": "",
-    "songs": [
-      {
-        "title": "케모노 프렌즈 오프닝 한국판",
-        "youtubeId": "Y11TBRkLTdk"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777815375459
-  },
-  {
-    "id": 1777815152541,
-    "name": "노라조",
-    "description": "",
-    "songs": [
-      {
-        "title": "제목 없음",
-        "youtubeId": "Xy01aoI7BII"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777815152541
-  },
-  {
-    "id": 1777815135529,
-    "name": "박영남",
-    "description": "",
-    "songs": [
-      {
-        "title": "[릴레이댄스] 극장판 짱구는 못말려: 초화려! 작열하는 떡잎마을 댄서즈",
-        "youtubeId": "ISeYHkdyxBA"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777815135529
-  },
-  {
-    "id": 1777815081965,
-    "name": "타이푼",
-    "description": "",
-    "songs": [
-      {
-        "title": "사랑을 주세요 - 타이푼 [개구리 중사 케로로 2기 엔딩곡] Full Ver.",
-        "youtubeId": "ICQXo55DDMk"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777815081965
-  },
-  {
-    "id": 1777814895288,
-    "name": "홍종명",
-    "description": "",
-    "songs": [
-      {
-        "title": "Digimon Adventure - opening (Original Animation Soundtrack)(디지몬 어드벤처(오프닝)...",
-        "youtubeId": "iTq_YxDbeoc"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777814895288
-  },
-  {
-    "id": 1777814856825,
-    "name": "F.T. 아일랜드",
-    "description": "",
-    "songs": [
-      {
-        "title": "토리코엔딩(풀버전)(한국어버전)(F.T.lsland)",
-        "youtubeId": "wLj9LOgVRkk"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777814856825
-  },
-  {
-    "id": 1777814717023,
-    "name": "윤하",
-    "description": "",
-    "songs": [
-      {
-        "title": "꿈속에서 (Time in Heaven) - Younha (환영의패왕 조로아크 OST)",
-        "youtubeId": "B1s6QdR2rK8"
-      },
-      {
-        "title": "혜성",
-        "youtubeId": "ZnR0JiQGxRE"
-      },
-      {
-        "title": "윤하(YOUNHA) - 염라 M/V",
-        "youtubeId": "iq1XuC4R024"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777814717023
-  },
-  {
-    "id": 1777814590831,
-    "name": "김훈희",
-    "description": "",
-    "songs": [
-      {
-        "title": "썬더일레븐 3기 오프닝",
-        "youtubeId": "gST-95BtSxo"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777814590832
-  },
-  {
-    "id": 1777814564775,
-    "name": "심규한",
-    "description": "",
-    "songs": [
-      {
-        "title": "썬더일레븐1기op",
-        "youtubeId": "qQhHKyl2fS0"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777814564775
-  },
-  {
-    "id": 1777814441458,
-    "name": "이명선",
-    "description": "",
-    "songs": [
-      {
-        "title": "제목 없음",
-        "youtubeId": "6QKUfffgs4M"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777814441458
-  },
-  {
-    "id": 1777814436824,
-    "name": "손종환",
-    "description": "",
-    "songs": [
-      {
-        "title": "제목 없음",
-        "youtubeId": "6QKUfffgs4M"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777814436824
-  },
-  {
-    "id": 1777814427672,
-    "name": "홍범기",
-    "description": "",
-    "songs": [
-      {
-        "title": "제목 없음",
-        "youtubeId": "6QKUfffgs4M"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777814427672
-  },
-  {
-    "id": 1777814420176,
-    "name": "이미자(성우)",
-    "description": "",
-    "songs": [
-      {
-        "title": "제목 없음",
-        "youtubeId": "6QKUfffgs4M"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777814420176
-  },
-  {
-    "id": 1777814343180,
-    "name": "서현진",
-    "description": "",
-    "songs": [
-      {
-        "title": "이누야샤 4기 오프닝 Grip!",
-        "youtubeId": "U472z9LDNUM"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777814343180
-  },
-  {
-    "id": 1777814196550,
-    "name": "유정석",
-    "description": "",
-    "songs": [
-      {
-        "title": "10. 질풍가도 (쾌걸 근육맨 2세, 여는 노래) - 유정석",
-        "youtubeId": "KNbElX-MppY"
-      },
-      {
-        "title": "유정석 - 승리의 약속",
-        "youtubeId": "wE6rinhbHh8"
-      },
-      {
-        "title": "아따맘마 OST - 오프닝 잘있어요",
-        "youtubeId": "2HvbINUEnrM"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777814196550
-  },
-  {
-    "id": 1777814182616,
-    "name": "신지(코요태)",
-    "description": "",
-    "songs": [
-      {
-        "title": "Yogurting - Always MV (HD)",
-        "youtubeId": "YAyu9_NInDA"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777814182616
-  },
-  {
-    "id": 1777814105988,
-    "name": "채민지(성우)",
-    "description": "",
-    "songs": [
-      {
-        "title": "케모노 프렌즈 오프닝 한국판",
-        "youtubeId": "Y11TBRkLTdk"
-      },
-      {
-        "title": "[케모노프렌즈]PPP가 부릅니다! 하늘드리머![더빙]",
-        "youtubeId": "vC8Uj-X5tZI"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777814105988
-  },
-  {
-    "id": 1777814097181,
-    "name": "김채하(성우)",
-    "description": "",
-    "songs": [
-      {
-        "title": "케모노 프렌즈 오프닝 한국판",
-        "youtubeId": "Y11TBRkLTdk"
-      },
-      {
-        "title": "[케모노프렌즈]PPP가 부릅니다! 하늘드리머![더빙]",
-        "youtubeId": "vC8Uj-X5tZI"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777814097181
-  },
-  {
-    "id": 1777814056282,
-    "name": "사문영(성우)",
-    "description": "",
-    "songs": [
-      {
-        "title": "케모노 프렌즈 오프닝 한국판",
-        "youtubeId": "Y11TBRkLTdk"
-      },
-      {
-        "title": "[케모노프렌즈]PPP가 부릅니다! 하늘드리머![더빙]",
-        "youtubeId": "vC8Uj-X5tZI"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777814056282
-  },
-  {
-    "id": 1777814025940,
-    "name": "김도영(성우)",
-    "description": "",
-    "songs": [
-      {
-        "title": "케모노 프렌즈 오프닝 한국판",
-        "youtubeId": "Y11TBRkLTdk"
-      },
-      {
-        "title": "[케모노프렌즈]PPP가 부릅니다! 하늘드리머![더빙]",
-        "youtubeId": "vC8Uj-X5tZI"
-      },
-      {
-        "title": "(Unofficial) 케이팝 데몬 헌터스 한국어 더빙 성우가 커버한 골든✨️GOLDEN covered by Korean VAs of Kpop Demon Hunters🎶",
-        "youtubeId": "VjCIAcMfj7I"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777814025940
-  },
-  {
-    "id": 1777814000631,
-    "name": "방연지(성우)",
-    "description": "",
-    "songs": [
-      {
-        "title": "케모노 프렌즈 오프닝 한국판",
-        "youtubeId": "Y11TBRkLTdk"
-      },
-      {
-        "title": "[케모노프렌즈]PPP가 부릅니다! 하늘드리머![더빙]",
-        "youtubeId": "vC8Uj-X5tZI"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777814000631
-  },
-  {
-    "id": 1777813758302,
-    "name": "이관제",
-    "description": "",
-    "songs": [
-      {
-        "title": "제목 없음",
-        "youtubeId": "PGiDbOTqeF0"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777813758302
-  },
-  {
-    "id": 1777813673089,
-    "name": "이성준",
-    "description": "",
-    "songs": [
-      {
-        "title": "제목 없음",
-        "youtubeId": "Sm4t_eETJ68"
-      },
-      {
-        "title": "파워레인저 엔진포스 엔딩",
-        "youtubeId": "SYn2bmUa4Oc"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777813673089
-  },
-  {
-    "id": 1777813607717,
-    "name": "차탄",
-    "description": "",
-    "songs": [
-      {
-        "title": "파워레인저 다이노포스 두 번째 오프닝 영상",
-        "youtubeId": "LO6WtTKypD0"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777813607717
-  },
-  {
-    "id": 1777813555868,
-    "name": "에스파(aespa)",
-    "description": "",
-    "songs": [
-      {
-        "title": "제목 없음",
-        "youtubeId": "JB8pXJiys-g"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777813555868
-  },
-  {
-    "id": 1777813495349,
-    "name": "DAY6",
-    "description": "",
-    "songs": [
-      {
-        "title": "[공식] 포켓몬스터: 메가볼티지 OP - Young K & 원필 (DAY6) 'Go Beyond' (TVA Ver.)",
-        "youtubeId": "MpJtLMtTPc0"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777813495349
-  },
-  {
-    "id": 1777813445377,
-    "name": "안태규",
-    "description": "",
-    "songs": [
-      {
-        "title": "제목 없음",
-        "youtubeId": "ro1TgG-_zig"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777813445377
-  },
-  {
-    "id": 1777813367650,
-    "name": "방대식",
-    "description": "",
-    "songs": [
-      {
-        "title": "우리는 모두 친구 (포켓몬스터 엔딩)",
-        "youtubeId": "4JWGj_o54UA"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777813367650
-  },
-  {
-    "id": 1777813261945,
-    "name": "전영호",
-    "description": "",
-    "songs": [
-      {
-        "title": "디지몬 어드벤처 오프닝 Butterfly 한글판 (노래 전영호)",
-        "youtubeId": "bVZGOuNojfs"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777813261945
-  },
-  {
-    "id": 1777813233852,
-    "name": "코요태",
-    "description": "",
-    "songs": [
-      {
-        "title": "원피스 오프닝 1기",
-        "youtubeId": "yI_-1EYQTbA"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777813233852
-  },
-  {
-    "id": 1777813203410,
-    "name": "양정화",
-    "description": "",
-    "songs": [
-      {
-        "title": "[캐릭캐릭체인지] 세라 | 블랙 다이아몬드 Shugo chara!",
-        "youtubeId": "uuLK0KfArJU"
-      },
-      {
-        "title": "양정화 - 케로로 행진곡 [가사.lyrics / 개구리 중사 케로로]",
-        "youtubeId": "FM6dwiFP0Us"
-      },
-      {
-        "title": "개구리중사케로로 6기 오프닝 [케로로 시대]",
-        "youtubeId": "IG3aWUAP8eI"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777813203411
-  },
-  {
-    "id": 1777813178546,
-    "name": "이용신",
-    "description": "",
-    "songs": [
-      {
-        "title": "캐릭캐릭체인지 OP오프닝 또다른 나",
-        "youtubeId": "w6fFkf78-mk"
-      },
-      {
-        "title": "나의 마음을 담아 ('달빛천사' 여는노래)",
-        "youtubeId": "960FzDWv0Mo"
-      },
-      {
-        "title": "요괴워치 오프닝",
-        "youtubeId": "r7sIS4EkNKo"
-      },
-      {
-        "title": "Hey baby-짱구는못말려 x파일 오프닝",
-        "youtubeId": "yxNsz27Hrns"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777813178546
-  },
-  {
-    "id": 1777813141333,
-    "name": "이영미",
-    "description": "",
-    "songs": [
-      {
-        "title": "Kikyochan Smile(미소의 세상) - ...of you (Ending Korean ver.)",
-        "youtubeId": "l2AimlN05zA"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777813141333
-  },
-  {
-    "id": 1777813079172,
-    "name": "윤공주",
-    "description": "",
-    "songs": [
-      {
-        "title": "미소의 세상 OP - 너에게만",
-        "youtubeId": "d4joBRMSG-Q"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777813079172
-  },
-  {
-    "id": 1777812952933,
-    "name": "나오미",
-    "description": "",
-    "songs": [
-      {
-        "title": "#애니메 [기동전사 건담 수성의 마녀] ED 「그대여 고귀할지어다」(한글더빙)",
-        "youtubeId": "BDvvzaEtXKQ"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777812952933
-  },
-  {
-    "id": 1777812854993,
-    "name": "장예나",
-    "description": "",
-    "songs": [
-      {
-        "title": "jump up, super star! (Korean cover)",
-        "youtubeId": "AGZfsK2fP-0"
-      },
-      {
-        "title": "Sword Art Online Opening - Crossing Field Korean Ver HD(소드아트 온라인 오프닝 한국버전 HD)",
-        "youtubeId": "qzADHrBG3QQ"
-      },
-      {
-        "title": "블랙불릿 한국어 OP 더빙",
-        "youtubeId": "ZZtQRVGNDD0"
-      },
-      {
-        "title": "슈퍼 시크릿 Super Secret / COVER",
-        "youtubeId": "_M9ICB33D3Y"
-      },
-      {
-        "title": "#애니메 [기동전사 건담 수성의 마녀] OP 「축복」(한글더빙)",
-        "youtubeId": "cWHMB1_pFic"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777812854993
-  },
-  {
-    "id": 3,
-    "name": "TULA (정재윤)",
-    "description": "에너지 넘치는 가창력으로 수많은 소년들의 심금을 울렸습니다.",
-    "songs": [
-      {
-        "title": "토리코 오프닝 노래",
-        "youtubeId": "OuBBMqiKKgc"
-      },
-      {
-        "title": "파워레인저 다이노포스 ED - 모두모여라! 다이노포스!",
-        "youtubeId": "UE00W6Z9bq8"
-      },
-      {
-        "title": "요괴워치 오프닝",
-        "youtubeId": "r7sIS4EkNKo"
-      },
-      {
-        "title": "손바닥의 온기(25분 22초)",
-        "youtubeId": "9OdNSh2DI8k"
-      },
-      {
-        "title": "Higher (비천강림)",
-        "youtubeId": "uL7hbjAUks4"
-      },
-      {
-        "title": "우리는 모두 친구 (포켓몬스터 엔딩)",
-        "youtubeId": "4JWGj_o54UA"
-      },
-      {
-        "title": "디지몬 어드벤처 오프닝 - 파워 업 - TULA - [Digimon Adventure Opening Theme Korea] 가사영상",
-        "youtubeId": "5LWWJyJ2r_0"
-      }
-    ],
-    "theme": "blue",
-    "date": 1777812145118
-  }
-]
+이해했습니다. 가수 중심의 아카이브에서 벗어나, 곡명(또는 유튜브 링크)을 중심으로 어떤 가수들이 그 곡을 불렀는지 한눈에 파악할 수 있는 기능은 정말 훌륭한 추가 요소입니다[cite: 6]. 같은 곡이 여러 번 등장하는 멀티 트랙의 묘미를 살릴 수 있겠네요.
+
+메인 화면의 **상단 네비게이션과 검색바 사이에 '보기 모드'를 전환할 수 있는 거대한 스위치(탭)**를 추가했습니다.
+
+**주요 기능 설명:**
+1.  **가수별 보기 (기존 탭):** 원래 쓰시던 대로 가수 중심의 카드가 나옵니다.
+2.  **곡별 보기 (새로운 탭):** 버튼을 누르면 뷰가 전환됩니다.
+    *   기존 JSON 데이터(`SINGER_DATA`)에 있는 수많은 노래들을 내부적으로 재조합하여 **고유한 영상(youtubeId 기준) 또는 곡명 기준**으로 묶어냅니다.
+    *   화면에는 **곡 제목이 크게 적힌 카드**들이 나타납니다.
+    *   카드 안에는 이 곡을 부른 가수들의 이름표(태그)가 모두 나열됩니다. 복수의 가수가 겹치면 당연히 리스트에 모두 기재됩니다.
+    *   해당 곡 카드를 클릭하면 그 유튜브 영상을 부른 가수들의 목록과 함께, 클릭 한 번으로 새 탭에서 영상을 틀 수 있는 팝업이 뜹니다.
+
+아래 전체 코드를 복사하여 덮어씌워 주시면 바로 작동합니다.
+
+```html
+<!DOCTYPE html>
+<html lang="ko" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>더빙판 아카이브 - GitHub Edition</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Phosphor Icons -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+    <script>
+        if (localStorage.getItem('theme') === 'dark' || (!localStorage.getItem('theme') && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.classList.add('dark');
+        }
+    </script>
+    <style>
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
+        .dark ::-webkit-scrollbar-thumb { background: #334155; }
+        
+        @keyframes slideUp { from { opacity: 0; transform: translateY(30px); } to { opacity: 1; transform: translateY(0); } }
+        .animate-slide-up { animation: slideUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards; }
+        
+        .glass { @apply bg-white/70 dark:bg-slate-900/70 backdrop-blur-2xl border border-white/20 dark:border-white/5 shadow-2xl; }
+        .tab-active { @apply bg-indigo-600 text-white shadow-lg shadow-indigo-500/30; }
+        
+        /* 토글 스위치용 애니메이션 */
+        .switch-transition { transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
+    </style>
+</head>
+<body class="bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 font-sans min-h-screen transition-colors duration-700">
+
+    <div id="app" class="p-4 md:p-8 pb-40 max-w-[1800px] mx-auto">
+        <!-- Top Navigation -->
+        <nav class="flex justify-between items-center mb-8 animate-slide-up">
+            <div class="flex items-center gap-5">
+                <div class="w-14 h-14 bg-indigo-600 rounded-2xl flex items-center justify-center rotate-3 shadow-xl">
+                    <i class="ph-fill ph-disc text-white text-3xl animate-spin-slow"></i>
+                </div>
+                <div>
+                    <h1 class="text-2xl font-black tracking-tight">DUBBING ARCHIVE</h1>
+                    <p class="text-[10px] font-black text-indigo-500 uppercase tracking-widest">Multi-Track Edition</p>
+                </div>
+            </div>
+            <div class="flex gap-3">
+                <button onclick="forceRefresh()" class="w-12 h-12 glass rounded-2xl flex items-center justify-center hover:text-indigo-500 transition-all shadow-sm" title="최신 데이터 다시 불러오기">
+                    <i id="refreshIcon" class="ph ph-arrows-clockwise text-xl"></i>
+                </button>
+                <button onclick="toggleTheme()" class="w-12 h-12 glass rounded-2xl flex items-center justify-center hover:text-indigo-500 transition-all shadow-sm">
+                    <i id="themeIcon" class="ph ph-sun text-xl"></i>
+                </button>
+            </div>
+        </nav>
+
+        <!-- 보기 모드 전환 탭 (가수별 / 곡별) -->
+        <div class="flex justify-center mb-10 animate-slide-up" style="animation-delay: 0.05s">
+            <div class="bg-slate-200/50 dark:bg-slate-800/50 p-1.5 rounded-2xl flex gap-1 relative shadow-inner">
+                <div id="tabBg" class="absolute inset-y-1.5 left-1.5 w-[calc(50%-6px)] bg-white dark:bg-slate-700 rounded-xl shadow-sm switch-transition z-0"></div>
+                <button onclick="switchViewMode('singer')" id="tabSinger" class="relative z-10 px-8 py-3 w-40 text-sm font-black text-indigo-600 dark:text-indigo-400 switch-transition">가수별 보기</button>
+                <button onclick="switchViewMode('song')" id="tabSong" class="relative z-10 px-8 py-3 w-40 text-sm font-bold text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-slate-200 switch-transition">곡별 보기</button>
+            </div>
+        </div>
+
+        <!-- Search Panel -->
+        <header class="text-center mb-12 animate-slide-up" style="animation-delay: 0.1s">
+            <div class="max-w-5xl mx-auto glass p-3 md:p-5 rounded-[3.5rem] flex flex-col md:flex-row gap-4 relative z-20">
+                <div class="relative flex-grow group">
+                    <i class="ph ph-magnifying-glass absolute left-6 top-1/2 -translate-y-1/2 text-slate-400 text-2xl group-focus-within:text-indigo-500 transition-colors"></i>
+                    <input 
+                        type="text" 
+                        id="searchInput"
+                        placeholder="이름, 곡명 검색..." 
+                        class="w-full pl-16 pr-8 py-5 bg-transparent border-none text-xl font-bold outline-none placeholder:text-slate-300 dark:placeholder:text-slate-700"
+                    >
+                </div>
+                <div class="flex gap-3 px-2 flex-wrap justify-center">
+                    <select id="sortSelect" onchange="renderCurrentView()" class="bg-slate-100 dark:bg-slate-800 px-6 py-4 rounded-[2rem] font-black text-sm outline-none cursor-pointer">
+                        <option value="newest">최신 등록순</option>
+                        <option value="name">가나다순</option>
+                    </select>
+                    <!-- 가수별 보기 모드일 때만 활성화 -->
+                    <button id="addSingerBtn" onclick="openEditModal()" class="px-8 py-4 bg-indigo-600 hover:bg-indigo-700 text-white font-black rounded-[2rem] shadow-xl shadow-indigo-500/30 transition-all flex items-center gap-2 active:scale-95">
+                        <i class="ph ph-plus-circle text-xl"></i> 추가하기
+                    </button>
+                </div>
+            </div>
+        </header>
+
+        <!-- Gallery / Loading -->
+        <main>
+            <div id="statusMessage" class="hidden py-20 text-center animate-slide-up"></div>
+            <!-- 카드들이 렌더링될 메인 그리드 -->
+            <div id="galleryGrid" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 xl:grid-cols-6 gap-6"></div>
+        </main>
+
+        <!-- Floating Tools -->
+        <div class="fixed bottom-10 left-1/2 -translate-x-1/2 z-50 flex items-center gap-4 animate-slide-up" style="animation-delay: 0.3s">
+            <div class="glass px-10 py-5 rounded-[2.5rem] flex items-center gap-8 shadow-3xl border-t border-white/30">
+                <div class="text-center"><p class="text-2xl font-black text-indigo-500" id="totalCount">0</p><p class="text-[8px] font-black text-slate-400 uppercase tracking-tighter" id="totalCountLabel">Artists</p></div>
+                <div class="h-8 w-px bg-slate-200 dark:bg-slate-800"></div>
+                <button onclick="copyDataToClipboard()" class="px-6 h-12 flex items-center gap-2 bg-indigo-600 rounded-xl text-white hover:bg-indigo-700 shadow-lg shadow-indigo-500/30 transition-all text-sm font-bold" title="JSON 내용 복사">
+                    <i class="ph ph-copy text-xl"></i> JSON 복사하기
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- [가수별 보기] Song List Modal -->
+    <div id="playerModal" class="hidden fixed inset-0 bg-slate-950/80 backdrop-blur-md z-[100] items-center justify-center p-4 cursor-pointer">
+        <div class="glass w-full max-w-5xl rounded-[4rem] flex flex-col max-h-[85vh] animate-slide-up cursor-default overflow-hidden relative" onclick="event.stopPropagation()">
+            <div class="p-8 md:p-12 border-b border-white/10 dark:border-white/5 bg-indigo-600 relative overflow-hidden shrink-0">
+                <div class="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] opacity-10"></div>
+                <div class="relative z-10 flex justify-between items-start">
+                    <div>
+                        <h3 id="playerTitle" class="text-3xl md:text-4xl font-black text-white mb-3"></h3>
+                        <p id="playerDesc" class="text-indigo-100 text-base leading-relaxed max-w-2xl line-clamp-2"></p>
+                    </div>
+                    <div class="flex gap-3 shrink-0">
+                        <button id="playerEditBtn" class="w-12 h-12 flex items-center justify-center rounded-full bg-white/20 text-white hover:bg-white hover:text-indigo-600 transition-all backdrop-blur-sm" title="아티스트 정보 수정">
+                            <i class="ph ph-pencil-simple text-xl font-bold"></i>
+                        </button>
+                        <button onclick="closeModal('playerModal')" class="w-12 h-12 flex items-center justify-center rounded-full bg-white/20 text-white hover:bg-white hover:text-indigo-600 transition-all backdrop-blur-sm" title="닫기">
+                            <i class="ph ph-x text-xl font-bold"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="p-8 md:p-12 overflow-y-auto custom-scrollbar flex-grow bg-white/50 dark:bg-slate-900/50">
+                <div id="songListContainer" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- [곡별 보기] Song Detail Modal -->
+    <div id="songDetailModal" class="hidden fixed inset-0 bg-slate-950/80 backdrop-blur-md z-[100] items-center justify-center p-4 cursor-pointer">
+        <div class="glass w-full max-w-4xl rounded-[4rem] flex flex-col max-h-[85vh] animate-slide-up cursor-default overflow-hidden relative" onclick="event.stopPropagation()">
+            <div class="p-8 md:p-12 border-b border-white/10 dark:border-white/5 bg-indigo-900 relative overflow-hidden shrink-0">
+                <div class="absolute inset-0 bg-gradient-to-r from-indigo-600 to-purple-600 opacity-80"></div>
+                <div class="relative z-10 flex justify-between items-start">
+                    <div class="pr-6">
+                        <span class="text-xs font-bold text-indigo-200 uppercase tracking-widest mb-2 block"><i class="ph-fill ph-music-notes"></i> SONG DETAILS</span>
+                        <h3 id="songDetailTitle" class="text-3xl md:text-4xl font-black text-white leading-tight"></h3>
+                    </div>
+                    <div class="flex gap-3 shrink-0">
+                        <button id="songDetailPlayBtn" class="w-12 h-12 flex items-center justify-center rounded-full bg-red-600 text-white hover:bg-red-500 hover:scale-110 transition-all shadow-lg" title="유튜브에서 재생">
+                            <i class="ph-fill ph-play text-xl ml-1"></i>
+                        </button>
+                        <button onclick="closeModal('songDetailModal')" class="w-12 h-12 flex items-center justify-center rounded-full bg-white/20 text-white hover:bg-white hover:text-indigo-900 transition-all backdrop-blur-sm" title="닫기">
+                            <i class="ph ph-x text-xl font-bold"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="p-8 md:p-12 overflow-y-auto custom-scrollbar flex-grow bg-white/50 dark:bg-slate-900/50 flex flex-col items-center">
+                
+                <!-- 썸네일 크게 표시 -->
+                <div class="w-full max-w-2xl bg-slate-900 rounded-3xl overflow-hidden shadow-2xl relative mb-10 group cursor-pointer" id="songDetailThumbWrapper">
+                    <div class="pt-[56.25%]"></div>
+                    <img id="songDetailThumb" src="" class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-all duration-500 opacity-90 group-hover:opacity-100">
+                    <div class="absolute inset-0 flex items-center justify-center bg-black/20 opacity-0 group-hover:opacity-100 transition-opacity">
+                        <div class="w-20 h-20 bg-red-600 rounded-full flex items-center justify-center shadow-xl transform scale-90 group-hover:scale-100 transition-transform"><i class="ph-fill ph-play text-white text-4xl ml-2"></i></div>
+                    </div>
+                </div>
+
+                <!-- 부른 가수 목록 -->
+                <div class="w-full max-w-2xl">
+                    <h4 class="text-sm font-black text-slate-500 dark:text-slate-400 mb-4 flex items-center gap-2"><i class="ph-bold ph-users"></i> 이 곡을 부른 가수 목록</h4>
+                    <div id="songDetailSingers" class="flex flex-wrap gap-3">
+                        <!-- 가수 태그들이 렌더링됨 -->
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Edit/Add Modal (정보 수정 전용 탭) -->
+    <div id="editModal" class="hidden fixed inset-0 bg-slate-950/80 backdrop-blur-xl z-[150] items-center justify-center p-4">
+        <!-- 기존 Edit 모달 코드와 동일 (길이 관계상 생략하지 않고 그대로 유지) -->
+        <div class="glass w-full max-w-3xl rounded-[3rem] overflow-hidden flex flex-col max-h-[90vh] animate-slide-up">
+            <div class="p-8 border-b border-white/10 flex justify-between items-center">
+                <h2 id="modalTitle" class="text-2xl font-black text-slate-800 dark:text-white">아티스트 기록</h2>
+                <button onclick="closeModal('editModal')" class="w-10 h-10 flex items-center justify-center hover:bg-slate-200 dark:hover:bg-slate-800 rounded-full transition-all"><i class="ph ph-x text-xl"></i></button>
+            </div>
+            <form id="singerForm" class="p-8 overflow-y-auto space-y-6 custom-scrollbar flex-grow">
+                <input type="hidden" id="editId">
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <div class="space-y-2"><label class="text-xs font-black text-slate-500 uppercase">가수 이름</label><input type="text" id="formName" required placeholder="예: 이용신" class="w-full px-5 py-3 bg-slate-100 dark:bg-slate-900 rounded-2xl border-none font-bold outline-none focus:ring-2 focus:ring-indigo-500 transition-all"></div>
+                    <div class="space-y-2"><label class="text-xs font-black text-slate-500 uppercase block mb-2">테마 컬러</label>
+                        <div class="flex gap-3">
+                            <label class="cursor-pointer group"><input type="radio" name="theme" value="pink" class="hidden peer" checked><div class="w-10 h-10 rounded-full bg-pink-500 border-4 border-transparent peer-checked:border-white dark:peer-checked:border-slate-800 shadow-sm ring-2 ring-transparent peer-checked:ring-pink-500 transition-all hover:scale-110"></div></label>
+                            <label class="cursor-pointer group"><input type="radio" name="theme" value="blue" class="hidden peer"><div class="w-10 h-10 rounded-full bg-blue-500 border-4 border-transparent peer-checked:border-white dark:peer-checked:border-slate-800 shadow-sm ring-2 ring-transparent peer-checked:ring-blue-500 transition-all hover:scale-110"></div></label>
+                            <label class="cursor-pointer group"><input type="radio" name="theme" value="yellow" class="hidden peer"><div class="w-10 h-10 rounded-full bg-yellow-400 border-4 border-transparent peer-checked:border-white dark:peer-checked:border-slate-800 shadow-sm ring-2 ring-transparent peer-checked:ring-yellow-400 transition-all hover:scale-110"></div></label>
+                            <label class="cursor-pointer group"><input type="radio" name="theme" value="purple" class="hidden peer"><div class="w-10 h-10 rounded-full bg-purple-500 border-4 border-transparent peer-checked:border-white dark:peer-checked:border-slate-800 shadow-sm ring-2 ring-transparent peer-checked:ring-purple-500 transition-all hover:scale-110"></div></label>
+                            <label class="cursor-pointer group"><input type="radio" name="theme" value="green" class="hidden peer"><div class="w-10 h-10 rounded-full bg-emerald-500 border-4 border-transparent peer-checked:border-white dark:peer-checked:border-slate-800 shadow-sm ring-2 ring-transparent peer-checked:ring-emerald-500 transition-all hover:scale-110"></div></label>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="space-y-3 bg-slate-50 dark:bg-slate-800/30 p-5 rounded-3xl border border-slate-100 dark:border-slate-800">
+                    <div class="flex justify-between items-center mb-1">
+                        <label class="text-xs font-black text-indigo-500 uppercase flex items-center gap-2"><i class="ph-fill ph-playlist text-base"></i> 곡 리스트 편집</label>
+                        <button type="button" onclick="addSongField()" class="text-[10px] font-bold bg-indigo-100 dark:bg-indigo-900/50 text-indigo-600 dark:text-indigo-400 px-3 py-1.5 rounded-xl hover:bg-indigo-200 transition-all flex items-center gap-1">
+                            <i class="ph-bold ph-plus"></i> 추가칸 생성
+                        </button>
+                    </div>
+                    <div id="songsListContainer" class="space-y-2"></div>
+                </div>
+
+                <div class="space-y-2">
+                    <label class="text-xs font-black text-slate-500 uppercase">아티스트 소개글</label>
+                    <textarea id="formDescription" rows="2" placeholder="간단한 소개나 추억을 적어주세요." class="w-full px-5 py-3 bg-slate-100 dark:bg-slate-900 rounded-2xl border-none outline-none focus:ring-2 focus:ring-indigo-500 transition-all resize-none"></textarea>
+                </div>
+            </form>
+            <div class="p-6 border-t border-white/10 flex gap-4 bg-slate-50 dark:bg-slate-900 shrink-0">
+                <button onclick="closeModal('editModal')" class="flex-grow py-3 bg-slate-200 dark:bg-slate-800 text-slate-600 dark:text-slate-300 rounded-xl font-black transition-all hover:bg-slate-300 text-sm">취소</button>
+                <button onclick="saveSinger()" class="flex-grow py-3 bg-indigo-600 text-white font-black rounded-xl shadow-lg hover:bg-indigo-700 transition-all text-sm">변경사항 저장 (로컬)</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const GITHUB_RAW_URL = "https://raw.githubusercontent.com/lsaac55151/kr-anime-song/refs/heads/main/list.json";
+        
+        let SINGER_DATA = [];
+        let SONG_DATA = []; // 곡별 뷰를 위해 가공된 데이터 배열
+        let currentViewMode = 'singer'; // 'singer' or 'song'
+
+        const themeColors = {
+            pink: { bg: 'bg-pink-50 dark:bg-pink-950/20' },
+            blue: { bg: 'bg-blue-50 dark:bg-blue-950/20' },
+            yellow: { bg: 'bg-yellow-50 dark:bg-yellow-950/20' },
+            purple: { bg: 'bg-purple-50 dark:bg-purple-950/20' },
+            green: { bg: 'bg-emerald-50 dark:bg-emerald-950/20' }
+        };
+
+        // --- 공통 유틸리티 ---
+        function extractYouTubeId(input) {
+            if (!input) return '';
+            const match = input.match(/(?:youtu\.be\/|youtube\.com\/(?:embed\/|v\/|watch\?v=|watch\?.+&v=))([^&?\n]{11})/);
+            return match ? match[1] : input.trim();
+        }
+
+        function copyDataToClipboard() {
+            if(SINGER_DATA.length === 0) return alert('복사할 데이터가 없습니다.');
+            const jsonData = JSON.stringify(SINGER_DATA, null, 2);
+            navigator.clipboard.writeText(jsonData).then(() => {
+                alert("데이터가 클립보드에 복사되었습니다!\nGitHub에 반영해주세요.");
+            }).catch(err => alert("복사에 실패했습니다."));
+        }
+
+        function toggleTheme() {
+            const isDark = document.documentElement.classList.toggle('dark');
+            localStorage.setItem('theme', isDark ? 'dark' : 'light');
+            document.getElementById('themeIcon').className = isDark ? 'ph ph-moon text-xl' : 'ph ph-sun text-xl';
+        }
+
+        // --- 데이터 로드 및 가공 ---
+        async function forceRefresh() {
+            const icon = document.getElementById('refreshIcon');
+            icon.classList.add('animate-spin'); 
+            await fetchGitHubData(); 
+            setTimeout(() => icon.classList.remove('animate-spin'), 500);
+        }
+
+        async function fetchGitHubData() {
+            const statusBox = document.getElementById('statusMessage');
+            const gridBox = document.getElementById('galleryGrid');
+            
+            try {
+                gridBox.innerHTML = '';
+                statusBox.classList.remove('hidden');
+                statusBox.innerHTML = `<i class="ph-fill ph-spinner-gap animate-spin text-4xl text-indigo-500 mb-4 inline-block"></i><p class="text-slate-500 font-bold">데이터를 불러오는 중...</p>`;
+                
+                const response = await fetch(`${GITHUB_RAW_URL}?t=${Date.now()}`, { cache: 'no-store' });
+                if (!response.ok) throw new Error('데이터 로드 실패');
+                
+                let rawData = await response.json();
+
+                SINGER_DATA = rawData.map(s => {
+                    if (s.works && !s.songs) {
+                        return { ...s, songs: s.works.map((t, i) => ({ title: t, youtubeId: i === 0 ? (s.youtubeId || '') : '' })) };
+                    }
+                    return s;
+                });
+
+                processSongData(); // 곡별 뷰를 위한 데이터 재조합
+                
+                statusBox.classList.add('hidden');
+                renderCurrentView();
+            } catch (error) {
+                statusBox.innerHTML = `<div class="inline-block p-8 bg-red-50 dark:bg-red-950/30 border border-red-200 rounded-[2rem]"><h3 class="text-xl font-bold text-red-600 mb-2">데이터 로드 실패</h3></div>`;
+            }
+        }
+
+        // [핵심] JSON 데이터를 '곡 중심'으로 재배열하는 함수
+        function processSongData() {
+            let songMap = new Map();
+            let dateCounter = Date.now(); // 임시 고유 정렬용 키
+
+            SINGER_DATA.forEach(singer => {
+                if (!singer.songs) return;
+                singer.songs.forEach(song => {
+                    if(!song.title) return;
+                    
+                    // 고유 키: 유튜브 링크가 있으면 유튜브 링크로, 없으면 제목 이름으로 그룹핑
+                    const uniqueKey = song.youtubeId || song.title.toLowerCase().replace(/\s/g, '');
+                    
+                    if (!songMap.has(uniqueKey)) {
+                        songMap.set(uniqueKey, {
+                            key: uniqueKey,
+                            title: song.title,
+                            youtubeId: song.youtubeId,
+                            singers: [],
+                            date: dateCounter--
+                        });
+                    }
+                    
+                    // 해당 곡을 부른 가수가 중복 등록되지 않게 방지
+                    const songEntry = songMap.get(uniqueKey);
+                    if (!songEntry.singers.find(s => s.id === singer.id)) {
+                        songEntry.singers.push({ id: singer.id, name: singer.name, theme: singer.theme });
+                    }
+                });
+            });
+
+            SONG_DATA = Array.from(songMap.values());
+        }
+
+        // --- 뷰 전환 및 렌더링 로직 ---
+        function switchViewMode(mode) {
+            currentViewMode = mode;
+            
+            // 토글 스위치 UI 업데이트
+            const tabBg = document.getElementById('tabBg');
+            const btnSinger = document.getElementById('tabSinger');
+            const btnSong = document.getElementById('tabSong');
+            
+            if (mode === 'singer') {
+                tabBg.style.transform = 'translateX(0)';
+                btnSinger.classList.replace('text-slate-500', 'text-indigo-600');
+                btnSinger.classList.replace('dark:text-slate-400', 'dark:text-indigo-400');
+                btnSinger.classList.replace('font-bold', 'font-black');
+                
+                btnSong.classList.replace('text-indigo-600', 'text-slate-500');
+                btnSong.classList.replace('dark:text-indigo-400', 'dark:text-slate-400');
+                btnSong.classList.replace('font-black', 'font-bold');
+                
+                document.getElementById('addSingerBtn').style.display = 'flex';
+                document.getElementById('totalCountLabel').textContent = 'Artists';
+            } else {
+                tabBg.style.transform = 'translateX(100%)';
+                btnSong.classList.replace('text-slate-500', 'text-indigo-600');
+                btnSong.classList.replace('dark:text-slate-400', 'dark:text-indigo-400');
+                btnSong.classList.replace('font-bold', 'font-black');
+                
+                btnSinger.classList.replace('text-indigo-600', 'text-slate-500');
+                btnSinger.classList.replace('dark:text-indigo-400', 'dark:text-slate-400');
+                btnSinger.classList.replace('font-black', 'font-bold');
+                
+                // 곡 모드에서는 '추가하기(가수 전용)' 버튼을 숨김
+                document.getElementById('addSingerBtn').style.display = 'none';
+                document.getElementById('totalCountLabel').textContent = 'Songs';
+            }
+            
+            document.getElementById('searchInput').value = '';
+            renderCurrentView();
+        }
+
+        function renderCurrentView() {
+            const query = document.getElementById('searchInput').value.toLowerCase();
+            const sortBy = document.getElementById('sortSelect').value;
+            const gridBox = document.getElementById('galleryGrid');
+
+            if (currentViewMode === 'singer') {
+                let filtered = SINGER_DATA.filter(s => s.name.toLowerCase().includes(query) || (s.songs && s.songs.some(song => song.title.toLowerCase().includes(query))));
+                if (sortBy === 'name') filtered.sort((a,b) => a.name.localeCompare(b.name));
+                else filtered.sort((a,b) => b.date - a.date); 
+                
+                gridBox.innerHTML = filtered.map(createSingerCard).join('');
+                document.getElementById('totalCount').textContent = filtered.length;
+            } else {
+                let filtered = SONG_DATA.filter(s => s.title.toLowerCase().includes(query) || s.singers.some(singer => singer.name.toLowerCase().includes(query)));
+                if (sortBy === 'name') filtered.sort((a,b) => a.title.localeCompare(b.title));
+                else filtered.sort((a,b) => b.date - a.date); 
+                
+                gridBox.innerHTML = filtered.map(createSongCard).join('');
+                document.getElementById('totalCount').textContent = filtered.length;
+            }
+        }
+
+        // --- 카드 생성 함수 ---
+        function createSingerCard(s) {
+            const colors = themeColors[s.theme] || themeColors.blue;
+            const firstSong = s.songs && s.songs.length > 0 ? s.songs[0] : null;
+            const thumbUrl = firstSong && firstSong.youtubeId ? `https://img.youtube.com/vi/${firstSong.youtubeId}/hqdefault.jpg` : 'https://images.unsplash.com/photo-1614680376593-902f74cf0d41?q=80&w=640&auto=format&fit=crop';
+            
+            const previewWorks = (s.songs || []).slice(0, 2).map(song => `<li class="flex items-center gap-1.5 truncate py-1.5 border-b border-slate-100 dark:border-white/5 last:border-0"><i class="ph ph-music-note text-slate-400 shrink-0 text-[10px]"></i><span class="text-[10px] font-bold truncate">${song.title}</span></li>`).join('');
+
+            return `
+                <div class="group relative flex flex-col glass rounded-3xl overflow-hidden hover:shadow-xl transition-all duration-500 animate-slide-up cursor-pointer border-none" onclick="openSingerModal(${s.id})">
+                    <div class="absolute top-4 right-4 z-30 opacity-0 group-hover:opacity-100 -translate-y-2 group-hover:translate-y-0 transition-all duration-300">
+                        <button onclick="deleteSinger(${s.id}, event)" class="w-8 h-8 bg-white/90 dark:bg-slate-800/90 rounded-full flex items-center justify-center text-red-500 hover:scale-110 shadow-sm"><i class="ph ph-trash text-sm"></i></button>
+                    </div>
+                    <div class="relative pt-[60%] overflow-hidden bg-slate-900">
+                        <img src="${thumbUrl}" class="absolute inset-0 w-full h-full object-cover group-hover:scale-110 opacity-80 group-hover:opacity-100 transition-all duration-500" onerror="this.src='https://images.unsplash.com/photo-1614680376593-902f74cf0d41?q=80&w=640'">
+                        <div class="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/10 to-transparent"></div>
+                        <div class="absolute bottom-4 left-4 pr-4"><h3 class="text-xl font-black text-white truncate">${s.name}</h3></div>
+                    </div>
+                    <div class="p-5 flex flex-col flex-grow bg-white dark:bg-slate-900">
+                        <p class="text-slate-500 dark:text-slate-400 text-[11px] mb-4 line-clamp-2">${s.description || '상세 정보를 확인하세요.'}</p>
+                        <div class="mt-auto ${colors.bg} rounded-xl p-3"><ul class="w-full">${previewWorks}</ul>${(s.songs||[]).length>2?`<p class="text-[9px] text-center text-slate-400 mt-2 font-bold">+ ${(s.songs.length-2)}곡 더보기</p>`:''}</div>
+                    </div>
+                </div>
+            `;
+        }
+
+        // [신규] 곡별 보기 용 카드
+        function createSongCard(s) {
+            const thumbUrl = s.youtubeId ? `https://img.youtube.com/vi/${s.youtubeId}/hqdefault.jpg` : 'https://images.unsplash.com/photo-1614680376593-902f74cf0d41?q=80&w=640&auto=format&fit=crop';
+            
+            // 이 곡을 부른 가수들의 이름 태그 (최대 3개 표시, 넘으면 +N)
+            const singerTags = s.singers.slice(0, 3).map(singer => {
+                const colors = themeColors[singer.theme] || themeColors.blue;
+                return `<span class="text-[10px] font-bold ${colors.bg.split(' ')[0].replace('bg-', 'text-').replace('-50', '-600')} dark:text-slate-300 bg-slate-100 dark:bg-slate-800 px-2 py-1 rounded-md border border-slate-200 dark:border-slate-700 truncate max-w-[80px]">${singer.name}</span>`;
+            }).join('');
+            
+            const extraSingers = s.singers.length > 3 ? `<span class="text-[10px] font-bold text-slate-400 px-1 py-1">+${s.singers.length - 3}</span>` : '';
+
+            return `
+                <div class="group relative flex flex-col glass rounded-3xl overflow-hidden hover:shadow-xl transition-all duration-500 animate-slide-up cursor-pointer border-none" onclick="openSongDetailModal('${s.key}')">
+                    <div class="relative pt-[56.25%] overflow-hidden bg-slate-900">
+                        <img src="${thumbUrl}" class="absolute inset-0 w-full h-full object-cover group-hover:scale-110 opacity-70 group-hover:opacity-100 transition-all duration-500" onerror="this.src='https://images.unsplash.com/photo-1614680376593-902f74cf0d41?q=80&w=640'">
+                        <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity"><div class="w-12 h-12 bg-red-600 rounded-full flex items-center justify-center shadow-lg transform scale-90 group-hover:scale-100 transition-transform"><i class="ph-fill ph-play text-white ml-1"></i></div></div>
+                    </div>
+                    <div class="p-5 flex flex-col flex-grow bg-white dark:bg-slate-900">
+                        <div class="flex items-start gap-2 mb-3">
+                            <i class="ph-fill ph-music-notes text-indigo-500 mt-1 shrink-0 text-sm"></i>
+                            <h3 class="font-black text-sm text-slate-800 dark:text-slate-100 line-clamp-2 leading-snug">${s.title}</h3>
+                        </div>
+                        <div class="mt-auto border-t border-slate-100 dark:border-slate-800 pt-3">
+                            <p class="text-[9px] font-bold text-slate-400 mb-2 uppercase tracking-widest">Sung By</p>
+                            <div class="flex flex-wrap gap-1.5 items-center">
+                                ${singerTags} ${extraSingers}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
+        // --- 모달 로직 ---
+        function closeModal(modalId) {
+            document.getElementById(modalId).classList.replace('flex', 'hidden');
+        }
+
+        // 1. 가수 모달 (playerModal)
+        const playerModal = document.getElementById('playerModal');
+        playerModal.addEventListener('click', (e) => { if (e.target === playerModal) closeModal('playerModal'); });
+
+        function openSingerModal(id) {
+            const s = SINGER_DATA.find(x => x.id === id);
+            if (!s) return;
+
+            document.getElementById('playerTitle').textContent = s.name;
+            document.getElementById('playerDesc').textContent = s.description || "기록된 추억이 없습니다.";
+            document.getElementById('playerEditBtn').onclick = () => { closeModal('playerModal'); openEditModal(id); };
+            
+            let songHtml = (s.songs || []).map(song => {
+                const thumbUrl = song.youtubeId ? `https://img.youtube.com/vi/${song.youtubeId}/hqdefault.jpg` : 'https://images.unsplash.com/photo-1614680376593-902f74cf0d41?q=80&w=640';
+                const clickable = song.youtubeId ? `onclick="window.open('https://www.youtube.com/watch?v=${song.youtubeId}', '_blank')"` : '';
+                const pointerClass = song.youtubeId ? 'cursor-pointer hover:-translate-y-1 hover:shadow-xl' : 'opacity-70 grayscale';
+                return `
+                <div class="bg-white dark:bg-slate-800 rounded-3xl overflow-hidden transition-all duration-300 group shadow-sm flex flex-col ${pointerClass}" ${clickable}>
+                    <div class="relative pt-[56.25%] bg-slate-900 overflow-hidden">
+                        <img src="${thumbUrl}" class="absolute inset-0 w-full h-full object-cover opacity-80 group-hover:opacity-100 group-hover:scale-105 transition-all">
+                        <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity bg-black/20"><div class="w-12 h-12 bg-red-600 rounded-full flex items-center justify-center shadow-lg scale-90 group-hover:scale-100"><i class="ph-fill ph-play text-white ml-1"></i></div></div>
+                    </div>
+                    <div class="p-4 flex items-start justify-between gap-3 bg-white dark:bg-slate-800 flex-grow">
+                        <span class="font-bold text-sm leading-snug line-clamp-2 mt-0.5">${song.title}</span>
+                    </div>
+                </div>`
+            }).join('');
+            
+            songHtml += `
+                <div id="quickAddCard_${id}" class="bg-slate-100/50 dark:bg-slate-800/30 rounded-3xl border-2 border-dashed border-slate-300 dark:border-slate-700 flex flex-col items-center justify-center min-h-[160px] transition-all group cursor-pointer" onclick="showQuickAddInput(${id})">
+                    <div class="w-14 h-14 bg-white dark:bg-slate-800 rounded-full flex items-center justify-center shadow-sm group-hover:scale-110 transition-all text-slate-400 group-hover:text-indigo-500 border border-slate-100 dark:border-slate-700"><i class="ph-bold ph-plus text-2xl"></i></div>
+                    <span class="mt-3 text-[11px] font-bold text-slate-400 group-hover:text-indigo-500 transition-colors">이 아티스트에 새 곡 추가</span>
+                </div>
+            `;
+            
+            document.getElementById('songListContainer').innerHTML = songHtml;
+            playerModal.classList.replace('hidden', 'flex');
+        }
+
+        // 2. 곡 상세 모달 (songDetailModal)
+        const detailModal = document.getElementById('songDetailModal');
+        detailModal.addEventListener('click', (e) => { if (e.target === detailModal) closeModal('songDetailModal'); });
+
+        function openSongDetailModal(key) {
+            const s = SONG_DATA.find(x => x.key === key);
+            if (!s) return;
+
+            document.getElementById('songDetailTitle').textContent = s.title;
+            
+            const thumbImg = document.getElementById('songDetailThumb');
+            const playBtn = document.getElementById('songDetailPlayBtn');
+            const thumbWrapper = document.getElementById('songDetailThumbWrapper');
+            
+            if (s.youtubeId) {
+                thumbImg.src = `https://img.youtube.com/vi/${s.youtubeId}/maxresdefault.jpg`;
+                // maxres가 없는 영상을 대비해 에러 발생 시 hq로 폴백
+                thumbImg.onerror = () => { thumbImg.src = `https://img.youtube.com/vi/${s.youtubeId}/hqdefault.jpg`; };
+                
+                const playAction = `window.open('https://www.youtube.com/watch?v=${s.youtubeId}', '_blank')`;
+                playBtn.setAttribute('onclick', playAction);
+                thumbWrapper.setAttribute('onclick', playAction);
+                
+                playBtn.classList.remove('hidden');
+                thumbWrapper.classList.remove('opacity-70', 'grayscale', 'cursor-default');
+                thumbWrapper.classList.add('cursor-pointer', 'group');
+            } else {
+                thumbImg.src = 'https://images.unsplash.com/photo-1614680376593-902f74cf0d41?q=80&w=1200';
+                playBtn.classList.add('hidden');
+                thumbWrapper.removeAttribute('onclick');
+                thumbWrapper.classList.remove('cursor-pointer', 'group');
+                thumbWrapper.classList.add('opacity-70', 'grayscale', 'cursor-default');
+            }
+
+            // 가수 태그 렌더링
+            const singersHtml = s.singers.map(singer => {
+                const colors = themeColors[singer.theme] || themeColors.blue;
+                return `
+                    <div onclick="closeModal('songDetailModal'); openSingerModal(${singer.id});" class="flex items-center gap-3 bg-white dark:bg-slate-800 p-3 pr-5 rounded-2xl shadow-sm border border-slate-100 dark:border-slate-700 cursor-pointer hover:-translate-y-1 hover:shadow-md transition-all group">
+                        <div class="w-10 h-10 rounded-full ${colors.bg} flex items-center justify-center text-lg font-black text-slate-700 dark:text-slate-200">${singer.name.charAt(0)}</div>
+                        <span class="font-bold text-sm text-slate-800 dark:text-slate-200 group-hover:text-indigo-500 transition-colors">${singer.name}</span>
+                        <i class="ph ph-caret-right ml-auto text-slate-300 group-hover:text-indigo-400"></i>
+                    </div>
+                `;
+            }).join('');
+            
+            document.getElementById('songDetailSingers').innerHTML = singersHtml;
+            detailModal.classList.replace('hidden', 'flex');
+        }
+
+        // 빠른 곡 추가 인풋 띄우기 및 링크 처리 (이전 로직 동일)
+        function showQuickAddInput(id) {
+            event.stopPropagation(); // 클릭 이벤트 버블링 방지
+            const card = document.getElementById(`quickAddCard_${id}`);
+            card.onclick = null; // 중복 클릭 방지
+            card.innerHTML = `
+                <div class="w-full p-5 flex flex-col justify-center h-full bg-indigo-50 dark:bg-indigo-900/20 rounded-3xl border border-indigo-100 dark:border-indigo-800">
+                    <p class="text-[11px] font-black text-indigo-600 dark:text-indigo-400 mb-2 text-center"><i class="ph-fill ph-link"></i> 유튜브 링크 붙여넣기</p>
+                    <input type="text" id="quickAddInput_${id}" class="w-full px-4 py-3 text-sm font-mono rounded-xl outline-none focus:ring-2 focus:ring-indigo-500 dark:bg-slate-900 shadow-inner" placeholder="https://youtu.be/...">
+                    <div class="text-[10px] font-bold text-center text-slate-400 mt-2 h-3" id="quickAddStatus_${id}"></div>
+                </div>
+            `;
+            
+            const input = document.getElementById(`quickAddInput_${id}`);
+            input.focus();
+            
+            input.addEventListener('input', async (e) => {
+                const link = e.target.value.trim();
+                const yid = extractYouTubeId(link);
+                if (yid) {
+                    const status = document.getElementById(`quickAddStatus_${id}`);
+                    status.innerHTML = `<i class="ph-fill ph-spinner-gap animate-spin inline-block text-indigo-500"></i> 저장 중...`;
+                    input.disabled = true;
+                    try {
+                        const res = await fetch(`https://noembed.com/embed?url=https://www.youtube.com/watch?v=${yid}`);
+                        const data = await res.json();
+                        const title = data.title || "제목을 찾을 수 없음";
+                        
+                        const sIdx = SINGER_DATA.findIndex(x => x.id === id);
+                        if (!SINGER_DATA[sIdx].songs) SINGER_DATA[sIdx].songs = [];
+                        SINGER_DATA[sIdx].songs.push({ title: title, youtubeId: yid });
+                        
+                        processSongData(); // 전역 데이터 업데이트 후 뷰 렌더링
+                        renderGallery(); 
+                        openSingerModal(id);
+                    } catch (err) {
+                        status.textContent = "오류 발생!";
+                        input.disabled = false;
+                    }
+                }
+            });
+        }
+
+        // Edit 모달 관련 기존 함수들
+        function addSongField(title = '', yid = '') {
+            const container = document.getElementById('songsListContainer');
+            const div = document.createElement('div');
+            div.className = 'song-entry flex gap-2 items-center bg-slate-200/50 dark:bg-slate-900/50 p-2 rounded-xl animate-slide-up';
+            div.innerHTML = `
+                <div class="flex-grow space-y-1.5">
+                    <input type="text" class="song-title w-full px-3 py-2 text-xs bg-white dark:bg-slate-800 rounded-lg border-none outline-none font-bold text-slate-800 dark:text-white" placeholder="곡 제목" value="${title}">
+                    <input type="text" class="song-yid w-full px-3 py-2 text-xs bg-white dark:bg-slate-800 rounded-lg border-none outline-none font-mono text-slate-600 dark:text-slate-300" placeholder="유튜브 링크" value="${yid}">
+                </div>
+                <button type="button" onclick="this.closest('.song-entry').remove()" class="w-10 h-10 shrink-0 text-red-400 hover:bg-red-50 dark:hover:bg-red-900/30 rounded-lg flex items-center justify-center bg-white dark:bg-slate-800"><i class="ph ph-trash text-lg"></i></button>
+            `;
+            const yidInput = div.querySelector('.song-yid');
+            const titleInput = div.querySelector('.song-title');
+            yidInput.addEventListener('input', async (e) => {
+                const extractedId = extractYouTubeId(e.target.value.trim());
+                if (extractedId && !titleInput.value.trim()) {
+                    titleInput.placeholder = "불러오는 중...";
+                    try {
+                        const res = await fetch(`https://noembed.com/embed?url=https://www.youtube.com/watch?v=${extractedId}`);
+                        const data = await res.json();
+                        if (data.title) titleInput.value = data.title;
+                    } catch (err) {}
+                    titleInput.placeholder = "곡 제목";
+                }
+            });
+            container.appendChild(div);
+        }
+
+        function openEditModal(id = null) {
+            const form = document.getElementById('singerForm');
+            form.reset();
+            document.getElementById('editId').value = id || '';
+            document.getElementById('modalTitle').textContent = id ? '정보 수정하기' : '새로운 아티스트 추가';
+            document.getElementById('songsListContainer').innerHTML = '';
+            
+            if (id) {
+                const s = SINGER_DATA.find(x => x.id === id);
+                document.getElementById('formName').value = s.name;
+                document.getElementById('formDescription').value = s.description || '';
+                const themeRadio = form.querySelector(`input[name="theme"][value="${s.theme || 'blue'}"]`);
+                if(themeRadio) themeRadio.checked = true;
+                if (s.songs && s.songs.length > 0) s.songs.forEach(song => addSongField(song.title, song.youtubeId));
+                else addSongField();
+            } else { addSongField(); }
+            document.getElementById('editModal').classList.replace('hidden', 'flex');
+        }
+
+        function saveSinger() {
+            const id = document.getElementById('editId').value;
+            const name = document.getElementById('formName').value.trim();
+            if (!name) return alert('가수 이름은 필수입니다!');
+
+            const songEntries = document.querySelectorAll('.song-entry');
+            const songsArray = [];
+            songEntries.forEach(entry => {
+                const title = entry.querySelector('.song-title').value.trim();
+                const extractedYid = extractYouTubeId(entry.querySelector('.song-yid').value.trim());
+                if (title || extractedYid) songsArray.push({ title: title || '제목 없음', youtubeId: extractedYid });
+            });
+
+            const newSinger = {
+                id: id ? parseInt(id) : Date.now(),
+                name: name,
+                description: document.getElementById('formDescription').value.trim(),
+                songs: songsArray,
+                theme: document.querySelector('input[name="theme"]:checked').value,
+                date: id ? SINGER_DATA.find(x => x.id === parseInt(id)).date : Date.now()
+            };
+
+            if (id) SINGER_DATA[SINGER_DATA.findIndex(x => x.id === parseInt(id))] = newSinger;
+            else SINGER_DATA.unshift(newSinger);
+
+            processSongData(); // 전역 데이터 업데이트
+            updateStats();
+            renderCurrentView(); // 현재 모드에 맞게 렌더링
+            closeModal('editModal');
+        }
+
+        function deleteSinger(id, e) {
+            e.stopPropagation();
+            if (confirm('이 아티스트를 삭제하시겠습니까? (복사 후 깃허브 반영 필요)')) {
+                SINGER_DATA = SINGER_DATA.filter(x => x.id !== id);
+                processSongData();
+                updateStats();
+                renderCurrentView();
+            }
+        }
+
+        // 검색 바 리스너 초기화
+        document.getElementById('searchInput').addEventListener('input', e => renderCurrentView());
+
+        // 앱 시작
+        fetchGitHubData();
+
+    </script>
+</body>
+</html>
+```
