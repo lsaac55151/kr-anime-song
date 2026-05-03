@@ -1,113 +1,21 @@
 [
   {
-    "id": 1,
-    "name": "이용신",
-    "era": "00s",
-    "works": [
-      "달빛천사 - 나의 마음을 담아",
-      "나루토 - 활주",
-      "캐릭캐릭 체인지 - 또 다른 나"
-    ],
-    "description": "대한민국 애니메이션 음악의 한 획을 그은 전설적인 목소리입니다.",
-    "youtubeId": "vB6_R7q6J9Q",
-    "theme": "pink",
-    "favorite": true,
-    "date": 1714700000000
-  },
-  {
-    "id": 2,
-    "name": "전영호",
-    "era": "00s",
-    "works": [
-      "디지몬 어드벤처 - Butterfly",
-      "학교괴담 - Grow Up"
-    ],
-    "description": "꿈을 이루는 그날까지 멈추지 않는 용기를 노래합니다.",
-    "youtubeId": "6u1pWRgD95I",
-    "theme": "blue",
-    "favorite": true,
-    "date": 1714700000001
-  },
-  {
     "id": 3,
     "name": "TULA (정재윤)",
     "era": "00s",
-    "works": [
-      "디지몬 어드벤처 - Power Up",
-      "유희왕 - 열정적인 듀얼리스트"
-    ],
     "description": "에너지 넘치는 가창력으로 수많은 소년들의 심금을 울렸습니다.",
-    "youtubeId": "kL_A_l9A5YQ",
     "theme": "blue",
     "favorite": false,
-    "date": 1714700000002
-  },
-  {
-    "id": 4,
-    "name": "박상민",
-    "era": "90s",
-    "works": [
-      "슬램덩크 - 너에게 가는 길",
-      "슬램덩크 - Crazy For You"
-    ],
-    "description": "뜨거운 코트를 가르며 우리를 설레게 했던 거친 보이스의 주인공입니다.",
-    "youtubeId": "BfnqPkzFD1g",
-    "theme": "yellow",
-    "favorite": false,
-    "date": 1714700000003
-  },
-  {
-    "id": 5,
-    "name": "신지 (코요태)",
-    "era": "00s",
-    "works": [
-      "원피스 - 우리의 꿈"
-    ],
-    "description": "내 어린 시절 우연히 들었던 그 노래, 여전히 우리를 꿈꾸게 합니다.",
-    "youtubeId": "qN73u7iL-4A",
-    "theme": "pink",
-    "favorite": false,
-    "date": 1714700000004
-  },
-  {
-    "id": 6,
-    "name": "정여진",
-    "era": "90s",
-    "works": [
-      "카드캡터 체리 - Catch You Catch Me",
-      "안녕! 디지몬"
-    ],
-    "description": "맑고 깨끗한 음색으로 수많은 소녀 만화의 감성을 책임졌습니다.",
-    "youtubeId": "qZ1_Z_x9_Xw",
-    "theme": "purple",
-    "favorite": false,
-    "date": 1714700000005
-  },
-  {
-    "id": 7,
-    "name": "방대식",
-    "era": "90s",
-    "works": [
-      "포켓몬스터 - 모험의 시작",
-      "드래곤볼 Z - 오프닝"
-    ],
-    "description": "가장 친근하고 익숙한 목소리로 우리를 모험의 세계로 이끌었습니다.",
-    "youtubeId": "L_V1L9X_5_Q",
-    "theme": "yellow",
-    "favorite": false,
-    "date": 1714700000006
-  },
-  {
-    "id": 8,
-    "name": "최용준",
-    "era": "90s",
-    "works": [
-      "드래곤볼 Z - Cha-La Head-Cha-La"
-    ],
-    "description": "한국판 드래곤볼의 에너지를 책임졌던 파워풀한 가창력의 주인공입니다.",
-    "youtubeId": "j8iU6mRj6cM",
-    "theme": "gray",
-    "favorite": false,
-    "date": 1714700000007
+    "date": 1714700000002,
+    "songs": [
+      {
+        "title": "디지몬 어드벤처 - Power Up",
+        "youtubeId": "kL_A_l9A5YQ"
+      },
+      {
+        "title": "유희왕 - 열정적인 듀얼리스트",
+        "youtubeId": ""
+      }
+    ]
   }
 ]
