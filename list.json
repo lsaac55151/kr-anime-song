@@ -1,5 +1,31 @@
 [
   {
+    "id": 1777825828349,
+    "name": "아일릿(ILLIT)",
+    "description": "",
+    "songs": [
+      {
+        "title": "ILLIT「Sunday Morning」 | TVアニメ『姫様”拷問”の時間です』第2期ノンクレジットオープニング映像",
+        "youtubeId": "KPSvI5K6O_k"
+      }
+    ],
+    "theme": "pink",
+    "date": 1777825828349
+  },
+  {
+    "id": 1777825765220,
+    "name": "라이즈(RIIZE)",
+    "description": "",
+    "songs": [
+      {
+        "title": "RIIZE「KILL SHOT」 | TVアニメ『キルアオ』ノンクレジットエンディング映像",
+        "youtubeId": "nP-aNevWpX8"
+      }
+    ],
+    "theme": "pink",
+    "date": 1777825765220
+  },
+  {
     "id": 1777824826591,
     "name": "민경옥",
     "description": "",
@@ -983,6 +1009,10 @@
       {
         "title": "We Go",
         "youtubeId": "JB8pXJiys-g"
+      },
+      {
+        "title": "aespa「ATTITUDE」 | TVアニメ『キルアオ』ノンクレジットオープニング映像",
+        "youtubeId": "1zgsM9fC61M"
       }
     ],
     "theme": "pink",
@@ -994,7 +1024,7 @@
     "description": "",
     "songs": [
       {
-        "title": "[공식] 포켓몬스터: 메가볼티지 OP - Young K & 원필 (DAY6) 'Go Beyond' (TVA Ver.)",
+        "title": "'Go Beyond' (TVA Ver.) | 포켓몬스터: 메가볼티지 OP - Young K & 원필 (DAY6)",
         "youtubeId": "MpJtLMtTPc0"
       }
     ],
@@ -1024,7 +1054,7 @@
         "youtubeId": "4JWGj_o54UA"
       },
       {
-        "title": "[공식] 극장판 포켓몬스터 너로 정했다! 우리는 모두 친구 MV 공개!",
+        "title": "우리는 모두 친구 | 극장판 포켓몬스터 너로 정했다!",
         "youtubeId": "Xm_lnAIclY0"
       }
     ],
@@ -1106,6 +1136,10 @@
       {
         "title": "말하자면 막나가기",
         "youtubeId": "Gs5zVn3SrKU"
+      },
+      {
+        "title": "감자도리송",
+        "youtubeId": "5PPJ9gB5KDA"
       }
     ],
     "theme": "pink",
