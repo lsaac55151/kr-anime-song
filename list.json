@@ -4,18 +4,14 @@
     "name": "TULA (정재윤)",
     "era": "00s",
     "description": "에너지 넘치는 가창력으로 수많은 소년들의 심금을 울렸습니다.",
-    "theme": "blue",
-    "favorite": false,
-    "date": 1714700000002,
     "songs": [
       {
-        "title": "디지몬 어드벤처 - Power Up",
-        "youtubeId": "kL_A_l9A5YQ"
-      },
-      {
-        "title": "유희왕 - 열정적인 듀얼리스트",
-        "youtubeId": ""
+        "title": "토리코 오프닝 노래",
+        "youtubeId": "OuBBMqiKKgc"
       }
-    ]
+    ],
+    "theme": "blue",
+    "favorite": false,
+    "date": 1714700000002
   }
 ]
