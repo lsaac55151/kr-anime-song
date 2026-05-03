@@ -1,5 +1,35 @@
 [
   {
+    "id": 1777817089890,
+    "name": "김하루(성우)",
+    "description": "",
+    "songs": [
+      {
+        "title": "[블루 아카이브] 딸기우유 콤플렉스 - 아로나vs프라나",
+        "youtubeId": "p14uzid2n44"
+      }
+    ],
+    "theme": "pink",
+    "date": 1777817089890
+  },
+  {
+    "id": 1777817053450,
+    "name": "강은애(성우)",
+    "description": "",
+    "songs": [
+      {
+        "title": "[블루 아카이브] 미카 - 무지개빛 다이어리 (Album Ver.) MV | 별에게 보내는 아리아",
+        "youtubeId": "O36ynEi9TDw"
+      },
+      {
+        "title": "[블루 아카이브] 미카 - 따뜻한 푸름과 꼬리별 (Album Ver.) MV | 별에게 보내는 아리아",
+        "youtubeId": "8ZKft8XR3Ik"
+      }
+    ],
+    "theme": "pink",
+    "date": 1777817053450
+  },
+  {
     "id": 1777816688431,
     "name": "새빛",
     "description": "",
@@ -13,73 +43,8 @@
     "date": 1777816688431
   },
   {
-    "id": 1777816675579,
-    "name": "새빛",
-    "description": "",
-    "songs": [
-      {
-        "title": "[블루 아카이브] 산해경 특별 OST – 꽃, 바람, 그대 (Feat. 새빛) MV",
-        "youtubeId": "QhAWaeDYUhc"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777816675579
-  },
-  {
-    "id": 1777816675418,
-    "name": "새빛",
-    "description": "",
-    "songs": [
-      {
-        "title": "[블루 아카이브] 산해경 특별 OST – 꽃, 바람, 그대 (Feat. 새빛) MV",
-        "youtubeId": "QhAWaeDYUhc"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777816675418
-  },
-  {
-    "id": 1777816675229,
-    "name": "새빛",
-    "description": "",
-    "songs": [
-      {
-        "title": "[블루 아카이브] 산해경 특별 OST – 꽃, 바람, 그대 (Feat. 새빛) MV",
-        "youtubeId": "QhAWaeDYUhc"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777816675229
-  },
-  {
-    "id": 1777816674487,
-    "name": "새빛",
-    "description": "",
-    "songs": [
-      {
-        "title": "[블루 아카이브] 산해경 특별 OST – 꽃, 바람, 그대 (Feat. 새빛) MV",
-        "youtubeId": "QhAWaeDYUhc"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777816674488
-  },
-  {
-    "id": 1777816672541,
-    "name": "새빛",
-    "description": "",
-    "songs": [
-      {
-        "title": "[블루 아카이브] 산해경 특별 OST – 꽃, 바람, 그대 (Feat. 새빛) MV",
-        "youtubeId": "QhAWaeDYUhc"
-      }
-    ],
-    "theme": "pink",
-    "date": 1777816672541
-  },
-  {
     "id": 1777816150774,
-    "name": "김진아",
+    "name": "김진아(성우)",
     "description": "",
     "songs": [
       {
@@ -92,7 +57,7 @@
   },
   {
     "id": 1777816139289,
-    "name": "김수영",
+    "name": "김수영(성우)",
     "description": "",
     "songs": [
       {
@@ -105,7 +70,7 @@
   },
   {
     "id": 1777816119445,
-    "name": "김성희",
+    "name": "김성희(성우)",
     "description": "",
     "songs": [
       {
@@ -234,7 +199,7 @@
   },
   {
     "id": 1777815135529,
-    "name": "박영남",
+    "name": "박영남(성우)",
     "description": "",
     "songs": [
       {
@@ -341,7 +306,7 @@
   },
   {
     "id": 1777814441458,
-    "name": "이명선",
+    "name": "이명선(성우)",
     "description": "",
     "songs": [
       {
@@ -354,7 +319,7 @@
   },
   {
     "id": 1777814436824,
-    "name": "손종환",
+    "name": "손종환(성우)",
     "description": "",
     "songs": [
       {
@@ -367,7 +332,7 @@
   },
   {
     "id": 1777814427672,
-    "name": "홍범기",
+    "name": "홍범기(성우)",
     "description": "",
     "songs": [
       {
@@ -384,7 +349,7 @@
     "description": "",
     "songs": [
       {
-        "title": "제목 없음",
+        "title": "함꼐 해요",
         "youtubeId": "6QKUfffgs4M"
       }
     ],
