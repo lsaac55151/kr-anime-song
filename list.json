@@ -1,5 +1,101 @@
 [
   {
+    "id": 1777886620896.5598,
+    "name": "이재현",
+    "songs": [
+      {
+        "title": "신 도라에몽 스페셜 오프닝 ; 한국어 [New Doraemon Special Opening ; South Korean]",
+        "youtubeId": "vVHLtn5EE94"
+      }
+    ],
+    "theme": "blue",
+    "date": 1777886620896
+  },
+  {
+    "id": 1777886602204.424,
+    "name": "이상걸",
+    "songs": [
+      {
+        "title": "Digimon 'Xros Wars' Korean TV Version | 디지몬 '크로스 워즈' 한국 TV판 | OP Theme Song",
+        "youtubeId": "HdEoc9mh9CE"
+      }
+    ],
+    "theme": "blue",
+    "date": 1777886602204
+  },
+  {
+    "id": 1777886482525.9001,
+    "name": "배정미",
+    "songs": [
+      {
+        "title": "[한글화] 러키☆스타 오프닝 가져가! 세일러 복",
+        "youtubeId": "hqmDnT85EoE"
+      }
+    ],
+    "theme": "blue",
+    "date": 1777886482525
+  },
+  {
+    "id": 1777886482525.2937,
+    "name": "하미경",
+    "songs": [
+      {
+        "title": "[한글화] 러키☆스타 오프닝 가져가! 세일러 복",
+        "youtubeId": "hqmDnT85EoE"
+      }
+    ],
+    "theme": "blue",
+    "date": 1777886482525
+  },
+  {
+    "id": 1777886482525.62,
+    "name": "박소라",
+    "songs": [
+      {
+        "title": "[한글화] 러키☆스타 오프닝 가져가! 세일러 복",
+        "youtubeId": "hqmDnT85EoE"
+      }
+    ],
+    "theme": "blue",
+    "date": 1777886482525
+  },
+  {
+    "id": 1777886482525.1035,
+    "name": "정유미",
+    "songs": [
+      {
+        "title": "[한글화] 러키☆스타 오프닝 가져가! 세일러 복",
+        "youtubeId": "hqmDnT85EoE"
+      }
+    ],
+    "theme": "blue",
+    "date": 1777886482525
+  },
+  {
+    "id": 1777886337034.7864,
+    "name": "이상길",
+    "songs": [
+      {
+        "title": "캡틴포스 한국판 오리지널 오프닝",
+        "youtubeId": "AiWT6KBSn_o"
+      }
+    ],
+    "theme": "blue",
+    "date": 1777886337034
+  },
+  {
+    "id": 1777886301554.991,
+    "name": "김혁",
+    "songs": [
+      {
+        "title": "파워레인저 킹덤포스 오프닝",
+        "youtubeId": "_-k-PSlLbGQ"
+      }
+    ],
+    "theme": "blue",
+    "date": 1777886301554
+  },
+  {
     "id": 1777886180620.3525,
     "name": "김정선",
     "songs": [
@@ -825,6 +921,14 @@
       {
         "title": "달려라 왕바우 | 뿡야뿡야 왕바우",
         "youtubeId": "031B77_oeWU"
+      },
+      {
+        "title": "출동! 레스큐포스 1기 오프닝 HD",
+        "youtubeId": "gRqjzpus6yY"
+      },
+      {
+        "title": "[뽀로로 1기] 오프닝 송♪ 노는 게 제일 좋아♪",
+        "youtubeId": "E0W5sJZ2d64"
       }
     ],
     "theme": "pink",
