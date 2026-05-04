@@ -6,6 +6,10 @@
       {
         "title": "[MV] T.T. STAR - Be My Star | GODDESS OF VICTORY: NIKKE OST",
         "youtubeId": "v0PDL2RKaYE"
+      },
+      {
+        "title": "[STAGE] T.T. STAR - All Eyes On Me | GODDESS OF VICTORY: NIKKE OST",
+        "youtubeId": "YVJT71NXzC0"
       }
     ],
     "theme": "blue",
@@ -62,12 +66,7 @@
   {
     "id": 1777881408467.8003,
     "name": "채원",
-    "songs": [
-      {
-        "title": "[STAGE] T.T. STAR - All Eyes On Me | GODDESS OF VICTORY: NIKKE OST",
-        "youtubeId": "YVJT71NXzC0"
-      }
-    ],
+    "songs": [],
     "theme": "blue",
     "date": 1777881408467
   },
@@ -1198,7 +1197,7 @@
   },
   {
     "id": 1777813178546,
-    "name": "이용신",
+    "name": "이용신(성우)",
     "description": "",
     "songs": [
       {
