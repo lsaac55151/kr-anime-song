@@ -1,5 +1,96 @@
 [
   {
+    "id": 1778038794051.0469,
+    "name": "도윤숙",
+    "songs": [
+      {
+        "title": "반짝이는 눈물은 별이 되어 | 페이트/스테이 나이트 더빙판 오프닝2",
+        "youtubeId": "QJMsF0yM17w",
+        "category": "anime_sub"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778038794051
+  },
+  {
+    "id": 1778038729797.3416,
+    "name": "체리필터",
+    "songs": [
+      {
+        "title": "페이트/스테이 나이트 더빙판 오프닝 (TYPE B)",
+        "youtubeId": "17RtadueA9Q",
+        "category": "anime_sub"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778038729797
+  },
+  {
+    "id": 1778038684367,
+    "name": "바다",
+    "songs": [
+      {
+        "title": "👽 벤10 더빙판 오프닝 | Ben 10 Classic OP (KR) | 🇰🇷가사",
+        "youtubeId": "LoS5GJLMWtc",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778038684367
+  },
+  {
+    "id": 1778038581396.304,
+    "name": "이명화(성우)",
+    "songs": [
+      {
+        "title": "우라미치 선생님 더빙판 오프닝",
+        "youtubeId": "ltG_7FdKz8I",
+        "category": "anime_sub"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778038581396
+  },
+  {
+    "id": 1778038581396.8289,
+    "name": "정주원(성우)",
+    "songs": [
+      {
+        "title": "우라미치 선생님 더빙판 오프닝",
+        "youtubeId": "ltG_7FdKz8I",
+        "category": "anime_sub"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778038581396
+  },
+  {
+    "id": 1778038581396.2893,
+    "name": "김혜성(성우)",
+    "songs": [
+      {
+        "title": "우라미치 선생님 더빙판 오프닝",
+        "youtubeId": "ltG_7FdKz8I",
+        "category": "anime_sub"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778038581396
+  },
+  {
+    "id": 1778037911260,
+    "name": "이창호",
+    "songs": [
+      {
+        "title": "정말로 감사! | 썬더일레븐 2기 오프닝",
+        "youtubeId": "0Lv53G5DuiY",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778037911260
+  },
+  {
     "id": 1778035555647.4968,
     "name": "디핵(D-Hack)",
     "songs": [
@@ -17,7 +108,7 @@
     "name": "김예림(성우)",
     "songs": [
       {
-        "title": "(Unofficial) 케이팝 데몬 헌터스 한국어 더빙 성우가 커버한 골든✨️GOLDEN covered by Korean VAs of Kpop Demon Hunters🎶",
+        "title": "GOLDEN | 성우 커버",
         "youtubeId": "VjCIAcMfj7I",
         "category": "cover"
       }
@@ -35,7 +126,7 @@
         "category": "game"
       },
       {
-        "title": "(Unofficial) 케이팝 데몬 헌터스 한국어 더빙 성우가 커버한 골든✨️GOLDEN covered by Korean VAs of Kpop Demon Hunters🎶",
+        "title": "GOLDEN | 성우 커버",
         "youtubeId": "VjCIAcMfj7I",
         "category": "cover"
       }
@@ -165,7 +256,7 @@
     "name": "나래(Narae)",
     "songs": [
       {
-        "title": "[Music] 상록수 feat. 나래(Narae) - 호랑풍류가 (MR 다운로드)",
+        "title": "호랑풍류가 | [Music] 상록수 feat. 나래(Narae) -",
         "youtubeId": "fBQhY7tfx4k",
         "category": "etc"
       }
@@ -269,7 +360,7 @@
     "name": "최향윤(성우)",
     "songs": [
       {
-        "title": "신세기 에반게리온 국내판 오프닝",
+        "title": "잔혹한 천사의 테제 | 신세기 에반게리온 국내판 오프닝",
         "youtubeId": "e-abJzKBFTs",
         "category": "anime_sub"
       }
@@ -883,7 +974,7 @@
     "name": "전태열(성우)",
     "songs": [
       {
-        "title": "[우당탕탕 아이쿠] 오프닝 주제가",
+        "title": "우당탕탕 아이쿠 오프닝 주제가",
         "youtubeId": "j2x_l4AqHZg",
         "category": "anime_kids"
       }
@@ -936,7 +1027,7 @@
     "description": "",
     "songs": [
       {
-        "title": "나 혼자만 레벨업_OP_LEveL /TOMORROW X TOGETHER_[Aniplus]",
+        "title": "LEveL /TOMORROW X TOGETHER_[Aniplus] | 나 혼자만 레벨업_OP",
         "youtubeId": "L_aylCReHo4",
         "category": "anime_sub"
       }
@@ -1059,7 +1150,7 @@
     "description": "",
     "songs": [
       {
-        "title": "[한글화] 러키☆스타 오프닝 가져가! 세일러 복",
+        "title": "가져가! 세일러 복 | [한글화] 러키☆스타 오프닝",
         "youtubeId": "hqmDnT85EoE",
         "category": "anime_sub"
       }
@@ -1073,7 +1164,7 @@
     "description": "",
     "songs": [
       {
-        "title": "[한글화] 러키☆스타 오프닝 가져가! 세일러 복",
+        "title": "가져가! 세일러 복 | [한글화] 러키☆스타 오프닝",
         "youtubeId": "hqmDnT85EoE",
         "category": "anime_sub"
       }
@@ -1087,7 +1178,7 @@
     "description": "",
     "songs": [
       {
-        "title": "[한글화] 러키☆스타 오프닝 가져가! 세일러 복",
+        "title": "가져가! 세일러 복 | [한글화] 러키☆스타 오프닝",
         "youtubeId": "hqmDnT85EoE",
         "category": "anime_sub"
       }
@@ -1101,7 +1192,7 @@
     "description": "",
     "songs": [
       {
-        "title": "[한글화] 러키☆스타 오프닝 가져가! 세일러 복",
+        "title": "가져가! 세일러 복 | [한글화] 러키☆스타 오프닝",
         "youtubeId": "hqmDnT85EoE",
         "category": "anime_sub"
       }
@@ -1197,7 +1288,7 @@
     "name": "박상민",
     "songs": [
       {
-        "title": "슬램덩크 오프닝한국판 너에게로 가는길",
+        "title": "너에게로 가는길 | 슬램덩크 오프닝 한국판",
         "youtubeId": "C0EZ09az1k4",
         "category": "anime_sub"
       }
@@ -1275,7 +1366,7 @@
     "name": "큐티엘",
     "songs": [
       {
-        "title": "[로보카폴리][시즌1] 주제가",
+        "title": "로보카 폴리 주제가",
         "youtubeId": "lTjF5lEhbt0",
         "category": "anime_kids"
       }
@@ -1301,16 +1392,6 @@
     "name": "채린",
     "songs": [
       {
-        "title": "[MV] T.T. STAR - Be My Star | GODDESS OF VICTORY: NIKKE OST",
-        "youtubeId": "v0PDL2RKaYE",
-        "category": "game"
-      },
-      {
-        "title": "[STAGE] T.T. STAR - All Eyes On Me | GODDESS OF VICTORY: NIKKE OST",
-        "youtubeId": "YVJT71NXzC0",
-        "category": "game"
-      },
-      {
         "title": "T.T. STAR - Clickbait | GODDESS OF VICTORY: NIKKE OST",
         "youtubeId": "zzFeiE5rtq0",
         "category": "game"
@@ -1318,6 +1399,16 @@
       {
         "title": "T.T. STAR - Accelerate | GODDESS OF VICTORY: NIKKE OST",
         "youtubeId": "mo6Hnw5pt7Q",
+        "category": "game"
+      },
+      {
+        "title": "Be My Star | GODDESS OF VICTORY: NIKKE OST",
+        "youtubeId": "v0PDL2RKaYE",
+        "category": "game"
+      },
+      {
+        "title": "All Eyes On Me | GODDESS OF VICTORY: NIKKE OST",
+        "youtubeId": "YVJT71NXzC0",
         "category": "game"
       }
     ],
@@ -1329,56 +1420,6 @@
     "name": "ZENA",
     "songs": [
       {
-        "title": "[MV] T.T. STAR - Be My Star | GODDESS OF VICTORY: NIKKE OST",
-        "youtubeId": "v0PDL2RKaYE",
-        "category": "game"
-      },
-      {
-        "title": "[STAGE] T.T. STAR - All Eyes On Me | GODDESS OF VICTORY: NIKKE OST",
-        "youtubeId": "YVJT71NXzC0",
-        "category": "game"
-      },
-      {
-        "title": "[STAGE] T.T. STAR - All Eyes On Me | GODDESS OF VICTORY: NIKKE OST",
-        "youtubeId": "YVJT71NXzC0",
-        "category": "game"
-      },
-      {
-        "title": "[STAGE] T.T. STAR - All Eyes On Me | GODDESS OF VICTORY: NIKKE OST",
-        "youtubeId": "YVJT71NXzC0",
-        "category": "game"
-      },
-      {
-        "title": "[STAGE] T.T. STAR - All Eyes On Me | GODDESS OF VICTORY: NIKKE OST",
-        "youtubeId": "YVJT71NXzC0",
-        "category": "game"
-      },
-      {
-        "title": "[STAGE] T.T. STAR - All Eyes On Me | GODDESS OF VICTORY: NIKKE OST",
-        "youtubeId": "YVJT71NXzC0",
-        "category": "game"
-      },
-      {
-        "title": "[STAGE] T.T. STAR - All Eyes On Me | GODDESS OF VICTORY: NIKKE OST",
-        "youtubeId": "YVJT71NXzC0",
-        "category": "game"
-      },
-      {
-        "title": "[STAGE] T.T. STAR - All Eyes On Me | GODDESS OF VICTORY: NIKKE OST",
-        "youtubeId": "YVJT71NXzC0",
-        "category": "game"
-      },
-      {
-        "title": "[STAGE] T.T. STAR - All Eyes On Me | GODDESS OF VICTORY: NIKKE OST",
-        "youtubeId": "YVJT71NXzC0",
-        "category": "game"
-      },
-      {
-        "title": "[STAGE] T.T. STAR - All Eyes On Me | GODDESS OF VICTORY: NIKKE OST",
-        "youtubeId": "YVJT71NXzC0",
-        "category": "game"
-      },
-      {
         "title": "T.T. STAR - Clickbait | GODDESS OF VICTORY: NIKKE OST",
         "youtubeId": "zzFeiE5rtq0",
         "category": "game"
@@ -1386,6 +1427,16 @@
       {
         "title": "T.T. STAR - Accelerate | GODDESS OF VICTORY: NIKKE OST",
         "youtubeId": "mo6Hnw5pt7Q",
+        "category": "game"
+      },
+      {
+        "title": "Be My Star | GODDESS OF VICTORY: NIKKE OST",
+        "youtubeId": "v0PDL2RKaYE",
+        "category": "game"
+      },
+      {
+        "title": "All Eyes On Me | GODDESS OF VICTORY: NIKKE OST",
+        "youtubeId": "YVJT71NXzC0",
         "category": "game"
       }
     ],
@@ -1397,16 +1448,6 @@
     "name": "Sunnie",
     "songs": [
       {
-        "title": "[MV] T.T. STAR - Be My Star | GODDESS OF VICTORY: NIKKE OST",
-        "youtubeId": "v0PDL2RKaYE",
-        "category": "game"
-      },
-      {
-        "title": "[STAGE] T.T. STAR - All Eyes On Me | GODDESS OF VICTORY: NIKKE OST",
-        "youtubeId": "YVJT71NXzC0",
-        "category": "game"
-      },
-      {
         "title": "T.T. STAR - Clickbait | GODDESS OF VICTORY: NIKKE OST",
         "youtubeId": "zzFeiE5rtq0",
         "category": "game"
@@ -1414,6 +1455,16 @@
       {
         "title": "T.T. STAR - Accelerate | GODDESS OF VICTORY: NIKKE OST",
         "youtubeId": "mo6Hnw5pt7Q",
+        "category": "game"
+      },
+      {
+        "title": "Be My Star | GODDESS OF VICTORY: NIKKE OST",
+        "youtubeId": "v0PDL2RKaYE",
+        "category": "game"
+      },
+      {
+        "title": "All Eyes On Me | GODDESS OF VICTORY: NIKKE OST",
+        "youtubeId": "YVJT71NXzC0",
         "category": "game"
       }
     ],
@@ -1454,7 +1505,7 @@
     "description": "",
     "songs": [
       {
-        "title": "[고음질] 은하철도 999 한국어 제2주제가 듀엣 풀버전 - Galaxy Express 999 Korean OP2 (Duet ver.)",
+        "title": "은하철도 999",
         "youtubeId": "K5O0xzDpV_A",
         "category": "anime_kids"
       }
@@ -1473,7 +1524,7 @@
         "category": "anime_kids"
       },
       {
-        "title": "[고음질] 은하철도 999 한국어 제2주제가 듀엣 풀버전 - Galaxy Express 999 Korean OP2 (Duet ver.)",
+        "title": "은하철도 999",
         "youtubeId": "K5O0xzDpV_A",
         "category": "anime_kids"
       }
@@ -1704,7 +1755,7 @@
     "description": "",
     "songs": [
       {
-        "title": "[MV] 10CM _ To Reach You(너에게 닿기를)",
+        "title": "To Reach You(너에게 닿기를) | [MV] 10CM",
         "youtubeId": "Ry1RrIVyl1M",
         "category": "anime_kids"
       }
@@ -1904,7 +1955,7 @@
         "category": "anime_kids"
       },
       {
-        "title": "명탐정코난 OST 3기 오프닝 - 꿈을 향해(쥬얼리)",
+        "title": "꿈을 향해(쥬얼리) | 명탐정코난 OST 3기 오프닝",
         "youtubeId": "K0csqyob_Jk",
         "category": "anime_kids"
       }
@@ -1989,7 +2040,7 @@
         "category": "game"
       },
       {
-        "title": "[승리의 여신: 니케] OST - Be My Star 🌟 COVER BY 민트 성우 '진아킴'",
+        "title": "Be My Star 🌟 COVER BY 민트 성우 '진아킴'",
         "youtubeId": "Ogon9GXKPP4",
         "category": "cover"
       }
@@ -2059,11 +2110,6 @@
     "description": "",
     "songs": [
       {
-        "title": "1 Dream",
-        "youtubeId": "Nxb2nM7oz0c",
-        "category": "anime_kids"
-      },
-      {
         "title": "썬더일레븐 mp3",
         "youtubeId": "tZ3NT4UnaE4",
         "category": "anime_kids"
@@ -2081,11 +2127,6 @@
       {
         "title": "케이캅 오프닝",
         "youtubeId": "q6Dj3Xphvvw",
-        "category": "drama"
-      },
-      {
-        "title": "[투니버스] 벼락맞은문방구 오프닝",
-        "youtubeId": "XL6kAQ4Otfw",
         "category": "drama"
       },
       {
@@ -2144,16 +2185,6 @@
         "category": "anime_kids"
       },
       {
-        "title": "정말로 감사! | 썬더일레븐 2기 오프닝",
-        "youtubeId": "0Lv53G5DuiY",
-        "category": "anime_kids"
-      },
-      {
-        "title": "[더빙버전] 씽2게더 영화음악 (Sing 2 OST) Could Have Been Me",
-        "youtubeId": "FSD8kSvQ7XU",
-        "category": "anime_kids"
-      },
-      {
         "title": "개미의 노래 | 짱구는 못말려 7기~14기 ED",
         "youtubeId": "pbQQUFo3cxw",
         "category": "anime_kids"
@@ -2176,11 +2207,6 @@
       {
         "title": "Reversible-Ring",
         "youtubeId": "Epv8TYmDeFU",
-        "category": "anime_kids"
-      },
-      {
-        "title": "부족한 점 (From",
-        "youtubeId": "vHGS3wj-gEQ",
         "category": "anime_kids"
       },
       {
@@ -2214,14 +2240,39 @@
         "category": "anime_kids"
       },
       {
-        "title": "국내최초-파워레인저 다이노포스 브레이브 OP",
+        "title": "썬더일레븐 GO 갤럭시 오프닝",
+        "youtubeId": "zwyZjn40hFQ",
+        "category": "anime_kids"
+      },
+      {
+        "title": "Could Have Been Me | [더빙버전] 씽2게더 영화음악 (Sing 2 OST)",
+        "youtubeId": "FSD8kSvQ7XU",
+        "category": "anime_kids"
+      },
+      {
+        "title": "파워레인저 다이노포스 브레이브 OP",
         "youtubeId": "V7ogbva47q0",
         "category": "drama"
       },
       {
-        "title": "썬더일레븐 GO 갤럭시 오프닝",
-        "youtubeId": "zwyZjn40hFQ",
+        "title": "부족한 점 | 겨울왕국",
+        "youtubeId": "vHGS3wj-gEQ",
         "category": "anime_kids"
+      },
+      {
+        "title": "벼락맞은문방구 오프닝",
+        "youtubeId": "XL6kAQ4Otfw",
+        "category": "drama"
+      },
+      {
+        "title": "1 Dream | 골판지전사 op",
+        "youtubeId": "Nxb2nM7oz0c",
+        "category": "anime_kids"
+      },
+      {
+        "title": "크로스 게임 한국 더빙판 오프닝 -  Summer Rain (Korean TV ver.)",
+        "youtubeId": "HYbf5j5Zpjg",
+        "category": "anime_sub"
       }
     ],
     "theme": "pink",
@@ -2337,7 +2388,7 @@
     "description": "",
     "songs": [
       {
-        "title": "[릴레이댄스] 극장판 짱구는 못말려: 초화려! 작열하는 떡잎마을 댄서즈",
+        "title": "극장판 짱구는 못말려: 초화려! 작열하는 떡잎마을 댄서즈",
         "youtubeId": "ISeYHkdyxBA",
         "category": "anime_kids"
       }
@@ -2426,12 +2477,12 @@
     "description": "",
     "songs": [
       {
-        "title": "썬더일레븐 3기 오프닝",
+        "title": "승리 오직 그 뿐 | 썬더일레븐 3기 오프닝",
         "youtubeId": "gST-95BtSxo",
         "category": "anime_kids"
       },
       {
-        "title": "썬더일레븐 4기 오프닝",
+        "title": "사랑을 쏟아 | 썬더일레븐 4기 오프닝",
         "youtubeId": "cQqxO0eKjBQ",
         "category": "anime_kids"
       }
@@ -2644,14 +2695,14 @@
         "category": "anime_sub"
       },
       {
-        "title": "(Unofficial) 케이팝 데몬 헌터스 한국어 더빙 성우가 커버한 골든✨️GOLDEN covered by Korean VAs of Kpop Demon Hunters🎶",
-        "youtubeId": "VjCIAcMfj7I",
-        "category": "cover"
-      },
-      {
         "title": "[Sub] 블랙레모네이드맛 쿠키 '변신(Transfigure)' | 쿠키런: 킹덤 공식 MV",
         "youtubeId": "qJ2RuU--9t4",
         "category": "game"
+      },
+      {
+        "title": "GOLDEN | 성우 커버",
+        "youtubeId": "VjCIAcMfj7I",
+        "category": "cover"
       }
     ],
     "theme": "pink",
@@ -2748,7 +2799,7 @@
     "description": "",
     "songs": [
       {
-        "title": "'Go Beyond' (TVA Ver.) | 포켓몬스터: 메가볼티지 OP - Young K & 원필 (DAY6)",
+        "title": "Go Beyond (TVA Ver.) | 포켓몬스터: 메가볼티지 OP - Young K & 원필 (DAY6)",
         "youtubeId": "MpJtLMtTPc0",
         "category": "anime_kids"
       }
@@ -2846,6 +2897,11 @@
         "title": "캐릭캐릭체인지 엔딩 나만의 나",
         "youtubeId": "ukoeV8oIA3c",
         "category": "anime_kids"
+      },
+      {
+        "title": "플라티나 | [한국판] 카드캡터 체리 재더빙판 - 세번째 오프닝",
+        "youtubeId": "JNIW4IqCkmU",
+        "category": "anime_kids"
       }
     ],
     "theme": "pink",
@@ -2892,14 +2948,14 @@
         "category": "anime_kids"
       },
       {
-        "title": "파워퍼프걸Z OP - 희망의 조각",
-        "youtubeId": "gaM0HpnXv-4",
-        "category": "anime_kids"
-      },
-      {
         "title": "[Sub] 샤이닝글리터맛 쿠키 'Glittering Dreams' | 쿠키런: 킹덤 공식 MV",
         "youtubeId": "dLVgDTGzNwY",
         "category": "game"
+      },
+      {
+        "title": "희망의 조각 | 파워퍼프걸Z OP",
+        "youtubeId": "gaM0HpnXv-4",
+        "category": "anime_kids"
       }
     ],
     "theme": "pink",
