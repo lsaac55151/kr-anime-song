@@ -783,7 +783,8 @@
     "songs": [
       {
         "title": "캡틴포스 한국판 오리지널 오프닝",
-        "youtubeId": "AiWT6KBSn_o"
+        "youtubeId": "AiWT6KBSn_o",
+        "category": "drama"
       }
     ],
     "theme": "blue",
@@ -795,7 +796,8 @@
     "songs": [
       {
         "title": "파워레인저 킹덤포스 오프닝",
-        "youtubeId": "_-k-PSlLbGQ"
+        "youtubeId": "_-k-PSlLbGQ",
+        "category": "drama"
       }
     ],
     "theme": "blue",
@@ -807,7 +809,8 @@
     "songs": [
       {
         "title": "마법전사 유캔도 더빙판 엔딩",
-        "youtubeId": "YNe3PdlH5JQ"
+        "youtubeId": "YNe3PdlH5JQ",
+        "category": "drama"
       }
     ],
     "theme": "blue",
@@ -819,7 +822,8 @@
     "songs": [
       {
         "title": "마법전사 유캔도 1기&2기 오프닝",
-        "youtubeId": "5ReZvfjMpCw"
+        "youtubeId": "5ReZvfjMpCw",
+        "category": "drama"
       }
     ],
     "theme": "blue",
@@ -1724,7 +1728,8 @@
       },
       {
         "title": "출동! 레스큐포스 1기 오프닝 HD",
-        "youtubeId": "gRqjzpus6yY"
+        "youtubeId": "gRqjzpus6yY",
+        "category": "drama"
       },
       {
         "title": "[뽀로로 1기] 오프닝 송♪ 노는 게 제일 좋아♪",
@@ -1733,11 +1738,13 @@
       },
       {
         "title": "케이캅 오프닝",
-        "youtubeId": "q6Dj3Xphvvw"
+        "youtubeId": "q6Dj3Xphvvw",
+        "category": "drama"
       },
       {
         "title": "[투니버스] 벼락맞은문방구 오프닝",
-        "youtubeId": "XL6kAQ4Otfw"
+        "youtubeId": "XL6kAQ4Otfw",
+        "category": "drama"
       },
       {
         "title": "신세기 에반게리온 국내판 오프닝",
@@ -2314,7 +2321,8 @@
     "songs": [
       {
         "title": "파워레인저 트레인포스",
-        "youtubeId": "PGiDbOTqeF0"
+        "youtubeId": "PGiDbOTqeF0",
+        "category": "drama"
       }
     ],
     "theme": "pink",
@@ -2327,11 +2335,13 @@
     "songs": [
       {
         "title": "파워레인저 엔진포스",
-        "youtubeId": "Sm4t_eETJ68"
+        "youtubeId": "Sm4t_eETJ68",
+        "category": "drama"
       },
       {
         "title": "파워레인저 엔진포스 엔딩",
-        "youtubeId": "SYn2bmUa4Oc"
+        "youtubeId": "SYn2bmUa4Oc",
+        "category": "drama"
       }
     ],
     "theme": "pink",
@@ -2344,7 +2354,8 @@
     "songs": [
       {
         "title": "VAMOLA! 다이노포스! | 파워레인저 다이노포스 두 번째 오프닝 영상",
-        "youtubeId": "LO6WtTKypD0"
+        "youtubeId": "LO6WtTKypD0",
+        "category": "drama"
       }
     ],
     "theme": "pink",
@@ -2620,7 +2631,8 @@
       },
       {
         "title": "파워레인저 다이노포스 ED - 모두모여라! 다이노포스!",
-        "youtubeId": "UE00W6Z9bq8"
+        "youtubeId": "UE00W6Z9bq8",
+        "category": "drama"
       },
       {
         "title": "게라게라포의 노래(요괴워치 오프닝)",
