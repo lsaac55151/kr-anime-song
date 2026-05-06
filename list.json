@@ -1,5 +1,18 @@
 [
   {
+    "id": 1778035555647.4968,
+    "name": "디핵(D-Hack)",
+    "songs": [
+      {
+        "title": "가로등 메모리즈 | ‘나노리스트’ 민송아 작가의 두근두근 누나 리스트!",
+        "youtubeId": "16jDVN4VsiM",
+        "category": "etc"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778035555647
+  },
+  {
     "id": 1778033060277,
     "name": "김예림(성우)",
     "songs": [
@@ -2534,6 +2547,11 @@
         "title": "유정석 - 승리의 약속",
         "youtubeId": "wE6rinhbHh8",
         "category": "drama"
+      },
+      {
+        "title": "우두머리 | ‘육식고’ 애니메이션 PV 공개! (Vocal by #유정석)",
+        "youtubeId": "Th7vOL6f2f0",
+        "category": "anime_sub"
       }
     ],
     "theme": "pink",
