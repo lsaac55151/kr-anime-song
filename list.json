@@ -1,5 +1,213 @@
 [
   {
+    "id": 1778032310962.2668,
+    "name": "오로아(성우)",
+    "songs": [
+      {
+        "title": "[블루 아카이브] 아이리 - Mint Choco Days MV",
+        "youtubeId": "JyRJ2EiYCqs",
+        "category": "game"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778032310962
+  },
+  {
+    "id": 1778032248782.8345,
+    "name": "박신희(성우)",
+    "songs": [
+      {
+        "title": "[블루 아카이브] 꿈길 위의 꽃 MV",
+        "youtubeId": "OHwcpM_I59Q",
+        "category": "game"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778032248782
+  },
+  {
+    "id": 1778032112189.6938,
+    "name": "김지나(성우)",
+    "songs": [
+      {
+        "title": "[블루 아카이브] 와일드헌트 예술학원 특별 OST - Art is Now MV",
+        "youtubeId": "CFMeEX0eDbk",
+        "category": "game"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778032112189
+  },
+  {
+    "id": 1778032112188.8877,
+    "name": "김아롱(성우)",
+    "songs": [
+      {
+        "title": "[블루 아카이브] 와일드헌트 예술학원 특별 OST - Art is Now MV",
+        "youtubeId": "CFMeEX0eDbk",
+        "category": "game"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778032112188
+  },
+  {
+    "id": 1778031988482.7097,
+    "name": "채림(성우)",
+    "songs": [
+      {
+        "title": "[블루 아카이브] 트리니티 자경단 - Starlight Connect MV",
+        "youtubeId": "oKBJzW6Fa-c",
+        "category": "game"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778031988482
+  },
+  {
+    "id": 1778031988482.2495,
+    "name": "김윤채(성우)",
+    "songs": [
+      {
+        "title": "[블루 아카이브] 트리니티 자경단 - Starlight Connect MV",
+        "youtubeId": "oKBJzW6Fa-c",
+        "category": "game"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778031988482
+  },
+  {
+    "id": 1778031867494.6257,
+    "name": "박시윤(성우)",
+    "songs": [
+      {
+        "title": "[블루 아카이브] 채색 캔버스 (Korean Ver.) MV",
+        "youtubeId": "LU_b324AzMU",
+        "category": "game"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778031867494
+  },
+  {
+    "id": 1778031766283.248,
+    "name": "SERENTIUM",
+    "songs": [
+      {
+        "title": "[블루 아카이브] 저녁놀의 약속 (Korean Ver.) MV",
+        "youtubeId": "MIP0-t6klnc",
+        "category": "game"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778031766283
+  },
+  {
+    "id": 1778031658600.5603,
+    "name": "나래(Narae)",
+    "songs": [
+      {
+        "title": "[Music] 상록수 feat. 나래(Narae) - 호랑풍류가 (MR 다운로드)",
+        "youtubeId": "fBQhY7tfx4k",
+        "category": "etc"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778031658600
+  },
+  {
+    "id": 1778031608713.8386,
+    "name": "EUNTO",
+    "songs": [
+      {
+        "title": "달빛연가 (광개토태왕 OST)｜Vocal. EUNTO",
+        "youtubeId": "FqkA3HHQT2Q",
+        "category": "game"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778031608713
+  },
+  {
+    "id": 1778031576027.4136,
+    "name": "다즈비",
+    "songs": [
+      {
+        "title": "약속｜클로저스 OST : 약속",
+        "youtubeId": "GJOu6mEgTBI",
+        "category": "game"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778031576027
+  },
+  {
+    "id": 1778031551452.9583,
+    "name": "박혜원",
+    "songs": [
+      {
+        "title": "ASTERIA - Another Me (Vocal 박혜원) MV [클로저스 '루나 아이기스' 주제곡]",
+        "youtubeId": "rYuwvClo4Qg",
+        "category": "game"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778031551452
+  },
+  {
+    "id": 1778031521609.32,
+    "name": "엘리카(Elika)",
+    "songs": [
+      {
+        "title": "엘리카 (Elika) - 네게 닿기를 [클로저스 애니메이션 OST : Side Blacklambs]",
+        "youtubeId": "W5P1cWIniUA",
+        "category": "anime_sub"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778031521609
+  },
+  {
+    "id": 1778031483852.4048,
+    "name": "Yurisa",
+    "songs": [
+      {
+        "title": "Song For You by NieN (feat. Yurisa)",
+        "youtubeId": "DFTt8ZFZbTI",
+        "category": "game"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778031483852
+  },
+  {
+    "id": 1778031483852.7231,
+    "name": "NieN",
+    "songs": [
+      {
+        "title": "Song For You by NieN (feat. Yurisa)",
+        "youtubeId": "DFTt8ZFZbTI",
+        "category": "game"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778031483852
+  },
+  {
+    "id": 1778031349993.424,
+    "name": "이주승(성우)",
+    "songs": [
+      {
+        "title": "[Sub] 락스타맛 쿠키 'Rocker's High' | 쿠키런: 킹덤 공식 MV",
+        "youtubeId": "X6aa3KpFCRo",
+        "category": "game"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778031349993
+  },
+  {
     "id": 1778030481931.3667,
     "name": "최향윤(성우)",
     "songs": [
@@ -336,6 +544,11 @@
       {
         "title": "[블루 아카이브] Romantic Seaside (Korean Full Ver.) | OST",
         "youtubeId": "TK_SdKUR8w0",
+        "category": "game"
+      },
+      {
+        "title": "[블루 아카이브] 채색 캔버스 (Korean Ver.) MV",
+        "youtubeId": "LU_b324AzMU",
         "category": "game"
       }
     ],
@@ -733,6 +946,11 @@
       {
         "title": "수나 캐릭터 PV 「진짜 진짜 『싫어』!」 ｜ 〈젠레스 존 제로〉",
         "youtubeId": "sqbRfsYbkqg",
+        "category": "game"
+      },
+      {
+        "title": "[블루 아카이브] 와일드헌트 예술학원 특별 OST - Art is Now MV",
+        "youtubeId": "CFMeEX0eDbk",
         "category": "game"
       }
     ],
@@ -1338,6 +1556,11 @@
         "title": "사랑은 열린 문 (From \"겨울왕국\")",
         "youtubeId": "kUonnsz5M3w",
         "category": "anime_kids"
+      },
+      {
+        "title": "공식 OST 파르페맛 쿠키의 '토핑은 필요 없어(Feat. 박지윤)' MV",
+        "youtubeId": "bu_hSQcj9rU",
+        "category": "game"
       }
     ],
     "theme": "pink",
@@ -1469,6 +1692,11 @@
         "title": "키테레츠 대백과 오프닝 (김현심 - 코로스케 Go! Go!)",
         "youtubeId": "eYm_u6I9zVk",
         "category": "anime_kids"
+      },
+      {
+        "title": "[블루 아카이브] 칸나 – 괜찮아, 지금 이대로 MV",
+        "youtubeId": "p2PDltMLPcM",
+        "category": "game"
       }
     ],
     "theme": "pink",
@@ -1975,6 +2203,11 @@
       {
         "title": "QWER 'CEREMONY' Official MV",
         "youtubeId": "A8d2Gx91zwk"
+      },
+      {
+        "title": "ANIMA POWER - QWER  | 동물특공대 - 리그 오브 레전드",
+        "youtubeId": "BLnkLdzlCx4",
+        "category": "game"
       }
     ],
     "theme": "pink",
@@ -2249,14 +2482,14 @@
         "category": "anime_sub"
       },
       {
-        "title": "유정석 - 승리의 약속",
-        "youtubeId": "wE6rinhbHh8",
-        "category": "etc"
-      },
-      {
         "title": "아따맘마 OST - 오프닝 잘있어요",
         "youtubeId": "2HvbINUEnrM",
         "category": "anime_kids"
+      },
+      {
+        "title": "유정석 - 승리의 약속",
+        "youtubeId": "wE6rinhbHh8",
+        "category": "drama"
       }
     ],
     "theme": "pink",
@@ -2352,6 +2585,11 @@
         "title": "(Unofficial) 케이팝 데몬 헌터스 한국어 더빙 성우가 커버한 골든✨️GOLDEN covered by Korean VAs of Kpop Demon Hunters🎶",
         "youtubeId": "VjCIAcMfj7I",
         "category": "cover"
+      },
+      {
+        "title": "[Sub] 블랙레모네이드맛 쿠키 '변신(Transfigure)' | 쿠키런: 킹덤 공식 MV",
+        "youtubeId": "qJ2RuU--9t4",
+        "category": "game"
       }
     ],
     "theme": "pink",
@@ -2595,6 +2833,11 @@
         "title": "파워퍼프걸Z OP - 희망의 조각",
         "youtubeId": "gaM0HpnXv-4",
         "category": "anime_kids"
+      },
+      {
+        "title": "[Sub] 샤이닝글리터맛 쿠키 'Glittering Dreams' | 쿠키런: 킹덤 공식 MV",
+        "youtubeId": "dLVgDTGzNwY",
+        "category": "game"
       }
     ],
     "theme": "pink",
