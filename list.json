@@ -1,5 +1,62 @@
 [
   {
+    "id": 1778030481931.3667,
+    "name": "최향윤(성우)",
+    "songs": [
+      {
+        "title": "신세기 에반게리온 국내판 오프닝",
+        "youtubeId": "e-abJzKBFTs",
+        "category": "anime_sub"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778030481931
+  },
+  {
+    "id": 1778030398734.8923,
+    "name": "반디",
+    "songs": [
+      {
+        "title": "포켓몬스터 배스트위시 오프닝(Another Challenge!)-자막",
+        "youtubeId": "tvWL7yHWNok",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778030398734
+  },
+  {
+    "id": 1778030146701.5503,
+    "name": "안예슬",
+    "songs": [
+      {
+        "title": "[플라워링 하트] 오프닝 테마 l Flowering Heart♡ l 애니메이션 주제곡 l 만화 주제곡 l OST l Original sound track",
+        "youtubeId": "H-NEl1mJY7Y",
+        "category": "anime_kids"
+      },
+      {
+        "title": "[플라워링 하트] 엔딩테마",
+        "youtubeId": "Enf86AitD98",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778030146701
+  },
+  {
+    "id": 1778030071546.3096,
+    "name": "박민우",
+    "songs": [
+      {
+        "title": "[최강 탑플레이트 OST] 박민우 (Park Min Woo) - Challenge (탑플레이트 Opening)",
+        "youtubeId": "Hr6v8iSag8E",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778030071546
+  },
+  {
     "id": 1777970999258.9727,
     "name": "이진영",
     "songs": [
@@ -1747,11 +1804,6 @@
         "category": "drama"
       },
       {
-        "title": "신세기 에반게리온 국내판 오프닝",
-        "youtubeId": "e-abJzKBFTs",
-        "category": "anime_sub"
-      },
-      {
         "title": "사랑은 콩다콩 OP - 수줍은 비밀",
         "youtubeId": "h2LnQ56Orko",
         "category": "anime_kids"
@@ -1874,6 +1926,16 @@
       {
         "title": "go!go!다섯쌍둥이 오프닝",
         "youtubeId": "XyeVZPAX-js",
+        "category": "anime_kids"
+      },
+      {
+        "title": "국내최초-파워레인저 다이노포스 브레이브 OP",
+        "youtubeId": "V7ogbva47q0",
+        "category": "drama"
+      },
+      {
+        "title": "썬더일레븐 GO 갤럭시 오프닝",
+        "youtubeId": "zwyZjn40hFQ",
         "category": "anime_kids"
       }
     ],
@@ -2614,6 +2676,16 @@
         "title": "세계명작극장 - 플란다스의 개 OP",
         "youtubeId": "QIuRjoicafU",
         "category": "anime_kids"
+      },
+      {
+        "title": "[한국어더빙] 너의 이름은 OST 아무것도 아니야",
+        "youtubeId": "DsdVD83MtOU",
+        "category": "cover"
+      },
+      {
+        "title": "ノーゲーム・ノーライフ OP - This Game（韓国語ダビング版）",
+        "youtubeId": "xQgXxZoNbyE",
+        "category": "cover"
       }
     ],
     "theme": "pink",
