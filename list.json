@@ -4,7 +4,7 @@
     "name": "박규석",
     "songs": [
       {
-        "title": "[더빙]파워레인저 트레저포스 오프닝/op",
+        "title": "파워레인저 트레저포스 오프닝/op",
         "youtubeId": "IQkF7jmNgqs",
         "category": "drama"
       }
@@ -107,13 +107,13 @@
     "name": "서반석",
     "songs": [
       {
-        "title": "★최초공개★파워레인저 다이노소울 오프닝",
-        "youtubeId": "dDJyStjoHEs",
+        "title": "파워레인저 애니멀포스 오프닝",
+        "youtubeId": "YMWqEKAZpS0",
         "category": "drama"
       },
       {
-        "title": "파워레인저 애니멀포스 오프닝",
-        "youtubeId": "YMWqEKAZpS0",
+        "title": "파워레인저 다이노소울 오프닝",
+        "youtubeId": "dDJyStjoHEs",
         "category": "drama"
       }
     ],
@@ -326,18 +326,8 @@
         "category": "game"
       },
       {
-        "title": "【Official】 ASTROKINGS OST - The Empress 【M/V】",
-        "youtubeId": "kKdGzOOejUs",
-        "category": "game"
-      },
-      {
         "title": "AZUR LANE Title Song - Weigh Anchor! (Feat.Raon Lee)",
         "youtubeId": "U7eVqrUaRgw",
-        "category": "game"
-      },
-      {
-        "title": "【Official】 에픽세븐 Epic Seven OST - Promise",
-        "youtubeId": "HXp0D0vk4gg",
         "category": "game"
       },
       {
@@ -361,11 +351,6 @@
         "category": "game"
       },
       {
-        "title": "【Official】 CounterSide OST - FACE THE FATE 【M/V】",
-        "youtubeId": "r2k42j6eEJs",
-        "category": "game"
-      },
-      {
         "title": "【Official】 Fushigi Dagashiya Zenitendo OP - The Supernatural SweetShop 【KOR ver.】",
         "youtubeId": "zVTVo8R0zFc",
         "category": "anime_sub"
@@ -386,11 +371,6 @@
         "category": "anime_kids"
       },
       {
-        "title": "[ENTER Korean Terrestrial TV!] Bread Barbershop OP┃Vocal by Raon Lee",
-        "youtubeId": "5d8gQ-2H0E4",
-        "category": "anime_kids"
-      },
-      {
         "title": "이환 OST | ‘Play On!' (Feat. Raon)",
         "youtubeId": "gzxCPSePO2E",
         "category": "game"
@@ -399,6 +379,26 @@
         "title": "Painter (korean Ver)",
         "youtubeId": "fZKVeom8F9s",
         "category": "cover"
+      },
+      {
+        "title": "Bread Barbershop OP┃Vocal by Raon Lee | [ENTER Korean Terrestrial TV!]",
+        "youtubeId": "5d8gQ-2H0E4",
+        "category": "anime_kids"
+      },
+      {
+        "title": "Promise | 【Official】 에픽세븐 Epic Seven OST",
+        "youtubeId": "HXp0D0vk4gg",
+        "category": "game"
+      },
+      {
+        "title": "The Empress | 【Official】 ASTROKINGS OST 【M/V】",
+        "youtubeId": "kKdGzOOejUs",
+        "category": "game"
+      },
+      {
+        "title": "FACE THE FATE | 【Official】 CounterSide OST 【M/V】",
+        "youtubeId": "r2k42j6eEJs",
+        "category": "game"
       }
     ],
     "theme": "pink",
@@ -602,14 +602,14 @@
     "name": "신나리(성우)",
     "songs": [
       {
-        "title": "[블루 아카이브] 사쿠라코 - Twinkle☆Magic MV",
-        "youtubeId": "TUDWnlyePv4",
-        "category": "game"
-      },
-      {
         "title": "GOLDEN | 성우 커버",
         "youtubeId": "VjCIAcMfj7I",
         "category": "cover"
+      },
+      {
+        "title": "Twinkle☆Magic MV | [블루 아카이브] 사쿠라코",
+        "youtubeId": "TUDWnlyePv4",
+        "category": "game"
       }
     ],
     "theme": "blue",
@@ -620,7 +620,7 @@
     "name": "이다은(성우)",
     "songs": [
       {
-        "title": "[블루 아카이브] 사쿠라코 - Twinkle☆Magic MV",
+        "title": "Twinkle☆Magic MV | [블루 아카이브] 사쿠라코",
         "youtubeId": "TUDWnlyePv4",
         "category": "game"
       }
@@ -633,7 +633,7 @@
     "name": "오로아(성우)",
     "songs": [
       {
-        "title": "[블루 아카이브] 아이리 - Mint Choco Days MV",
+        "title": "Mint Choco Days MV | [블루 아카이브] 아이리",
         "youtubeId": "JyRJ2EiYCqs",
         "category": "game"
       }
@@ -646,7 +646,7 @@
     "name": "박신희(성우)",
     "songs": [
       {
-        "title": "[블루 아카이브] 꿈길 위의 꽃 MV",
+        "title": "꿈길 위의 꽃 MV | [블루 아카이브]",
         "youtubeId": "OHwcpM_I59Q",
         "category": "game"
       }
@@ -659,7 +659,7 @@
     "name": "김지나(성우)",
     "songs": [
       {
-        "title": "[블루 아카이브] 와일드헌트 예술학원 특별 OST - Art is Now MV",
+        "title": "Art is Now MV | [블루 아카이브] 와일드헌트 예술학원 특별 OST",
         "youtubeId": "CFMeEX0eDbk",
         "category": "game"
       }
@@ -672,7 +672,7 @@
     "name": "김아롱(성우)",
     "songs": [
       {
-        "title": "[블루 아카이브] 와일드헌트 예술학원 특별 OST - Art is Now MV",
+        "title": "Art is Now MV | [블루 아카이브] 와일드헌트 예술학원 특별 OST",
         "youtubeId": "CFMeEX0eDbk",
         "category": "game"
       }
@@ -685,7 +685,7 @@
     "name": "채림(성우)",
     "songs": [
       {
-        "title": "[블루 아카이브] 트리니티 자경단 - Starlight Connect MV",
+        "title": "Starlight Connect MV | [블루 아카이브] 트리니티 자경단",
         "youtubeId": "oKBJzW6Fa-c",
         "category": "game"
       }
@@ -698,7 +698,7 @@
     "name": "김윤채(성우)",
     "songs": [
       {
-        "title": "[블루 아카이브] 트리니티 자경단 - Starlight Connect MV",
+        "title": "Starlight Connect MV | [블루 아카이브] 트리니티 자경단",
         "youtubeId": "oKBJzW6Fa-c",
         "category": "game"
       }
@@ -711,7 +711,7 @@
     "name": "박시윤(성우)",
     "songs": [
       {
-        "title": "[블루 아카이브] 채색 캔버스 (Korean Ver.) MV",
+        "title": "채색 캔버스 (Korean Ver.) MV | [블루 아카이브]",
         "youtubeId": "LU_b324AzMU",
         "category": "game"
       }
@@ -724,7 +724,7 @@
     "name": "SERENTIUM",
     "songs": [
       {
-        "title": "[블루 아카이브] 저녁놀의 약속 (Korean Ver.) MV",
+        "title": "저녁놀의 약속 (Korean Ver.) MV | [블루 아카이브]",
         "youtubeId": "MIP0-t6klnc",
         "category": "game"
       }
@@ -828,7 +828,7 @@
     "name": "이주승(성우)",
     "songs": [
       {
-        "title": "[Sub] 락스타맛 쿠키 'Rocker's High' | 쿠키런: 킹덤 공식 MV",
+        "title": "Rocker's High | 쿠키런: 킹덤 공식 MV | [Sub] 락스타맛 쿠키",
         "youtubeId": "X6aa3KpFCRo",
         "category": "game"
       }
@@ -867,12 +867,12 @@
     "name": "안예슬",
     "songs": [
       {
-        "title": "[플라워링 하트] 오프닝 테마 l Flowering Heart♡ l 애니메이션 주제곡 l 만화 주제곡 l OST l Original sound track",
+        "title": "Flowering Heart♡ l 애니메이션 주제곡 l 만화 주제곡 l OST l Original sound track | [플라워링 하트] 오프닝 테마",
         "youtubeId": "H-NEl1mJY7Y",
         "category": "anime_kids"
       },
       {
-        "title": "[플라워링 하트] 엔딩테마",
+        "title": "플라워링 하트 엔딩테마",
         "youtubeId": "Enf86AitD98",
         "category": "anime_kids"
       }
@@ -885,7 +885,7 @@
     "name": "박민우",
     "songs": [
       {
-        "title": "[최강 탑플레이트 OST] 박민우 (Park Min Woo) - Challenge (탑플레이트 Opening)",
+        "title": "Challenge (탑플레이트 Opening) | [최강 탑플레이트 OST] 박민우 (Park Min Woo)",
         "youtubeId": "Hr6v8iSag8E",
         "category": "anime_kids"
       }
@@ -1171,13 +1171,13 @@
     "name": "김순미(성우)",
     "songs": [
       {
-        "title": "[블루 아카이브] Romantic Seaside (Korean Full Ver.) | OST",
-        "youtubeId": "TK_SdKUR8w0",
+        "title": "채색 캔버스 (Korean Ver.) MV | [블루 아카이브]",
+        "youtubeId": "LU_b324AzMU",
         "category": "game"
       },
       {
-        "title": "[블루 아카이브] 채색 캔버스 (Korean Ver.) MV",
-        "youtubeId": "LU_b324AzMU",
+        "title": "Romantic Seaside (Korean Full Ver.) | OST | [블루 아카이브]",
+        "youtubeId": "TK_SdKUR8w0",
         "category": "game"
       }
     ],
@@ -1189,7 +1189,7 @@
     "name": "이이로(성우)",
     "songs": [
       {
-        "title": "[블루 아카이브] Romantic Seaside (Korean Full Ver.) | OST",
+        "title": "Romantic Seaside (Korean Full Ver.) | OST | [블루 아카이브]",
         "youtubeId": "TK_SdKUR8w0",
         "category": "game"
       }
@@ -1202,7 +1202,7 @@
     "name": "여민정(성우)",
     "songs": [
       {
-        "title": "[한국어 더빙] 이 노래 좀 멈춰줄레이히 ~하이디&노노&리사 ver.~",
+        "title": "이 노래 좀 멈춰줄레이히 ~하이디&노노&리사 ver.~",
         "youtubeId": "t2Qxd_PhsPI",
         "category": "anime_kids"
       }
@@ -1215,7 +1215,7 @@
     "name": "김율(성우)",
     "songs": [
       {
-        "title": "[한국어 더빙] 이 노래 좀 멈춰줄레이히 ~하이디&노노&리사 ver.~",
+        "title": "이 노래 좀 멈춰줄레이히 ~하이디&노노&리사 ver.~",
         "youtubeId": "t2Qxd_PhsPI",
         "category": "anime_kids"
       }
@@ -1228,7 +1228,7 @@
     "name": "우정신(성우)",
     "songs": [
       {
-        "title": "[한국어 더빙] 이 노래 좀 멈춰줄레이히 ~하이디&노노&리사 ver.~",
+        "title": "이 노래 좀 멈춰줄레이히 ~하이디&노노&리사 ver.~",
         "youtubeId": "t2Qxd_PhsPI",
         "category": "anime_kids"
       }
@@ -1240,10 +1240,6 @@
     "id": 1777968455648.635,
     "name": "이장원(성우)",
     "songs": [
-      {
-        "title": "[마인크래프트 무비] 스티브의 라바 치킨 송 (더빙ver)",
-        "youtubeId": "1TzYmzNxfFw"
-      },
       {
         "title": "변치 않는 건 (From “겨울왕국 2”)",
         "youtubeId": "2SOOqSrh-2g",
@@ -1263,6 +1259,11 @@
         "title": "치-후 (From \"모아나 2\")",
         "youtubeId": "D-8mw-gNe_Q",
         "category": "anime_kids"
+      },
+      {
+        "title": "라바 치킨 송 (더빙ver) [마인크래프트 무비]",
+        "youtubeId": "1TzYmzNxfFw",
+        "category": "etc"
       }
     ],
     "theme": "blue",
@@ -1325,7 +1326,7 @@
     "name": "정재헌(성우)",
     "songs": [
       {
-        "title": "[닌자고] 시즌 1 오프닝",
+        "title": "닌자고 시즌 1 오프닝",
         "youtubeId": "2lGCPa-kvaI",
         "category": "anime_kids"
       }
@@ -1578,7 +1579,7 @@
         "category": "game"
       },
       {
-        "title": "[블루 아카이브] 와일드헌트 예술학원 특별 OST - Art is Now MV",
+        "title": "Art is Now MV | [블루 아카이브] 와일드헌트 예술학원 특별 OST",
         "youtubeId": "CFMeEX0eDbk",
         "category": "game"
       }
@@ -1813,7 +1814,7 @@
     "name": "이정은",
     "songs": [
       {
-        "title": "[헬로카봇 - 풀HD] 오프닝 (자막)",
+        "title": "헬로카봇 오프닝 (자막)",
         "youtubeId": "tc97uf08YkE",
         "category": "anime_kids"
       }
@@ -1865,7 +1866,7 @@
     "name": "안정아",
     "songs": [
       {
-        "title": "[타요 1기] 꼬마버스 타요 ♪  (오프닝 타이틀 곡)",
+        "title": "꼬마버스 타요 ♪  (오프닝 타이틀 곡)",
         "youtubeId": "tVU53nGuPGw",
         "category": "anime_kids"
       }
@@ -2227,7 +2228,7 @@
     "description": "",
     "songs": [
       {
-        "title": "01 거침없이 라랄라 (Original Ver.)",
+        "title": "거침없이 라랄라 (Original Ver.)",
         "youtubeId": "1pgQ-8GpbZE",
         "category": "anime_kids"
       }
@@ -2288,7 +2289,7 @@
         "category": "anime_kids"
       },
       {
-        "title": "[블루 아카이브] 칸나 – 괜찮아, 지금 이대로 MV",
+        "title": "괜찮아, 지금 이대로 MV | [블루 아카이브] 칸나",
         "youtubeId": "p2PDltMLPcM",
         "category": "game"
       }
@@ -2316,7 +2317,7 @@
     "description": "",
     "songs": [
       {
-        "title": "[터닝 메카드] 오프닝  \"높이 날아\" Turning Mecard Opening",
+        "title": "높이 날아 Turning Mecard Opening | [터닝 메카드] 오프닝",
         "youtubeId": "4ZDoI2mGB9E",
         "category": "anime_kids"
       }
@@ -2349,7 +2350,7 @@
     "description": "",
     "songs": [
       {
-        "title": "[명탐정 코난] 8기 오프닝 - 빛",
+        "title": "빛 | [명탐정 코난] 8기 오프닝",
         "youtubeId": "AIDr0LHCRM0",
         "category": "anime_kids"
       }
@@ -2469,7 +2470,7 @@
     "description": "",
     "songs": [
       {
-        "title": "[블루 아카이브] 딸기우유 콤플렉스 - 아로나vs프라나",
+        "title": "딸기우유 콤플렉스 - 아로나vs프라나 | [블루 아카이브]",
         "youtubeId": "p14uzid2n44",
         "category": "game"
       }
@@ -2493,13 +2494,13 @@
         "category": "game"
       },
       {
-        "title": "[블루 아카이브] Romantic Seaside (Korean Full Ver.) | OST",
-        "youtubeId": "TK_SdKUR8w0",
-        "category": "game"
-      },
-      {
         "title": "파워레인저 갤럭시포스 엔딩",
         "youtubeId": "ZLBG6TsdtGY"
+      },
+      {
+        "title": "Romantic Seaside (Korean Full Ver.) | OST | [블루 아카이브]",
+        "youtubeId": "TK_SdKUR8w0",
+        "category": "game"
       }
     ],
     "theme": "pink",
@@ -2511,7 +2512,7 @@
     "description": "",
     "songs": [
       {
-        "title": "[블루 아카이브] 산해경 특별 OST – 꽃, 바람, 그대 (Feat. 새빛) MV",
+        "title": "꽃, 바람, 그대 (Feat. 새빛) MV | [블루 아카이브] 산해경 특별 OST",
         "youtubeId": "QhAWaeDYUhc",
         "category": "game"
       }
@@ -2610,11 +2611,6 @@
         "category": "drama"
       },
       {
-        "title": "[뽀로로 1기] 오프닝 송♪ 노는 게 제일 좋아♪",
-        "youtubeId": "E0W5sJZ2d64",
-        "category": "anime_kids"
-      },
-      {
         "title": "케이캅 오프닝",
         "youtubeId": "q6Dj3Xphvvw",
         "category": "drama"
@@ -2690,28 +2686,8 @@
         "category": "anime_kids"
       },
       {
-        "title": "[투니버스] 아이엠스타 뮤직클립",
-        "youtubeId": "8DUypkcq6_M",
-        "category": "anime_kids"
-      },
-      {
         "title": "Reversible-Ring",
         "youtubeId": "Epv8TYmDeFU",
-        "category": "anime_kids"
-      },
-      {
-        "title": "[알쏭달쏭 캐치!티니핑] 🔑함께 불러봐요! 열쇠티니핑송🔑 | 알쏭달쏭 티니핑 패션쇼👠",
-        "youtubeId": "TqZgk2AQhk8",
-        "category": "anime_kids"
-      },
-      {
-        "title": "[뽀로로와 노래해요 2기] 6화 피노키오(Pinocchio)",
-        "youtubeId": "FLmxxebI3L8",
-        "category": "anime_kids"
-      },
-      {
-        "title": "[알쏭달쏭 캐치!티니핑] 🔑바다의 매력에 퐁당!🐠| 퐁당핑송🐬",
-        "youtubeId": "HUMYQ-4sc6g",
         "category": "anime_kids"
       },
       {
@@ -2793,6 +2769,31 @@
         "title": "c 주문강림 매직컬포스",
         "youtubeId": "IIxYflGzhRQ",
         "category": "drama"
+      },
+      {
+        "title": "노는 게 제일 좋아♪ | [뽀로로 1기] 오프닝 송♪",
+        "youtubeId": "E0W5sJZ2d64",
+        "category": "anime_kids"
+      },
+      {
+        "title": "피노키오(Pinocchio) | [뽀로로와 노래해요 2기] 6화",
+        "youtubeId": "FLmxxebI3L8",
+        "category": "anime_kids"
+      },
+      {
+        "title": "퐁당핑송🐬 | [알쏭달쏭 캐치!티니핑] 🔑바다의 매력에 퐁당!🐠",
+        "youtubeId": "HUMYQ-4sc6g",
+        "category": "anime_kids"
+      },
+      {
+        "title": "열쇠티니핑송🔑 | 알쏭달쏭 티니핑 패션쇼👠| [알쏭달쏭 캐치!티니핑] 🔑함께 불러봐요!",
+        "youtubeId": "TqZgk2AQhk8",
+        "category": "anime_kids"
+      },
+      {
+        "title": "아이엠스타 뮤직클립",
+        "youtubeId": "8DUypkcq6_M",
+        "category": "anime_kids"
       }
     ],
     "theme": "pink",
@@ -2908,7 +2909,7 @@
     "description": "",
     "songs": [
       {
-        "title": "극장판 짱구는 못말려: 초화려! 작열하는 떡잎마을 댄서즈",
+        "title": "초화려! 작열하는 떡잎마을 댄서즈 | 극장판 짱구는 못말려",
         "youtubeId": "ISeYHkdyxBA",
         "category": "anime_kids"
       }
@@ -2978,12 +2979,12 @@
         "youtubeId": "iq1XuC4R024"
       },
       {
-        "title": "[블루 아카이브] 1.5주년 신규 OST [Thanks to] with 윤하",
+        "title": "Thanks to | [블루 아카이브] 1.5주년 신규 OST with 윤하",
         "youtubeId": "_TPb8aaSu_o",
         "category": "game"
       },
       {
-        "title": "[블루 아카이브] 1부 최종편 OST [상냥함의 기억] with 윤하 - 고음질 버전",
+        "title": "상냥함의 기억 | [블루 아카이브] 1부 최종편 OST  with 윤하 - 고음질 버전",
         "youtubeId": "Od2m_F33e88",
         "category": "game"
       }
@@ -3215,14 +3216,14 @@
         "category": "anime_sub"
       },
       {
-        "title": "[Sub] 블랙레모네이드맛 쿠키 '변신(Transfigure)' | 쿠키런: 킹덤 공식 MV",
-        "youtubeId": "qJ2RuU--9t4",
-        "category": "game"
-      },
-      {
         "title": "GOLDEN | 성우 커버",
         "youtubeId": "VjCIAcMfj7I",
         "category": "cover"
+      },
+      {
+        "title": "변신(Transfigure) | 쿠키런: 킹덤 공식 MV | [Sub] 블랙레모네이드맛 쿠키",
+        "youtubeId": "qJ2RuU--9t4",
+        "category": "game"
       }
     ],
     "theme": "pink",
@@ -3305,14 +3306,14 @@
     "description": "",
     "songs": [
       {
-        "title": "We Go",
-        "youtubeId": "JB8pXJiys-g",
-        "category": "anime_kids"
-      },
-      {
         "title": "aespa「ATTITUDE」 | TVアニメ『キルアオ』ノンクレジットオープニング映像",
         "youtubeId": "1zgsM9fC61M",
         "category": "anime_sub"
+      },
+      {
+        "title": "We Go | 포켓몬스터 리코와 로드의 모험",
+        "youtubeId": "JB8pXJiys-g",
+        "category": "anime_kids"
       }
     ],
     "theme": "pink",
@@ -3399,11 +3400,6 @@
     "description": "",
     "songs": [
       {
-        "title": "[캐릭캐릭체인지] 세라 | 블랙 다이아몬드 Shugo chara!",
-        "youtubeId": "uuLK0KfArJU",
-        "category": "anime_kids"
-      },
-      {
         "title": "양정화 - 케로로 행진곡 [가사.lyrics / 개구리 중사 케로로]",
         "youtubeId": "FM6dwiFP0Us",
         "category": "anime_kids"
@@ -3426,6 +3422,11 @@
       {
         "title": "플라티나 | [한국판] 카드캡터 체리 재더빙판 - 세번째 오프닝",
         "youtubeId": "JNIW4IqCkmU",
+        "category": "anime_kids"
+      },
+      {
+        "title": "블랙 다이아몬드 Shugo chara! | [캐릭캐릭체인지] 세라",
+        "youtubeId": "uuLK0KfArJU",
         "category": "anime_kids"
       }
     ],
@@ -3473,14 +3474,14 @@
         "category": "anime_kids"
       },
       {
-        "title": "[Sub] 샤이닝글리터맛 쿠키 'Glittering Dreams' | 쿠키런: 킹덤 공식 MV",
-        "youtubeId": "dLVgDTGzNwY",
-        "category": "game"
-      },
-      {
         "title": "희망의 조각 | 파워퍼프걸Z OP",
         "youtubeId": "gaM0HpnXv-4",
         "category": "anime_kids"
+      },
+      {
+        "title": "Glittering Dreams | 쿠키런: 킹덤 공식 MV | [Sub] 샤이닝글리터맛 쿠키",
+        "youtubeId": "dLVgDTGzNwY",
+        "category": "game"
       }
     ],
     "theme": "pink",
@@ -3564,13 +3565,13 @@
         "category": "anime_kids"
       },
       {
-        "title": "[한국어더빙] 너의 이름은 OST 아무것도 아니야",
-        "youtubeId": "DsdVD83MtOU",
+        "title": "This Game(노 게임 노 라이프) | 한국어 커버",
+        "youtubeId": "xQgXxZoNbyE",
         "category": "cover"
       },
       {
-        "title": "This Game(노 게임 노 라이프) | 한국어 커버",
-        "youtubeId": "xQgXxZoNbyE",
+        "title": "너의 이름은 OST 아무것도 아니야 | 오감자",
+        "youtubeId": "DsdVD83MtOU",
         "category": "cover"
       }
     ],
