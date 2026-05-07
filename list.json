@@ -1,5 +1,18 @@
 [
   {
+    "id": 1778151172606.6897,
+    "name": "여희",
+    "songs": [
+      {
+        "title": "다이노포스 브레이브 | 파워레인저 다이노포스 브레이브 OP",
+        "youtubeId": "V7ogbva47q0",
+        "category": "drama"
+      }
+    ],
+    "theme": "blue",
+    "date": 1778151172606
+  },
+  {
     "id": 1778140964856,
     "name": "박규석",
     "songs": [
@@ -94,7 +107,7 @@
     "name": "손선영",
     "songs": [
       {
-        "title": "★최초공개★파워레인저 다이노소울 엔딩",
+        "title": "파워레인저 다이노소울 엔딩",
         "youtubeId": "AnxvdFlGh0A",
         "category": "drama"
       }
@@ -351,11 +364,6 @@
         "category": "game"
       },
       {
-        "title": "【Official】 Fushigi Dagashiya Zenitendo OP - The Supernatural SweetShop 【KOR ver.】",
-        "youtubeId": "zVTVo8R0zFc",
-        "category": "anime_sub"
-      },
-      {
         "title": "The Haunted House: The Secret of The Cave OST - I got back well┃Vocal by Raon Lee",
         "youtubeId": "hTdIyjSaR-0",
         "category": "anime_kids"
@@ -369,11 +377,6 @@
         "title": "영화 레드슈즈 OST - 좋은 일이 생길 것 같아",
         "youtubeId": "GYkd-rzC88U",
         "category": "anime_kids"
-      },
-      {
-        "title": "이환 OST | ‘Play On!' (Feat. Raon)",
-        "youtubeId": "gzxCPSePO2E",
-        "category": "game"
       },
       {
         "title": "Painter (korean Ver)",
@@ -398,6 +401,16 @@
       {
         "title": "FACE THE FATE | 【Official】 CounterSide OST 【M/V】",
         "youtubeId": "r2k42j6eEJs",
+        "category": "game"
+      },
+      {
+        "title": "The Supernatural SweetShop 【KOR ver.】 | 【Official】 Fushigi Dagashiya Zenitendo OP",
+        "youtubeId": "zVTVo8R0zFc",
+        "category": "anime_sub"
+      },
+      {
+        "title": "Play On! | 이환 OST (Feat. Raon)",
+        "youtubeId": "gzxCPSePO2E",
         "category": "game"
       }
     ],
@@ -457,18 +470,18 @@
         "category": "etc"
       },
       {
-        "title": "이세계아이돌 (ISEGYE IDOL) - KIDDING (키딩) Official MV",
-        "youtubeId": "rDFUl2mHIW4",
+        "title": "이세계아이돌(ISEGYE IDOL) 'Be My Light' Official Performance MV",
+        "youtubeId": "zFmKBpHrKY8",
         "category": "etc"
       },
       {
-        "title": "이세계아이돌 (ISEGYE IDOL) 'ELEVATE' 이세계페스티벌 2025 실황",
+        "title": "ELEVATE | 이세계아이돌 (ISEGYE IDOL)  이세계페스티벌 2025 실황",
         "youtubeId": "7V7ZsMt6r-w",
         "category": "etc"
       },
       {
-        "title": "이세계아이돌(ISEGYE IDOL) 'Be My Light' Official Performance MV",
-        "youtubeId": "zFmKBpHrKY8",
+        "title": "KIDDING (키딩) | 이세계아이돌 (ISEGYE IDOL) Official MV",
+        "youtubeId": "rDFUl2mHIW4",
         "category": "etc"
       }
     ],
@@ -506,7 +519,7 @@
     "name": "바다",
     "songs": [
       {
-        "title": "👽 벤10 더빙판 오프닝 | Ben 10 Classic OP (KR) | 🇰🇷가사",
+        "title": "벤10 더빙판 오프닝 | Ben 10 Classic OP (KR) | 🇰🇷가사",
         "youtubeId": "LoS5GJLMWtc",
         "category": "anime_kids"
       }
@@ -789,7 +802,7 @@
     "name": "엘리카(Elika)",
     "songs": [
       {
-        "title": "엘리카 (Elika) - 네게 닿기를 [클로저스 애니메이션 OST : Side Blacklambs]",
+        "title": "네게 닿기를 | 엘리카 (Elika) [클로저스 애니메이션 OST : Side Blacklambs]",
         "youtubeId": "W5P1cWIniUA",
         "category": "anime_sub"
       }
@@ -854,7 +867,7 @@
     "name": "반디",
     "songs": [
       {
-        "title": "포켓몬스터 배스트위시 오프닝(Another Challenge!)-자막",
+        "title": "Another Challenge! | 포켓몬스터 배스트위시 오프닝",
         "youtubeId": "tvWL7yHWNok",
         "category": "anime_kids"
       }
@@ -1093,7 +1106,7 @@
     "name": "이현",
     "songs": [
       {
-        "title": "이현 (Yihyun) - 내일의 발걸음 Tomorrow’s Steps Official M/V",
+        "title": "내일의 발걸음 Tomorrow’s Steps | 이현 (Yihyun) Official M/V",
         "youtubeId": "QRpZZ0wlqVk",
         "category": "anime_kids"
       }
@@ -2080,13 +2093,13 @@
     "description": "",
     "songs": [
       {
-        "title": "아이유(IU)   바람의 멜로디",
-        "youtubeId": "gH7DU6hNpto",
+        "title": "IU (아이유) - (Full Ver.) 꿈빛 파티시엘 Theme Song Full",
+        "youtubeId": "KdjPwBgtEbk",
         "category": "anime_kids"
       },
       {
-        "title": "IU (아이유) - (Full Ver.) 꿈빛 파티시엘 Theme Song Full",
-        "youtubeId": "KdjPwBgtEbk",
+        "title": "바람의 멜로디 | 아이유(IU)",
+        "youtubeId": "gH7DU6hNpto",
         "category": "anime_kids"
       }
     ],
@@ -2214,7 +2227,7 @@
     "description": "",
     "songs": [
       {
-        "title": "🎵 '고스트볼' Official MV | 1기 오프닝(OP) | Shinbi House | 신비아파트 공식채널",
+        "title": "Shinbi House | 🎵 '고스트볼' Official MV | 1기 오프닝(OP) | 신비아파트 공식채널",
         "youtubeId": "dUwgMcFlGRE",
         "category": "anime_kids"
       }
@@ -2369,11 +2382,6 @@
         "category": "anime_sub"
       },
       {
-        "title": "초희 - Close the World [클로저스 애니메이션 OST : Side Blacklambs]",
-        "youtubeId": "jj9pgIUzitw",
-        "category": "anime_sub"
-      },
-      {
         "title": "달의하루(Dareharu) 『염라(Karma)』 MV",
         "youtubeId": "jv543Nk5s18"
       },
@@ -2384,6 +2392,11 @@
       {
         "title": "달의하루(Dareharu) 『순혈주의자(Pure Blood)』 MV",
         "youtubeId": "gnLdwkh4rjw"
+      },
+      {
+        "title": "Close the World (by 초희) [클로저스 애니메이션 OST : Side Blacklambs]",
+        "youtubeId": "jj9pgIUzitw",
+        "category": "anime_sub"
       }
     ],
     "theme": "pink",
@@ -2437,13 +2450,13 @@
     "description": "",
     "songs": [
       {
-        "title": "쥬얼리 - Puzzle (명탐정 코난 OST)",
-        "youtubeId": "DlVAr1k5aeI",
+        "title": "꿈을 향해(쥬얼리) | 명탐정코난 OST 3기 오프닝",
+        "youtubeId": "K0csqyob_Jk",
         "category": "anime_kids"
       },
       {
-        "title": "꿈을 향해(쥬얼리) | 명탐정코난 OST 3기 오프닝",
-        "youtubeId": "K0csqyob_Jk",
+        "title": "Puzzle | 쥬얼리 (명탐정 코난 OST)",
+        "youtubeId": "DlVAr1k5aeI",
         "category": "anime_kids"
       }
     ],
@@ -2716,11 +2729,6 @@
         "category": "anime_kids"
       },
       {
-        "title": "파워레인저 다이노포스 브레이브 OP",
-        "youtubeId": "V7ogbva47q0",
-        "category": "drama"
-      },
-      {
         "title": "부족한 점 | 겨울왕국",
         "youtubeId": "vHGS3wj-gEQ",
         "category": "anime_kids"
@@ -2734,11 +2742,6 @@
         "title": "1 Dream | 골판지전사 op",
         "youtubeId": "Nxb2nM7oz0c",
         "category": "anime_kids"
-      },
-      {
-        "title": "크로스 게임 한국 더빙판 오프닝 -  Summer Rain (Korean TV ver.)",
-        "youtubeId": "HYbf5j5Zpjg",
-        "category": "anime_sub"
       },
       {
         "title": "파워레인저 정글포스 오프닝",
@@ -2794,6 +2797,11 @@
         "title": "아이엠스타 뮤직클립",
         "youtubeId": "8DUypkcq6_M",
         "category": "anime_kids"
+      },
+      {
+        "title": "Summer Rain  | 크로스 게임 한국 더빙판 오프닝 (Korean TV ver.)",
+        "youtubeId": "HYbf5j5Zpjg",
+        "category": "anime_sub"
       }
     ],
     "theme": "pink",
@@ -2970,11 +2978,6 @@
         "category": "anime_kids"
       },
       {
-        "title": "혜성",
-        "youtubeId": "ZnR0JiQGxRE",
-        "category": "anime_sub"
-      },
-      {
         "title": "윤하(YOUNHA) - 염라 M/V",
         "youtubeId": "iq1XuC4R024"
       },
@@ -2987,6 +2990,11 @@
         "title": "상냥함의 기억 | [블루 아카이브] 1부 최종편 OST  with 윤하 - 고음질 버전",
         "youtubeId": "Od2m_F33e88",
         "category": "game"
+      },
+      {
+        "title": "혜성 | 블리치 3기 ED",
+        "youtubeId": "ZnR0JiQGxRE",
+        "category": "anime_sub"
       }
     ],
     "theme": "pink",
@@ -3106,11 +3114,6 @@
     "description": "",
     "songs": [
       {
-        "title": "10. 질풍가도 (쾌걸 근육맨 2세, 여는 노래) - 유정석",
-        "youtubeId": "KNbElX-MppY",
-        "category": "anime_sub"
-      },
-      {
         "title": "아따맘마 OST - 오프닝 잘있어요",
         "youtubeId": "2HvbINUEnrM",
         "category": "anime_kids"
@@ -3123,6 +3126,11 @@
       {
         "title": "우두머리 | ‘육식고’ 애니메이션 PV 공개! (Vocal by #유정석)",
         "youtubeId": "Th7vOL6f2f0",
+        "category": "anime_sub"
+      },
+      {
+        "title": "질풍가도 (쾌걸 근육맨 2세, 여는 노래) - 유정석",
+        "youtubeId": "KNbElX-MppY",
         "category": "anime_sub"
       }
     ],
@@ -3589,11 +3597,6 @@
         "category": "anime_sub"
       },
       {
-        "title": "파워레인저 다이노포스 ED - 모두모여라! 다이노포스!",
-        "youtubeId": "UE00W6Z9bq8",
-        "category": "drama"
-      },
-      {
         "title": "게라게라포의 노래(요괴워치 오프닝)",
         "youtubeId": "r7sIS4EkNKo",
         "category": "anime_kids"
@@ -3622,6 +3625,11 @@
         "title": "토리코 포식 마이웨이",
         "youtubeId": "-W7JRc7SVu4",
         "category": "anime_sub"
+      },
+      {
+        "title": "모두 모여라! 다이노포스! | 파워레인저 다이노포스 ED",
+        "youtubeId": "UE00W6Z9bq8",
+        "category": "drama"
       }
     ],
     "theme": "blue",
