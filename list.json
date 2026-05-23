@@ -1,5 +1,140 @@
 [
   {
+    "id": 1779530461410.2366,
+    "name": "애슐리 알리샤(Ashley Alisha)",
+    "songs": [
+      {
+        "title": "Tiny Giant | 자오 EP | 젠레스 존 제로",
+        "youtubeId": "hQhbJQujm5A",
+        "category": "game"
+      }
+    ],
+    "theme": "blue",
+    "date": 1779530461410
+  },
+  {
+    "id": 1779530237042.7107,
+    "name": "강새봄(성우)",
+    "songs": [
+      {
+        "title": "거짓말 | 코미 Cover (AI❌)",
+        "youtubeId": "9tzKhMx3hH8",
+        "category": "cover"
+      }
+    ],
+    "theme": "blue",
+    "date": 1779530237042
+  },
+  {
+    "id": 1779530119194.5452,
+    "name": "정의택(성우)",
+    "songs": [
+      {
+        "title": "매일을 기억해❤️원신 팬송❤️ | Remember Our Days",
+        "youtubeId": "zZ-A7SEZJ-M",
+        "category": "etc"
+      }
+    ],
+    "theme": "blue",
+    "date": 1779530119194
+  },
+  {
+    "id": 1779530035209.65,
+    "name": "김하영(성우)",
+    "songs": [
+      {
+        "title": "잔물결(한국어 커버) | 원신 OST💕 | Cover by 김하영",
+        "youtubeId": "Ia6nzB1u1MU",
+        "category": "cover"
+      },
+      {
+        "title": "매일을 기억해❤️원신 팬송❤️ | Remember Our Days",
+        "youtubeId": "zZ-A7SEZJ-M",
+        "category": "etc"
+      }
+    ],
+    "theme": "blue",
+    "date": 1779530035209
+  },
+  {
+    "id": 1779529628856.1147,
+    "name": "한로로",
+    "songs": [
+      {
+        "title": "뛰어! | ｢마루는 강쥐｣ x ｢한로로 4TH 단독콘서트｣ 라이브로 듣는 마루는 강쥐 엔딩곡",
+        "youtubeId": "xyMg4yhp1zw",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1779529628856
+  },
+  {
+    "id": 1779529459053.5679,
+    "name": "츄(CHUU)",
+    "songs": [
+      {
+        "title": "Cutie Pie | ｢마루는 강쥐｣ 오프닝 공개 💛 | 츄(CHUU) | LAFTEL ORIGINAL",
+        "youtubeId": "RgnjoAyyUNo",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1779529459053
+  },
+  {
+    "id": 1779529389942.9426,
+    "name": "스텔라 장",
+    "songs": [
+      {
+        "title": "Super Secret | [슈퍼시크릿 Super Secret] OST 스텔라장  (Full ver.)",
+        "youtubeId": "eB7ZWoSybJE",
+        "category": "anime_sub"
+      }
+    ],
+    "theme": "blue",
+    "date": 1779529389942
+  },
+  {
+    "id": 1779529131481.6465,
+    "name": "김명준(성우)",
+    "songs": [
+      {
+        "title": "Side Quest King - CV. 김명준 | 남 개척자 Ver. 【붕괴: 스타레일 3주년 MV】",
+        "youtubeId": "TJIofxACd0c",
+        "category": "cover"
+      }
+    ],
+    "theme": "blue",
+    "date": 1779529131481
+  },
+  {
+    "id": 1779528746256.2622,
+    "name": "소찬휘",
+    "songs": [
+      {
+        "title": "황금로봇 골드런 오프닝",
+        "youtubeId": "ybgmGn2ABV0",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1779528746256
+  },
+  {
+    "id": 1779528546075.069,
+    "name": "쿠라키 마이",
+    "songs": [
+      {
+        "title": "명탐정 코난 9기 오프닝 (OP) - Tomorrow is the last time | 쿠라키 마이",
+        "youtubeId": "raX2QLmYOsg",
+        "category": "anime_sub"
+      }
+    ],
+    "theme": "blue",
+    "date": 1779528546075
+  },
+  {
     "id": 1778654242149.816,
     "name": "김민주(성우)",
     "songs": [
@@ -41,7 +176,7 @@
         "category": "cover"
       },
       {
-        "title": "【Korean COVER】바케모노가타리 - 네가 모르는 이야기 (君の知らない物語, Kimi no Shiranai Monogatari)【성우 장 미】",
+        "title": "네가 모르는 이야기 (君の知らない物語, Kimi no Shiranai Monogatari)【성우 장 미】 【Korean COVER】바케모노가타리",
         "youtubeId": "I9oG3ATkPGs",
         "category": "cover"
       }
@@ -1225,7 +1360,7 @@
         "category": "cover"
       },
       {
-        "title": "【Korean COVER】도쿄구울 - Unravel【성우 김혜성】",
+        "title": "Unravel【성우 김혜성】 【Korean COVER】도쿄구울",
         "youtubeId": "qxyH5bGscCQ",
         "category": "cover"
       }
@@ -1363,6 +1498,11 @@
         "title": "Starlight Connect MV | [블루 아카이브] 트리니티 자경단",
         "youtubeId": "oKBJzW6Fa-c",
         "category": "game"
+      },
+      {
+        "title": "매일을 기억해❤️원신 팬송❤️ | Remember Our Days",
+        "youtubeId": "zZ-A7SEZJ-M",
+        "category": "etc"
       }
     ],
     "theme": "blue",
@@ -1376,6 +1516,11 @@
         "title": "Starlight Connect MV | [블루 아카이브] 트리니티 자경단",
         "youtubeId": "oKBJzW6Fa-c",
         "category": "game"
+      },
+      {
+        "title": "네모의 꿈 cover | [트릭컬리바이브]캬롯 목소리로 듣는 아이유 - 네모의 꿈 cover",
+        "youtubeId": "DJm3IUMDvd8",
+        "category": "cover"
       }
     ],
     "theme": "blue",
@@ -1384,11 +1529,22 @@
   {
     "id": 1778031867494.6257,
     "name": "박시윤(성우)",
+    "description": "",
     "songs": [
       {
         "title": "채색 캔버스 (Korean Ver.) MV | [블루 아카이브]",
         "youtubeId": "LU_b324AzMU",
         "category": "game"
+      },
+      {
+        "title": "울면 안돼 (울어도 돼) | 스피키 🎄❤️",
+        "youtubeId": "FeHDKMilBl0",
+        "category": "cover"
+      },
+      {
+        "title": "스피키 아니 네르 아니 크레페가 부르는 '수고했어 오늘도'",
+        "youtubeId": "HzBSKVSpvIk",
+        "category": "cover"
       }
     ],
     "theme": "blue",
@@ -3011,13 +3167,13 @@
     "description": "",
     "songs": [
       {
-        "title": "나루토 1기 오프닝 한국판 - 활주",
-        "youtubeId": "XT_inuStmBs",
+        "title": "Naruto Korean op2(투지)",
+        "youtubeId": "MU-gHVOjaxc",
         "category": "anime_sub"
       },
       {
-        "title": "Naruto Korean op2(투지)",
-        "youtubeId": "MU-gHVOjaxc",
+        "title": "활주 | 나루토 1기 오프닝 한국판",
+        "youtubeId": "XT_inuStmBs",
         "category": "anime_sub"
       }
     ],
@@ -3078,6 +3234,11 @@
         "title": "바람의 라라라~ 소중한 우리들의 시간 (한국어버젼)",
         "youtubeId": "QA9uj8k1jIE",
         "category": "anime_kids"
+      },
+      {
+        "title": "빛이 될거야 | 명탐정 코난 1기",
+        "youtubeId": "vihrlRWrYHA",
+        "category": "anime_sub"
       }
     ],
     "theme": "pink",
@@ -3474,6 +3635,16 @@
         "title": "아기공룡 둘리 - 얼음별 대모험 엔딩곡",
         "youtubeId": "LUOPgy-CFfo",
         "category": "anime_kids"
+      },
+      {
+        "title": "Running to you | 라프텔 오리지널 Coming Soon... 🌊| 용한소녀 | 공식 오프닝",
+        "youtubeId": "K-zA-XjmM0E",
+        "category": "anime_sub"
+      },
+      {
+        "title": "Caramel | 애니메이션 이두나! 오프닝",
+        "youtubeId": "KhymVsLJjCc",
+        "category": "anime_sub"
       }
     ],
     "theme": "pink",
@@ -3517,6 +3688,11 @@
         "title": "ANIMA POWER - QWER  | 동물특공대 - 리그 오브 레전드",
         "youtubeId": "BLnkLdzlCx4",
         "category": "game"
+      },
+      {
+        "title": "QWER '메아리(REBOUND)’ Band Special Clip",
+        "youtubeId": "1dzoJvvjrm8",
+        "category": "etc"
       }
     ],
     "theme": "pink",
@@ -3580,7 +3756,7 @@
     "description": "",
     "songs": [
       {
-        "title": "부리부리 댄스 파티",
+        "title": "부리부리 댄스 파티 | 노라조",
         "youtubeId": "Xy01aoI7BII",
         "category": "anime_kids"
       }
@@ -4110,11 +4286,6 @@
         "category": "anime_kids"
       },
       {
-        "title": "개구리중사케로로 6기 오프닝 [케로로 시대]",
-        "youtubeId": "IG3aWUAP8eI",
-        "category": "anime_kids"
-      },
-      {
         "title": "캐릭캐릭체인지 엔딩 나만의 나",
         "youtubeId": "ukoeV8oIA3c",
         "category": "anime_kids"
@@ -4132,6 +4303,11 @@
       {
         "title": "치고 받고 케로로 | 개구리 중사 케로로 5기 오프닝",
         "youtubeId": "jN_BoN6PH9E",
+        "category": "anime_kids"
+      },
+      {
+        "title": "케로로 시대 | 개구리중사케로로 6기 오프닝",
+        "youtubeId": "IG3aWUAP8eI",
         "category": "anime_kids"
       }
     ],
