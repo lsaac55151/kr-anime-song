@@ -1,5 +1,44 @@
 [
   {
+    "id": 1779706403499.607,
+    "name": "이형석",
+    "songs": [
+      {
+        "title": "울트라맨 가이아 오프닝",
+        "youtubeId": "ZFFu9w1q6uU",
+        "category": "drama"
+      }
+    ],
+    "theme": "blue",
+    "date": 1779706403499
+  },
+  {
+    "id": 1779706281430.731,
+    "name": "곽태호",
+    "songs": [
+      {
+        "title": "Wake up Decker! | [우리말 더빙] 울트라맨 데커 오프닝",
+        "youtubeId": "Mdsto1Os-Z8",
+        "category": "drama"
+      }
+    ],
+    "theme": "blue",
+    "date": 1779706281430
+  },
+  {
+    "id": 1779706070339.699,
+    "name": "장태혁(성우)",
+    "songs": [
+      {
+        "title": "가면라이더 제츠 더빙판2장 오프닝",
+        "youtubeId": "CQPHLy0Av9M",
+        "category": "drama"
+      }
+    ],
+    "theme": "blue",
+    "date": 1779706070339
+  },
+  {
     "id": 1779530461410.2366,
     "name": "애슐리 알리샤(Ashley Alisha)",
     "songs": [
@@ -550,6 +589,11 @@
         "title": "RUDE (Cover by Elf2Elf) 🎶Hearts2Hearts | 트릭컬 리바이브",
         "youtubeId": "N90g_cSoDqM",
         "category": "cover"
+      },
+      {
+        "title": "Catch You Catch Me | 카드캡터 체리 재더빙 1기 OP",
+        "youtubeId": "KHxBqH5sUR8",
+        "category": "anime_sub"
       }
     ],
     "theme": "blue",
@@ -3438,7 +3482,7 @@
   },
   {
     "id": 1777815560507,
-    "name": "미확인",
+    "name": "[미확인]",
     "description": "",
     "songs": [
       {
@@ -3645,6 +3689,26 @@
         "title": "Caramel | 애니메이션 이두나! 오프닝",
         "youtubeId": "KhymVsLJjCc",
         "category": "anime_sub"
+      },
+      {
+        "title": "울트라맨 뫼비우스 오프닝",
+        "youtubeId": "ycVz3Gz8-bA",
+        "category": "drama"
+      },
+      {
+        "title": "우리 친구 커비 | [FHD]별의 커비 OP",
+        "youtubeId": "OXB6Ewsj9zg",
+        "category": "anime_kids"
+      },
+      {
+        "title": "울트라맨 다이나(다이너) - 더빙판 오프닝",
+        "youtubeId": "5lov94x288A",
+        "category": "drama"
+      },
+      {
+        "title": "울트라맨 엑스OP",
+        "youtubeId": "W2G7UafkcGw",
+        "category": "drama"
       }
     ],
     "theme": "pink",
@@ -3848,6 +3912,11 @@
         "title": "혜성 | 블리치 3기 ED",
         "youtubeId": "ZnR0JiQGxRE",
         "category": "anime_sub"
+      },
+      {
+        "title": "Audition(오디션) | 마기 1기 op",
+        "youtubeId": "Bwsmt9Ho6SU",
+        "category": "anime_kids"
       }
     ],
     "theme": "pink",
