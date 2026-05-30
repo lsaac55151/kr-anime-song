@@ -1,5 +1,25 @@
 [
   {
+    "id": 1780106347382.3613,
+    "name": "정재윤",
+    "songs": [],
+    "theme": "blue",
+    "date": 1780106347382
+  },
+  {
+    "id": 1780106347382.9036,
+    "name": "박응식",
+    "songs": [
+      {
+        "title": "모험의 시작 | 포켓몬 1기 op",
+        "youtubeId": "NZzc_Vdg-SY",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780106347382
+  },
+  {
     "id": 1780103660044,
     "name": "김상조",
     "songs": [
@@ -3198,13 +3218,13 @@
     "description": "",
     "songs": [
       {
-        "title": "웃어봐",
-        "youtubeId": "tUCP53Qs9-g",
+        "title": "슈퍼갤즈 op 그녀석",
+        "youtubeId": "E3LPSlX8NgI",
         "category": "anime_kids"
       },
       {
-        "title": "슈퍼갤즈 op 그녀석",
-        "youtubeId": "E3LPSlX8NgI",
+        "title": "웃어봐 | 포켓몬스터 DP 오프닝",
+        "youtubeId": "tUCP53Qs9-g",
         "category": "anime_kids"
       }
     ],
@@ -3220,6 +3240,10 @@
         "title": "포켓몬 Love Forever - 포켓몬스터 DP 5기 OP 오프닝",
         "youtubeId": "EgUv89YVPX8",
         "category": "anime_kids"
+      },
+      {
+        "title": "웃어봐 | 포켓몬스터 DP 오프닝",
+        "youtubeId": "tUCP53Qs9-g"
       }
     ],
     "theme": "pink",
@@ -4449,7 +4473,17 @@
         "category": "anime_kids"
       },
       {
-        "title": "우리는 모두 친구 | 극장판 포켓몬스터 너로 정했다!",
+        "title": "모험의 시작 | 포켓몬 1기 op",
+        "youtubeId": "NZzc_Vdg-SY",
+        "category": "anime_kids"
+      },
+      {
+        "title": "포켓몬 포에버 | 포켓몬스터 무인편 2기 op",
+        "youtubeId": "VwojeBrzJE0",
+        "category": "anime_kids"
+      },
+      {
+        "title": "우리는 모두 친구(2017) | 극장판 포켓몬스터 너로 정했다!",
         "youtubeId": "Xm_lnAIclY0",
         "category": "anime_kids"
       }
@@ -4732,6 +4766,16 @@
       {
         "title": "파워 업 | 디지몬 어드벤처 오프닝  - TULA - [Digimon Adventure Opening Theme Korea] 가사영상",
         "youtubeId": "5LWWJyJ2r_0",
+        "category": "anime_kids"
+      },
+      {
+        "title": "포켓몬 포에버 | 포켓몬스터 무인편 2기 op",
+        "youtubeId": "VwojeBrzJE0",
+        "category": "anime_kids"
+      },
+      {
+        "title": "모험의 시작 | 포켓몬 1기 op",
+        "youtubeId": "NZzc_Vdg-SY",
         "category": "anime_kids"
       }
     ],
