@@ -1,5 +1,44 @@
 [
   {
+    "id": 1780107081019.0571,
+    "name": "이지혜",
+    "songs": [
+      {
+        "title": "프란다스의 개(플란다스의 개) 오프닝 (1976)",
+        "youtubeId": "GHjzp5NKnmg",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780107081019
+  },
+  {
+    "id": 1780106793374.9163,
+    "name": "펀치",
+    "songs": [
+      {
+        "title": "빠샤 렛츠 고! | [빠샤메카드] 메카니멀과 테이머의 신나는 배틀! 빠샤메카드 오프닝",
+        "youtubeId": "a0uJjTDfPZI",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780106793374
+  },
+  {
+    "id": 1780106793374.4758,
+    "name": "디노",
+    "songs": [
+      {
+        "title": "빠샤 렛츠 고! | [빠샤메카드] 메카니멀과 테이머의 신나는 배틀! 빠샤메카드 오프닝",
+        "youtubeId": "a0uJjTDfPZI",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780106793374
+  },
+  {
     "id": 1780106347382.3613,
     "name": "정재윤",
     "songs": [],
@@ -2785,6 +2824,11 @@
         "title": "마법전사 유캔도 1기&2기 오프닝",
         "youtubeId": "5ReZvfjMpCw",
         "category": "drama"
+      },
+      {
+        "title": "출동! 레스큐포스 1기 오프닝 HD",
+        "youtubeId": "gRqjzpus6yY",
+        "category": "drama"
       }
     ],
     "theme": "blue",
@@ -3671,11 +3715,6 @@
         "category": "anime_kids"
       },
       {
-        "title": "출동! 레스큐포스 1기 오프닝 HD",
-        "youtubeId": "gRqjzpus6yY",
-        "category": "drama"
-      },
-      {
         "title": "케이캅 오프닝",
         "youtubeId": "q6Dj3Xphvvw",
         "category": "drama"
@@ -3693,11 +3732,6 @@
       {
         "title": "티미의 못말리는수호천사들",
         "youtubeId": "WvY0usvfNO4",
-        "category": "anime_kids"
-      },
-      {
-        "title": "플란다스의 개 오프닝 한국판",
-        "youtubeId": "hzPG5gvWVU8",
         "category": "anime_kids"
       },
       {
@@ -3874,6 +3908,11 @@
         "title": "울트라맨 엑스OP",
         "youtubeId": "W2G7UafkcGw",
         "category": "drama"
+      },
+      {
+        "title": "플란다스의 개 오프닝 구더빙판",
+        "youtubeId": "hzPG5gvWVU8",
+        "category": "anime_kids"
       }
     ],
     "theme": "pink",
@@ -4632,7 +4671,7 @@
     "description": "",
     "songs": [
       {
-        "title": "미소의 세상 OP - 너에게만",
+        "title": "너에게만 | 미소의 세상 OP",
         "youtubeId": "d4joBRMSG-Q",
         "category": "anime_kids"
       }
@@ -4685,11 +4724,6 @@
         "category": "anime_sub"
       },
       {
-        "title": "세계명작극장 - 플란다스의 개 OP",
-        "youtubeId": "QIuRjoicafU",
-        "category": "anime_kids"
-      },
-      {
         "title": "This Game(노 게임 노 라이프) | 한국어 커버",
         "youtubeId": "xQgXxZoNbyE",
         "category": "cover"
@@ -4713,6 +4747,11 @@
         "title": "희망 (hope) 【성우 장예나, 성우 김민주】",
         "youtubeId": "9MpMe8evP2w",
         "category": "cover"
+      },
+      {
+        "title": "플란다스의 개 OP 재더빙판",
+        "youtubeId": "QIuRjoicafU",
+        "category": "anime_kids"
       }
     ],
     "theme": "pink",
