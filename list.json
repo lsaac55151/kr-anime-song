@@ -1,5 +1,277 @@
 [
   {
+    "id": 1780198617541.8477,
+    "name": "원투",
+    "songs": [
+      {
+        "title": "흔들어 | 개구리 중사 케로로 ED",
+        "youtubeId": "aXkRR7SKeUs",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780198617541
+  },
+  {
+    "id": 1780198557466.141,
+    "name": "이수지",
+    "songs": [
+      {
+        "title": "신데렐라는 되기 싫어 | 침푸이 엔딩 리메이크",
+        "youtubeId": "-W4_Jir0kW0",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780198557466
+  },
+  {
+    "id": 1780198402546.3772,
+    "name": "문남숙(성우)",
+    "songs": [
+      {
+        "title": "도라에몽 그리기",
+        "youtubeId": "2SojPurh_rM",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780198402546
+  },
+  {
+    "id": 1780198199623.423,
+    "name": "정혜옥(성우)",
+    "songs": [
+      {
+        "title": "100% 용기(성우 ver)| 닌자 보이 란타로 (Nintama Rantarou)",
+        "youtubeId": "0pxLHiwrK-I",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780198199623
+  },
+  {
+    "id": 1780198199623.267,
+    "name": "정선혜(성우)",
+    "songs": [
+      {
+        "title": "100% 용기(성우 ver)| 닌자 보이 란타로 (Nintama Rantarou)",
+        "youtubeId": "0pxLHiwrK-I",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780198199623
+  },
+  {
+    "id": 1780197967646.4888,
+    "name": "브로큰 발렌타인",
+    "songs": [
+      {
+        "title": "Get you Gun | 나루토 질풍전 5기 op",
+        "youtubeId": "IODZEPu7Zt8",
+        "category": "anime_sub"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780197967646
+  },
+  {
+    "id": 1780197941937.024,
+    "name": "권기욱",
+    "songs": [
+      {
+        "title": "결의 | 나루토 질풍전 3기 오프닝",
+        "youtubeId": "5j5YFknZiz8",
+        "category": "anime_sub"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780197941937
+  },
+  {
+    "id": 1780197856265.1953,
+    "name": "이승열",
+    "songs": [
+      {
+        "title": "풍운 | 나루토 질풍전 1기 오프닝",
+        "youtubeId": "vhbAQElCxy8",
+        "category": "anime_sub"
+      },
+      {
+        "title": "풍운 ver2 | 나루토 질풍전 2기 오프닝",
+        "youtubeId": "sJdkAnLomIU",
+        "category": "anime_sub"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780197856265
+  },
+  {
+    "id": 1780197456685.5154,
+    "name": "제로베이스원(ZEROBASEONE)",
+    "songs": [
+      {
+        "title": "Only One Story | 포켓몬스터: 레쿠쟈 라이징 OP - ZEROBASEONE (제로베이스원) (Kor Full ver.)",
+        "youtubeId": "Z9Zx6ak02II",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780197456685
+  },
+  {
+    "id": 1780197406519.7896,
+    "name": "NCT WISH",
+    "songs": [
+      {
+        "title": "Make You Shine | 포켓몬스터: 테라스탈 데뷔 ED - NCT WISH (엔시티 위시) (Full Ver.)",
+        "youtubeId": "cDGx019Ku0c",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780197406519
+  },
+  {
+    "id": 1780197371291,
+    "name": "아이브(IVE)",
+    "songs": [
+      {
+        "title": "Will | [공식] 포켓몬스터: 테라스탈 데뷔 OP - 아이브 (IVE)  (Kor Ver.)",
+        "youtubeId": "OqX8NuHVTy0",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780197371291
+  },
+  {
+    "id": 1780197353724.9785,
+    "name": "IVE",
+    "songs": [],
+    "theme": "blue",
+    "date": 1780197353724
+  },
+  {
+    "id": 1780197329540.6648,
+    "name": "조곤",
+    "songs": [
+      {
+        "title": "너와 함께라면 | 포켓몬스터 : 리코와 로드의 모험 ED - 9001",
+        "youtubeId": "FWBatVroakk",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780197329540
+  },
+  {
+    "id": 1780197267985.319,
+    "name": "유석진",
+    "songs": [
+      {
+        "title": "JUMP UP | 포켓몬스터W NEW 엔딩곡 영상",
+        "youtubeId": "hDEdeZIP9mY",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780197267985
+  },
+  {
+    "id": 1780197219663.7283,
+    "name": "이일송",
+    "songs": [
+      {
+        "title": "여행의 시작(포켓몬스터 W OP)",
+        "youtubeId": "CLT8eUYiZkY",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780197219663
+  },
+  {
+    "id": 1780196788478.169,
+    "name": "정미영",
+    "songs": [
+      {
+        "title": "미라클 | 디지몬 프론티어 ED",
+        "youtubeId": "qHSB4KxsNpg",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780196788478
+  },
+  {
+    "id": 1780196766615.7117,
+    "name": "지무",
+    "songs": [
+      {
+        "title": "디지몬 프로티어 | 디지몬 프론티어 오프닝",
+        "youtubeId": "avqT54eMEnU",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780196766615
+  },
+  {
+    "id": 1780196533867.045,
+    "name": "슈퍼주니어",
+    "songs": [
+      {
+        "title": "So I | 배틀짱(우에키의 법칙) ED",
+        "youtubeId": "fkH5N5O2JnI",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780196533867
+  },
+  {
+    "id": 1780196407790.0425,
+    "name": "마이네임",
+    "songs": [
+      {
+        "title": "we go | 원피스 17기(더빙판) OP",
+        "youtubeId": "r65ChRiy3IY",
+        "category": "anime_sub"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780196407790
+  },
+  {
+    "id": 1780196296580.1243,
+    "name": "김우주",
+    "songs": [
+      {
+        "title": "sd건담 삼국지오프닝",
+        "youtubeId": "tJEP3lGak2Q",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780196296580
+  },
+  {
+    "id": 1780196264513.7039,
+    "name": "JQT",
+    "songs": [
+      {
+        "title": "두근두근 예! 예! | 캐릭캐릭 체인지 두근두근 op",
+        "youtubeId": "GD0-BQiIpJE",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780196264513
+  },
+  {
     "id": 1780190365693.356,
     "name": "그린필드",
     "songs": [
@@ -2868,6 +3140,11 @@
         "title": "으랏차차 짠돌이네 오프닝",
         "youtubeId": "oTamihwZGJo",
         "category": "anime_kids"
+      },
+      {
+        "title": "꾸러기 닌자 토리 오프닝",
+        "youtubeId": "WK7UKwkmtUI",
+        "category": "anime_kids"
       }
     ],
     "theme": "blue",
@@ -3218,6 +3495,11 @@
         "title": "안녕 자두야 Opening full",
         "youtubeId": "T_g0mWBeMCM",
         "category": "anime_kids"
+      },
+      {
+        "title": "6쌍둥이 타령 | 육가네 6쌍둥이 엔딩",
+        "youtubeId": "Pd0MBmOoP_w",
+        "category": "anime_kids"
       }
     ],
     "theme": "blue",
@@ -3363,6 +3645,11 @@
         "title": "허클베리 핀 (1986年)",
         "youtubeId": "zlNZOvRxLxc",
         "category": "anime_kids"
+      },
+      {
+        "title": "그래 그래 | 미소의 세상 2기 ED엔딩",
+        "youtubeId": "EBOszmshKdY",
+        "category": "anime_kids"
       }
     ],
     "theme": "blue",
@@ -3375,6 +3662,11 @@
       {
         "title": "카드캡터체리 오프닝",
         "youtubeId": "e6zp5Qob9ko",
+        "category": "anime_kids"
+      },
+      {
+        "title": "안녕! 디지몬 | 디지몬 어드벤처 엔딩 (HD 리마스터)",
+        "youtubeId": "Z-FDSbbMIxE",
         "category": "anime_kids"
       }
     ],
@@ -3934,11 +4226,11 @@
   },
   {
     "id": 1777821251543,
-    "name": "버즈",
+    "name": "버즈(BUZZ)",
     "description": "",
     "songs": [
       {
-        "title": "Naruto Korean op2(투지)",
+        "title": "투지 | 나루토 오프닝 2",
         "youtubeId": "MU-gHVOjaxc",
         "category": "anime_sub"
       },
@@ -4445,6 +4737,101 @@
       {
         "title": "신밧드의 모험(1976~1977)",
         "youtubeId": "hsjNAPlpzLs",
+        "category": "anime_kids"
+      },
+      {
+        "title": "원피스 엔딩",
+        "youtubeId": "enwztTPEtQE",
+        "category": "anime_sub"
+      },
+      {
+        "title": "카모밀레 | 배틀짱 OP  복원판",
+        "youtubeId": "Br2u5eP3Waw",
+        "category": "anime_kids"
+      },
+      {
+        "title": "파워디지몬 오프닝",
+        "youtubeId": "1zHuSZ97tWg",
+        "category": "anime_kids"
+      },
+      {
+        "title": "to my wish | 파워 디지몬",
+        "youtubeId": "wqAYTehbbRw",
+        "category": "anime_kids"
+      },
+      {
+        "title": "디지몬 세이버즈 오프닝",
+        "youtubeId": "SU_3Pgvu7QY",
+        "category": "anime_kids"
+      },
+      {
+        "title": "디지몬 세이버즈 엔딩",
+        "youtubeId": "5NV7tfUYnFA",
+        "category": "anime_kids"
+      },
+      {
+        "title": "포켓몬스터AG 오프닝",
+        "youtubeId": "Mlyd0YqdC3k",
+        "category": "anime_kids"
+      },
+      {
+        "title": "내친구와 함께 | 720P 공식포켓몬스터 베스트위시2 오프닝",
+        "youtubeId": "x8zkWOAHncU",
+        "category": "anime_kids"
+      },
+      {
+        "title": "하나 지방 포켓몬 외워보자 | 포켓몬스터 베스트위시 ED",
+        "youtubeId": "kXrw7RLWVsM",
+        "category": "anime_kids"
+      },
+      {
+        "title": "포켓몬스터 XY new오프닝",
+        "youtubeId": "JyhZE5ml594",
+        "category": "anime_kids"
+      },
+      {
+        "title": "포켓몬스터 썬&문 오프닝",
+        "youtubeId": "IriVSHEvNMs",
+        "category": "anime_kids"
+      },
+      {
+        "title": "꿈의 세계 | 포켓몬스터썬&문 시즌3 NEW 엔딩",
+        "youtubeId": "1svS5XUe5hI",
+        "category": "anime_kids"
+      },
+      {
+        "title": "빛나는 너를 만나 | 포켓몬스터 썬&문 2018 NEW 오프닝!!",
+        "youtubeId": "ycf0jLwjTuk",
+        "category": "anime_kids"
+      },
+      {
+        "title": "마법천자문 TV 애니메이션 주제곡",
+        "youtubeId": "yNw2bk2h18g",
+        "category": "anime_kids"
+      },
+      {
+        "title": "너는 내게 | 나루토 1기 엔딩 한국판",
+        "youtubeId": "Cn-QVW3J9HE",
+        "category": "anime_sub"
+      },
+      {
+        "title": "너를 떠나 보낸 나의 2야기 | 나루토 2기 엔딩 한국판",
+        "youtubeId": "Ic9nMuYsZEI",
+        "category": "anime_sub"
+      },
+      {
+        "title": "나만의 나 | 보루토 1기오프닝",
+        "youtubeId": "9_qBMPsocik",
+        "category": "anime_sub"
+      },
+      {
+        "title": "100% 용기 | 닌자 보이 란타로 (Nintama Rantarou)",
+        "youtubeId": "aamiAAcF3FA",
+        "category": "anime_kids"
+      },
+      {
+        "title": "퍼맨 오프닝",
+        "youtubeId": "T2fh4l_EFac",
         "category": "anime_kids"
       }
     ],
@@ -5058,6 +5445,11 @@
         "title": "우리는 모두 친구(2017) | 극장판 포켓몬스터 너로 정했다!",
         "youtubeId": "Xm_lnAIclY0",
         "category": "anime_kids"
+      },
+      {
+        "title": "태극천자문 엔딩 (꼭! 꼭!설참)",
+        "youtubeId": "yRFgFvIyeTI",
+        "category": "anime_kids"
       }
     ],
     "theme": "pink",
@@ -5125,6 +5517,11 @@
         "title": "케로로 시대 | 개구리중사케로로 6기 오프닝",
         "youtubeId": "IG3aWUAP8eI",
         "category": "anime_kids"
+      },
+      {
+        "title": "부탁해요 침푸이 | 침푸이 OP",
+        "youtubeId": "12fnGTQ1ffc",
+        "category": "anime_kids"
       }
     ],
     "theme": "pink",
@@ -5179,6 +5576,11 @@
         "title": "Glittering Dreams | 쿠키런: 킹덤 공식 MV | [Sub] 샤이닝글리터맛 쿠키",
         "youtubeId": "dLVgDTGzNwY",
         "category": "game"
+      },
+      {
+        "title": "100% 용기(성우 ver)| 닌자 보이 란타로 (Nintama Rantarou)",
+        "youtubeId": "0pxLHiwrK-I",
+        "category": "anime_kids"
       }
     ],
     "theme": "pink",
@@ -5221,6 +5623,11 @@
         "title": "그대여 고귀할지어다 [기동전사 건담 수성의 마녀] ED",
         "youtubeId": "BDvvzaEtXKQ",
         "category": "anime_sub"
+      },
+      {
+        "title": "FLY HIGH |「포켓몬스터W」 Part2 오프닝 공개!",
+        "youtubeId": "H0sq1P_pmZA",
+        "category": "anime_kids"
       }
     ],
     "theme": "pink",
@@ -5348,6 +5755,11 @@
       {
         "title": "모험의 시작 | 포켓몬 1기 op",
         "youtubeId": "NZzc_Vdg-SY",
+        "category": "anime_kids"
+      },
+      {
+        "title": "아버지 응원가 | 육가네 6쌍둥이 오프닝",
+        "youtubeId": "2WdDwAlLMYU",
         "category": "anime_kids"
       }
     ],
