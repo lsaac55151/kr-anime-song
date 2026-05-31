@@ -1,5 +1,44 @@
 [
   {
+    "id": 1780214321845.758,
+    "name": "류점희(성우)",
+    "songs": [
+      {
+        "title": "케로로 행진곡 (Final ver.) | 케로로 소대 7기 오프닝",
+        "youtubeId": "iIXeyIIQHJQ",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780214321845
+  },
+  {
+    "id": 1780214321845.008,
+    "name": "김장(성우)",
+    "songs": [
+      {
+        "title": "케로로 행진곡 (Final ver.) | 케로로 소대 7기 오프닝",
+        "youtubeId": "iIXeyIIQHJQ",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780214321845
+  },
+  {
+    "id": 1780214321845.014,
+    "name": "강수진(성우)",
+    "songs": [
+      {
+        "title": "케로로 행진곡 (Final ver.) | 케로로 소대 7기 오프닝",
+        "youtubeId": "iIXeyIIQHJQ",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780214321845
+  },
+  {
     "id": 1780198617541.8477,
     "name": "원투",
     "songs": [
@@ -1368,6 +1407,11 @@
       {
         "title": "치고 받고 케로로 | 개구리 중사 케로로 5기 오프닝",
         "youtubeId": "jN_BoN6PH9E",
+        "category": "anime_kids"
+      },
+      {
+        "title": "케로로 행진곡 (Final ver.) | 케로로 소대 7기 오프닝",
+        "youtubeId": "iIXeyIIQHJQ",
         "category": "anime_kids"
       }
     ],
@@ -5178,6 +5222,11 @@
         "title": "질풍가도 (쾌걸 근육맨 2세, 여는 노래) - 유정석",
         "youtubeId": "KNbElX-MppY",
         "category": "anime_sub"
+      },
+      {
+        "title": "아~ 진짜 | Keroro ending 7 케로로 7기 엔딩 / keroro ed 7 [korean]",
+        "youtubeId": "mOwgdc_0XVQ",
+        "category": "anime_kids"
       }
     ],
     "theme": "pink",
@@ -5521,6 +5570,16 @@
       {
         "title": "부탁해요 침푸이 | 침푸이 OP",
         "youtubeId": "12fnGTQ1ffc",
+        "category": "anime_kids"
+      },
+      {
+        "title": "케로로 행진곡 (Final ver.) | 케로로 소대 7기 오프닝",
+        "youtubeId": "iIXeyIIQHJQ",
+        "category": "anime_kids"
+      },
+      {
+        "title": "위풍당당 케로로 | 개구리 중사 케로로 2기 OP",
+        "youtubeId": "C4R1HB74gMw",
         "category": "anime_kids"
       }
     ],
