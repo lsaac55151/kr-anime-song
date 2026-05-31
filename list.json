@@ -1,11 +1,369 @@
 [
   {
+    "id": 1780190365693.356,
+    "name": "그린필드",
+    "songs": [
+      {
+        "title": "스파이더맨 (1979年)",
+        "youtubeId": "haVvAGdgN5w",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780190365693
+  },
+  {
+    "id": 1780190329361.3442,
+    "name": "곽미희",
+    "songs": [
+      {
+        "title": "알프스소녀 하이디 (1982年)",
+        "youtubeId": "HAGlQhoO_Pg",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780190329361
+  },
+  {
+    "id": 1780190124010.543,
+    "name": "유영석",
+    "songs": [
+      {
+        "title": "우리들이 간다 | 두치와 뿌꾸 (1996年)",
+        "youtubeId": "YpYejhb191k",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780190124010
+  },
+  {
+    "id": 1780189987406.3809,
+    "name": "최성한",
+    "songs": [
+      {
+        "title": "우주소년 토토 (1983年",
+        "youtubeId": "sa0AR2oKRU8",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780189987406
+  },
+  {
+    "id": 1780189872892.059,
+    "name": "혜은이",
+    "songs": [
+      {
+        "title": "들장미 소녀 캔디 (1983年)",
+        "youtubeId": "SPwohVATg80",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780189872892
+  },
+  {
+    "id": 1780189740707.7644,
+    "name": "이경우",
+    "songs": [
+      {
+        "title": "우뢰매 | 뉴머신 우뢰매 OST (1988年)",
+        "youtubeId": "SusnxK5meuM",
+        "category": "etc"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780189740707
+  },
+  {
+    "id": 1780189740707.072,
+    "name": "홍영란",
+    "songs": [
+      {
+        "title": "우뢰매 | 뉴머신 우뢰매 OST (1988年)",
+        "youtubeId": "SusnxK5meuM",
+        "category": "etc"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780189740707
+  },
+  {
+    "id": 1780189699640.64,
+    "name": "참새",
+    "songs": [
+      {
+        "title": "무적의 실버호크 (1988年)",
+        "youtubeId": "KnzWe_A842I",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780189699640
+  },
+  {
+    "id": 1780189603558.571,
+    "name": "박진희",
+    "songs": [
+      {
+        "title": "각시탈 (1986年)",
+        "youtubeId": "qfLZu-lohVQ",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780189603558
+  },
+  {
+    "id": 1780189242670.4922,
+    "name": "이혜민",
+    "songs": [
+      {
+        "title": "미래소년 코난 (1982年)",
+        "youtubeId": "WuGuNDNurBA",
+        "category": "anime_kids"
+      },
+      {
+        "title": "미래소년 코난 (1994年)",
+        "youtubeId": "fYV_zt8F2bw",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780189242670
+  },
+  {
+    "id": 1780189189160.5344,
+    "name": "박우철",
+    "songs": [
+      {
+        "title": "원탁의 기사 (1981年)",
+        "youtubeId": "yL_pn2wq2fI",
+        "category": "anime_kids"
+      },
+      {
+        "title": "원탁의 기사 (1980年)",
+        "youtubeId": "78QEYiEAAN0",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780189189160
+  },
+  {
+    "id": 1780189111296.134,
+    "name": "장우",
+    "songs": [
+      {
+        "title": "그랜다이저 (1981年)",
+        "youtubeId": "NsWI2Wi0IsA",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780189111296
+  },
+  {
+    "id": 1780188928618.3735,
+    "name": "김준",
+    "songs": [
+      {
+        "title": "날아라 독수리 (1979年) | 독수리5형제",
+        "youtubeId": "rk_IWnHxPkE",
+        "category": "anime_kids"
+      },
+      {
+        "title": "그랜다이저 (1981年)",
+        "youtubeId": "NsWI2Wi0IsA",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780188928618
+  },
+  {
+    "id": 1780188828703.279,
+    "name": "세송이",
+    "songs": [
+      {
+        "title": "우주 흑기사 (1979年)",
+        "youtubeId": "lTJ5Bl6dyWw",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780188828703
+  },
+  {
+    "id": 1780188734475.6013,
+    "name": "김도향",
+    "songs": [
+      {
+        "title": "별나라 삼총사 (1979年)",
+        "youtubeId": "29KIN8Kn9zk",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780188734475
+  },
+  {
+    "id": 1780188709854.525,
+    "name": "별셋",
+    "songs": [
+      {
+        "title": "그레이트 마징가 (1978年)",
+        "youtubeId": "31gywLYIiGk",
+        "category": "anime_kids"
+      },
+      {
+        "title": "우주소년 캐시 (1979年)",
+        "youtubeId": "3wYrBlGis1o",
+        "category": "anime_kids"
+      },
+      {
+        "title": "독수리 5형제 (1979年)",
+        "youtubeId": "JZncAfhUcRo",
+        "category": "anime_kids"
+      },
+      {
+        "title": "애꾸눈 선장 (1980年)",
+        "youtubeId": "T0mafAkQFVs",
+        "category": "anime_kids"
+      },
+      {
+        "title": "애꾸눈 하록 (1982年) |  하록선장 OST",
+        "youtubeId": "NL0mZ0qw3KA",
+        "category": "anime_kids"
+      },
+      {
+        "title": "슈퍼 마징가3 (1982年)",
+        "youtubeId": "UQe3TvyxocQ",
+        "category": "anime_kids"
+      },
+      {
+        "title": "슈퍼 특급 마징가 7 (1983年)",
+        "youtubeId": "xnKg2D4ajTE",
+        "category": "anime_kids"
+      },
+      {
+        "title": "불사조 로보트 피닉스킹 (1984年)",
+        "youtubeId": "JbFUG-mWBvk",
+        "category": "anime_kids"
+      },
+      {
+        "title": "스페이스 간담V (1984年)",
+        "youtubeId": "PDG9mEIh7Z8",
+        "category": "anime_kids"
+      },
+      {
+        "title": "허클베리 핀 (1986年)",
+        "youtubeId": "zlNZOvRxLxc",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780188709854
+  },
+  {
+    "id": 1780188683807.6653,
+    "name": "최수민",
+    "songs": [
+      {
+        "title": "도깨비 섬으로 (1979年) | 도깨비 감투 OST",
+        "youtubeId": "XIdSsGncAio",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780188683807
+  },
+  {
+    "id": 1780188624202.1282,
+    "name": "최영재",
+    "songs": [
+      {
+        "title": "짱가 (1979年)",
+        "youtubeId": "qbvlTBgvsXA",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780188624202
+  },
+  {
+    "id": 1780188576181.1638,
+    "name": "김봉환",
+    "songs": [
+      {
+        "title": "우주소년 짱가 (1978年)",
+        "youtubeId": "7Pn4UGHjCLg",
+        "category": "anime_kids"
+      },
+      {
+        "title": "정의의 소년 캐산 (1980年)",
+        "youtubeId": "zgSHc3BMoL0",
+        "category": "anime_kids"
+      },
+      {
+        "title": "소년 삼국지 (1982年)",
+        "youtubeId": "dG-tlXi4BUw",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780188576181
+  },
+  {
+    "id": 1780188410736.3267,
+    "name": "최호섭",
+    "songs": [
+      {
+        "title": "로보트 태권브이 (1976年)",
+        "youtubeId": "K1nhg_CxYHs",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780188410736
+  },
+  {
+    "id": 1780188368308.8684,
+    "name": "강애리자",
+    "songs": [
+      {
+        "title": "마징가 Z (1976年)",
+        "youtubeId": "Ns_8X7y9aK8",
+        "category": "anime_kids"
+      },
+      {
+        "title": "우주소년 아톰 (1970年)",
+        "youtubeId": "h3rkGOHlJS4",
+        "category": "anime_kids"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780188368308
+  },
+  {
     "id": 1780107081019.0571,
     "name": "이지혜",
     "songs": [
       {
         "title": "프란다스의 개(플란다스의 개) 오프닝 (1976)",
         "youtubeId": "GHjzp5NKnmg",
+        "category": "anime_kids"
+      },
+      {
+        "title": "마징가 Z (1978年)",
+        "youtubeId": "DtWZ81IXOqQ",
+        "category": "anime_kids"
+      },
+      {
+        "title": "이상한 나라 폴 (1982年)",
+        "youtubeId": "Ew9MZrd3Z6I",
         "category": "anime_kids"
       }
     ],
@@ -1449,13 +1807,13 @@
         "category": "anime_sub"
       },
       {
-        "title": "Play On! | 이환 OST (Feat. Raon)",
-        "youtubeId": "gzxCPSePO2E",
+        "title": "종말의 낙원 | 마녀병기 OST  (Cover by Raon Lee)",
+        "youtubeId": "FA1pE3NnrCk",
         "category": "game"
       },
       {
-        "title": "종말의 낙원 | 마녀병기 OST  (Cover by Raon Lee)",
-        "youtubeId": "FA1pE3NnrCk",
+        "title": "Play On! | 이환 OST (Feat. Raon)",
+        "youtubeId": "DqRfBJFrHSQ",
         "category": "game"
       }
     ],
@@ -2925,6 +3283,86 @@
         "title": "카드캡터체리 오프닝",
         "youtubeId": "e6zp5Qob9ko",
         "category": "anime_kids"
+      },
+      {
+        "title": "도깨비 섬으로 (1979年) | 도깨비 감투 OST",
+        "youtubeId": "XIdSsGncAio",
+        "category": "anime_kids"
+      },
+      {
+        "title": "우주소년 캐시 (1979年)",
+        "youtubeId": "3wYrBlGis1o",
+        "category": "anime_kids"
+      },
+      {
+        "title": "은하함대 지구호 (1979年)",
+        "youtubeId": "paAkp7CwnoU",
+        "category": "anime_kids"
+      },
+      {
+        "title": "삼총사 타임머신 001 (1980年)",
+        "youtubeId": "qNPbZ3kQN9k",
+        "category": "anime_kids"
+      },
+      {
+        "title": "슈퍼 마징가3 (1982年)",
+        "youtubeId": "UQe3TvyxocQ",
+        "category": "anime_kids"
+      },
+      {
+        "title": "안드로메타를 향하여 |  슈퍼 마징가3 (1982年)",
+        "youtubeId": "L0SnDXU4KYk",
+        "category": "anime_kids"
+      },
+      {
+        "title": "쏠라 원 투 쓰리 (1982年)",
+        "youtubeId": "WpE7xuCiDqo",
+        "category": "anime_kids"
+      },
+      {
+        "title": "슈퍼 타이탄 15 (1983年)",
+        "youtubeId": "t5ibqEtdqZ4",
+        "category": "anime_kids"
+      },
+      {
+        "title": "은하열차 777  |  슈퍼 타이탄15(1983年)",
+        "youtubeId": "e5lVZuqUs3E",
+        "category": "anime_kids"
+      },
+      {
+        "title": "슈퍼 특급 마징가 7 (1983年)",
+        "youtubeId": "xnKg2D4ajTE",
+        "category": "anime_kids"
+      },
+      {
+        "title": "요술공주 밍키 (1983年)",
+        "youtubeId": "PpNzm3_ydq4",
+        "category": "anime_kids"
+      },
+      {
+        "title": "스페이스 간담V (1984年)",
+        "youtubeId": "PDG9mEIh7Z8",
+        "category": "anime_kids"
+      },
+      {
+        "title": "개구리 왕눈이 (1982年)",
+        "youtubeId": "0XVBYMTRzUA",
+        "category": "anime_kids"
+      },
+      {
+        "title": "해치의 대모험 (1986年)",
+        "youtubeId": "4Ef8-h0nkjM",
+        "category": "anime_kids"
+      },
+      {
+        "title": "개구장이 죠디 (1985年)",
+        "youtubeId": "Daxz8F7f4Ds",
+        "category": "anime_kids"
+      },
+      {
+        "title": "허클베리 핀 (1986年)",
+        "youtubeId": "zlNZOvRxLxc",
+        "category": "anime_kids"
       }
     ],
     "theme": "blue",
@@ -3090,6 +3528,51 @@
         "title": "은하철도 999",
         "youtubeId": "K5O0xzDpV_A",
         "category": "anime_kids"
+      },
+      {
+        "title": "독수리 5형제 (1979年)",
+        "youtubeId": "JZncAfhUcRo",
+        "category": "anime_kids"
+      },
+      {
+        "title": "날아라 독수리 (1979年) | 독수리5형제",
+        "youtubeId": "rk_IWnHxPkE",
+        "category": "anime_kids"
+      },
+      {
+        "title": "오로라 공주와 손오공 (1980年)",
+        "youtubeId": "UdhoMzdcUDg",
+        "category": "anime_kids"
+      },
+      {
+        "title": "눈물 실은 은하철도 | 은하철도 999(1981年)",
+        "youtubeId": "tFbrHR6TeEM",
+        "category": "anime_sub"
+      },
+      {
+        "title": "미래소년 코난 (1982年)",
+        "youtubeId": "WuGuNDNurBA",
+        "category": "anime_kids"
+      },
+      {
+        "title": "천년여왕 (1983年)",
+        "youtubeId": "vGknc8uu8Jw",
+        "category": "anime_kids"
+      },
+      {
+        "title": "메칸더V (1987年",
+        "youtubeId": "_vGu_okQbeQ",
+        "category": "anime_kids"
+      },
+      {
+        "title": "무적의 실버호크 (1988年)",
+        "youtubeId": "KnzWe_A842I",
+        "category": "anime_kids"
+      },
+      {
+        "title": "철인 007 (1976年)",
+        "youtubeId": "KFgCtJPXO7w",
+        "category": "anime_kids"
       }
     ],
     "theme": "pink",
@@ -3108,6 +3591,26 @@
       {
         "title": "은하철도 999",
         "youtubeId": "K5O0xzDpV_A",
+        "category": "anime_kids"
+      },
+      {
+        "title": "눈물 실은 은하철도 | 은하철도 999(1981年)",
+        "youtubeId": "tFbrHR6TeEM",
+        "category": "anime_sub"
+      },
+      {
+        "title": "천년여왕 (1983年)",
+        "youtubeId": "vGknc8uu8Jw",
+        "category": "anime_kids"
+      },
+      {
+        "title": "메칸더V (1987年",
+        "youtubeId": "_vGu_okQbeQ",
+        "category": "anime_kids"
+      },
+      {
+        "title": "미래소년 코난 (1994年)",
+        "youtubeId": "fYV_zt8F2bw",
         "category": "anime_kids"
       }
     ],
@@ -3912,6 +4415,36 @@
       {
         "title": "플란다스의 개 오프닝 구더빙판",
         "youtubeId": "hzPG5gvWVU8",
+        "category": "anime_kids"
+      },
+      {
+        "title": "슈퍼 특공대 (1979年)",
+        "youtubeId": "LQyyjB9vACA",
+        "category": "anime_kids"
+      },
+      {
+        "title": "그로이저X (1980年)",
+        "youtubeId": "iUYA3yhfnUA",
+        "category": "anime_kids"
+      },
+      {
+        "title": "바다의 소년 트리톤 (1981年)",
+        "youtubeId": "C8XuTWJVUlg",
+        "category": "anime_kids"
+      },
+      {
+        "title": "개구장이 스머프 (1985年)",
+        "youtubeId": "sete4IyCxOU",
+        "category": "anime_kids"
+      },
+      {
+        "title": "우리는 해적이다 | 톰소여의 모험",
+        "youtubeId": "7nM-wzygJMg",
+        "category": "anime_kids"
+      },
+      {
+        "title": "신밧드의 모험(1976~1977)",
+        "youtubeId": "hsjNAPlpzLs",
         "category": "anime_kids"
       }
     ],
