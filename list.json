@@ -1,5 +1,18 @@
 [
   {
+    "id": 1780566513771.2712,
+    "name": "강시현(성우)",
+    "songs": [
+      {
+        "title": "여고생 수다클럽 오프닝",
+        "youtubeId": "1-eu5pCgK_s",
+        "category": "anime_sub"
+      }
+    ],
+    "theme": "blue",
+    "date": 1780566513771
+  },
+  {
     "id": 1780480743838.6213,
     "name": "전예찬",
     "songs": [
@@ -1144,6 +1157,11 @@
         "title": "매일을 기억해❤️원신 팬송❤️ | Remember Our Days",
         "youtubeId": "zZ-A7SEZJ-M",
         "category": "etc"
+      },
+      {
+        "title": "여고생 수다클럽 오프닝",
+        "youtubeId": "1-eu5pCgK_s",
+        "category": "anime_sub"
       }
     ],
     "theme": "blue",
@@ -1290,6 +1308,11 @@
         "title": "Deep in abyss 【성우 김연우, 성우 장 미】",
         "youtubeId": "SmIViU0-9Bs",
         "category": "cover"
+      },
+      {
+        "title": "여고생 수다클럽 오프닝",
+        "youtubeId": "1-eu5pCgK_s",
+        "category": "anime_sub"
       }
     ],
     "theme": "blue",
@@ -3210,52 +3233,28 @@
   {
     "id": 1777909958605,
     "name": "김민서(성우)",
-    "songs": [
-      {
-        "title": "STAND UP!!!! | 여고생 수다클럽",
-        "youtubeId": "1-eu5pCgK_s",
-        "category": "anime_sub"
-      }
-    ],
+    "songs": [],
     "theme": "blue",
     "date": 1777909958605
   },
   {
     "id": 1777909950812,
     "name": "이채원(성우)",
-    "songs": [
-      {
-        "title": "STAND UP!!!! | 여고생 수다클럽",
-        "youtubeId": "1-eu5pCgK_s",
-        "category": "anime_sub"
-      }
-    ],
+    "songs": [],
     "theme": "blue",
     "date": 1777909950812
   },
   {
     "id": 1777909942135,
     "name": "박하은(성우)",
-    "songs": [
-      {
-        "title": "STAND UP!!!! | 여고생 수다클럽",
-        "youtubeId": "1-eu5pCgK_s",
-        "category": "anime_sub"
-      }
-    ],
+    "songs": [],
     "theme": "blue",
     "date": 1777909942135
   },
   {
     "id": 1777909925814,
     "name": "정새봄(성우)",
-    "songs": [
-      {
-        "title": "STAND UP!!!! | 여고생 수다클럽",
-        "youtubeId": "1-eu5pCgK_s",
-        "category": "anime_sub"
-      }
-    ],
+    "songs": [],
     "theme": "blue",
     "date": 1777909925814
   },
@@ -5403,6 +5402,11 @@
       {
         "title": "하늘 드리머 (케모노 프렌즈 PPP)",
         "youtubeId": "vC8Uj-X5tZI",
+        "category": "anime_sub"
+      },
+      {
+        "title": "여고생 수다클럽 오프닝",
+        "youtubeId": "1-eu5pCgK_s",
         "category": "anime_sub"
       }
     ],
