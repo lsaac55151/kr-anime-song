@@ -1,18 +1,5 @@
 [
   {
-    "id": 1780948316190.9956,
-    "name": "배연희",
-    "songs": [
-      {
-        "title": "도시의 천사 | 간호천사 리리카SOS KBS판 한국어 OP",
-        "youtubeId": "wxlbowY05Q0",
-        "category": "anime_kids"
-      }
-    ],
-    "theme": "blue",
-    "date": 1780948316190
-  },
-  {
     "id": 1780566513771.2712,
     "name": "강시현(성우)",
     "songs": [
@@ -1225,6 +1212,11 @@
       {
         "title": "황금로봇 골드런 오프닝",
         "youtubeId": "ybgmGn2ABV0",
+        "category": "anime_kids"
+      },
+      {
+        "title": "황금로봇 골드런 오프닝",
+        "youtubeId": "fCr5pGpkk4k",
         "category": "anime_kids"
       }
     ],
