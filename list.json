@@ -4710,12 +4710,7 @@
     "description": "",
     "songs": [
       {
-        "title": "썬더일레븐 mp3",
-        "youtubeId": "tZ3NT4UnaE4",
-        "category": "anime_kids"
-      },
-      {
-        "title": "사랑은 콩다콩 OP - 수줍은 비밀",
+        "title": "수줍은 비밀 | 사랑은 콩다콩 OP",
         "youtubeId": "h2LnQ56Orko",
         "category": "anime_kids"
       },
@@ -4725,12 +4720,12 @@
         "category": "anime_kids"
       },
       {
-        "title": "티미의 못말리는수호천사들",
+        "title": "티미의 못말리는 수호천사들",
         "youtubeId": "WvY0usvfNO4",
         "category": "anime_kids"
       },
       {
-        "title": "레미",
+        "title": "꼬마 마법사 도레미(오자마녀 도레미) | 꼬마 마법사 레미",
         "youtubeId": "G_bUUDljpCE",
         "category": "anime_kids"
       },
@@ -4777,11 +4772,6 @@
       {
         "title": "go!go!다섯쌍둥이 오프닝",
         "youtubeId": "XyeVZPAX-js",
-        "category": "anime_kids"
-      },
-      {
-        "title": "썬더일레븐 GO 갤럭시 오프닝",
-        "youtubeId": "zwyZjn40hFQ",
         "category": "anime_kids"
       },
       {
@@ -5012,6 +5002,16 @@
       {
         "title": "구슬동자 오프닝",
         "youtubeId": "z2TmLgd9C90",
+        "category": "anime_kids"
+      },
+      {
+        "title": "감동공유 | 썬더일레븐 GO 크로노스톤 op",
+        "youtubeId": "tZ3NT4UnaE4",
+        "category": "anime_kids"
+      },
+      {
+        "title": "반드시 이길 거야 | 썬더일레븐 GO 갤럭시 오프닝",
+        "youtubeId": "zwyZjn40hFQ",
         "category": "anime_kids"
       }
     ],
@@ -5256,7 +5256,7 @@
         "category": "anime_kids"
       },
       {
-        "title": "썬더일레븐 GO 오프닝",
+        "title": "하늘까지 닿아라 | 썬더일레븐 GO 오프닝",
         "youtubeId": "AIgHKjo2lEM",
         "category": "anime_kids"
       }
