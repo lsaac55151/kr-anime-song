@@ -1486,11 +1486,6 @@
     "description": "",
     "songs": [
       {
-        "title": "傷つく誰かの心を守ることができたなら / 藍璃かんな Cover",
-        "youtubeId": "IRvrDhVYXHQ",
-        "category": "cover"
-      },
-      {
         "title": "怪獣の花唄 (Vaundy) / 藍璃かんな Cover",
         "youtubeId": "of5l0st1kA8",
         "category": "cover"
@@ -1529,6 +1524,11 @@
         "title": "Frozen Eclipse | 에픽세븐 x 아이리 칸나(Airi Kanna)",
         "youtubeId": "RbQv87f4mvg",
         "category": "game"
+      },
+      {
+        "title": "애타는 한 가슴을 달랠 수 있다면/아이리 칸나 Cover",
+        "youtubeId": "IRvrDhVYXHQ",
+        "category": "cover"
       }
     ],
     "theme": "blue",
