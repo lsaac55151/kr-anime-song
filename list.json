@@ -1940,6 +1940,11 @@
         "title": "Catch You Catch Me | 카드캡터 체리 재더빙 1기 OP",
         "youtubeId": "KHxBqH5sUR8",
         "category": "anime_sub"
+      },
+      {
+        "title": "프로토콜 슈퍼노바 MV |  아리스 & 케이 [블루 아카이브]",
+        "youtubeId": "Hx4XWoKSoQg",
+        "category": "game"
       }
     ],
     "theme": "blue",
@@ -3511,6 +3516,13 @@
     ],
     "theme": "blue",
     "date": 1777968455648
+  },
+  {
+    "id": 1777909950812,
+    "name": "이채원(성우)",
+    "songs": [],
+    "theme": "blue",
+    "date": 1777909950812
   },
   {
     "id": 1777909820322,
