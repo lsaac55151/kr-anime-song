@@ -2654,7 +2654,7 @@
   },
   {
     "id": 1778082623074,
-    "name": "이세계 아이돌",
+    "name": "이세계 아이돌(이세돌)",
     "description": "",
     "songs": [
       {
@@ -2675,6 +2675,11 @@
       {
         "title": "KIDDING (키딩) | 이세계아이돌 (ISEGYE IDOL) Official MV",
         "youtubeId": "rDFUl2mHIW4",
+        "category": "etc"
+      },
+      {
+        "title": "ISEGYE IDOL (이세계아이돌) ‘Smile For You’ Special Clip",
+        "youtubeId": "8IY44RZHyw8",
         "category": "etc"
       }
     ],
