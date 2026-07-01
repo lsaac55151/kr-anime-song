@@ -5301,11 +5301,6 @@
     "description": "",
     "songs": [
       {
-        "title": "SHOW DOWN(도굴왕 OP)",
-        "youtubeId": "_7WN5-2HPj0",
-        "category": "anime_sub"
-      },
-      {
         "title": "QWER '고민중독' Official MV",
         "youtubeId": "ImuWa3SJulY"
       },
@@ -5341,7 +5336,12 @@
       },
       {
         "title": "To Be Continued | 도굴왕 ED",
-        "youtubeId": "6f702O_nnq8",
+        "youtubeId": "_4TDl0RPfnE",
+        "category": "anime_sub"
+      },
+      {
+        "title": "SHOW DOWN(도굴왕 OP)",
+        "youtubeId": "PVN8Pj_Ykyo",
         "category": "anime_sub"
       }
     ],
